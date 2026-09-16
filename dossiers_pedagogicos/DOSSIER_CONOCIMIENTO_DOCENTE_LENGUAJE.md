@@ -22,3 +22,4 @@ Resumen de saberes disciplinares y didácticos esenciales para la enseñanza de 
 ## 3. Didáctica de la Escritura
 - **Escritura como Proceso Cognitivo (Hayes & Flower)**: Planificación reflexiva, textualización, revisión recursiva y edición final.
 - **Coherencia y Cohesión**: Mecanismos de correferencia (pronominalización, sinonimia, hiperonimia) y conectores discursivos lógicos.
+

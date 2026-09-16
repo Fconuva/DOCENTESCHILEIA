@@ -27,3 +27,4 @@ Resumen de saberes matemáticos y didácticos exigidos para la enseñanza secund
 ## 4. Didáctica de la Matemática
 - **Uso de Múltiples Representaciones**: Conexión entre la representación verbal, gráfica, tabular y algebraica de un mismo concepto.
 - **Gestión del Error en el Aula**: Descomponer el procedimiento erróneo del alumno para identificar si la falla proviene de un concepto previo mal consolidado o de un cálculo mecánico.
+

@@ -27,3 +27,4 @@ Este dossier resume el conocimiento conceptual y didáctico fundamental exigido 
 - **Nociones Temporales**: Secuencia cronológica (antes, durante, después), simultaneidad, cambio y continuidad en la vida cotidiana y familiar.
 - **Alfabetización Espacial**: Lectura de planos, mapas, puntos cardinales y escalas simples.
 - **Formación Ciudadana**: Valoración de la vida en comunidad, respeto por las normas acordadas y resolución pacífica de conflictos escolares.
+

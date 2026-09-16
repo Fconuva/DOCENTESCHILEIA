@@ -29,3 +29,4 @@ La colaboración entre el docente de aula regular y el educador(a) diferencial o
 - **TEL (Trastorno del Lenguaje)**: Apoyo visual constante, preguntas directas sin dobles sentidos, anticipación de vocabulario y modelado articulatorio/sintáctico.
 - **TEA (Espectro Autista)**: Anticipación con pictogramas (agendas visuales), reducción de estímulos distractores, instrucciones paso a paso explícitas y espacios de autorregulación emocional.
 - **DI (Discapacidad Intelectual)**: Enfoque funcional, uso de material concreto, descomposición de tareas en pasos mínimos y formatos binarios (A y B) con imágenes de apoyo.
+

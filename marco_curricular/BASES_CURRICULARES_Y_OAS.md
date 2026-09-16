@@ -92,3 +92,4 @@ Organizada en torno a **35 Especialidades** agrupadas en sectores económicos cl
 2. **Diseño Universal para el Aprendizaje (DUA)**: Diversificación planificada desde el origen (múltiples medios de representación, expresión y compromiso).
 3. **Plan de Adecuación Curricular Individual (PACI)**: Para estudiantes con Necesidades Educativas Permanentes (NEEP), ajustando la profundidad conceptual a través de la priorización o graduación de objetivos.
 4. **Plan de Apoyo Individual (PAI)**: Para estudiantes con Necesidades Educativas Transitorias (NEET), facilitando medios de acceso sin alterar el objetivo de aprendizaje.
+

@@ -116,3 +116,4 @@ El ejercicio docente se organiza en torno a cuatro dominios interconectados que 
   - Mantiene comunicación fluida y formativa con padres y apoderados sobre el desarrollo integral del estudiante.
 - **Criterio D.4: Propicia y cuida el desarrollo integral de la comunidad educativa y el proyecto institucional.**
   - Se compromete con el Proyecto Educativo Institucional (PEI) y la formación ciudadana democrática.
+
