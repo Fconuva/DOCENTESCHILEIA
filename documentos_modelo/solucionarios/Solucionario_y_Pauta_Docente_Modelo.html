@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pauta de Corrección y Solucionario Docente — Guía N° [X] | Docentes Chile IA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        @page {
+            size: A4 portrait;
+            margin: 8mm 10mm;
+        }
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            font-size: 12.5px;
+            line-height: 1.5;
+            color: #1e293b;
+            background: #f8fafc;
+        }
+        .sheet {
+            width: 210mm;
+            min-height: 297mm;
+            margin: 0 auto 10mm;
+            padding: 10mm 12mm;
+            background: #ffffff;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .header-tbl {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 6px;
+        }
+        .header-tbl td {
+            vertical-align: middle;
+            padding: 0;
+        }
+        .logo-box {
+            width: 54px;
+            text-align: center;
+        }
+        .inst-logo-svg {
+            width: 50px;
+            height: 50px;
+            display: block;
+            margin: 0 auto;
+        }
+        .inst-info {
+            text-align: center;
+            padding: 0 8px;
+        }
+        .inst-title {
+            font-size: 11pt;
+            font-weight: 800;
+            color: #1a3a6b;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+        }
+        .inst-sedes {
+            font-size: 7pt;
+            color: #475569;
+            line-height: 1.35;
+            margin: 2px 0;
+        }
+        .inst-sub {
+            font-size: 8pt;
+            font-weight: 700;
+            color: #1e293b;
+            border-top: 1px solid #cbd5e1;
+            padding-top: 2px;
+            margin-top: 2px;
+        }
+        .header-line {
+            border: 0;
+            border-top: 2.5px solid #1a3a6b;
+            margin: 4px 0 8px;
+        }
+
+        .doc-tag {
+            background: #1e293b;
+            color: #ffffff;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 8pt;
+            font-weight: 800;
+            display: inline-block;
+            margin-bottom: 8px;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+        }
+
+        .spec-tbl {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 8pt;
+            margin-bottom: 14px;
+        }
+        .spec-tbl th {
+            background: #1a3a6b;
+            color: #ffffff;
+            font-weight: 700;
+            padding: 6px 8px;
+            text-align: left;
+            border: 1px solid #0f172a;
+        }
+        .spec-tbl td {
+            padding: 6px 8px;
+            border: 1px solid #cbd5e1;
+            vertical-align: top;
+        }
+        .spec-tbl tr:nth-child(even) {
+            background: #f8fafc;
+        }
+
+        .badge {
+            font-size: 7pt;
+            font-weight: 700;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        .s-loc { background: #dbeafe; color: #1d4ed8; }
+        .s-int { background: #fce7f3; color: #be185d; }
+        .s-eva { background: #ede9fe; color: #7c3aed; }
+
+        .key-badge {
+            background: #dcfce7;
+            color: #166534;
+            font-weight: 800;
+            font-size: 9pt;
+            padding: 2px 6px;
+            border-radius: 4px;
+            border: 1px solid #86efac;
+            display: inline-block;
+        }
+
+        .item-card {
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            padding: 10px 12px;
+            margin-bottom: 12px;
+            background: #ffffff;
+            break-inside: avoid;
+            page-break-inside: avoid;
+        }
+        .item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #f1f5f9;
+            padding-bottom: 6px;
+            margin-bottom: 6px;
+        }
+        .item-num {
+            font-size: 10pt;
+            font-weight: 800;
+            color: #1a3a6b;
+        }
+        .simple-rephrase {
+            background: #fefce8;
+            border-left: 3px solid #eab308;
+            padding: 4px 8px;
+            font-size: 8pt;
+            color: #854d0e;
+            margin-bottom: 6px;
+        }
+        .text-evidence {
+            font-family: 'Georgia', serif;
+            font-style: italic;
+            color: #334155;
+            background: #f8fafc;
+            border-left: 3px solid #94a3b8;
+            padding: 4px 8px;
+            font-size: 8pt;
+            margin-bottom: 6px;
+        }
+        .distractors-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 4px;
+            font-size: 7.8pt;
+            margin-top: 6px;
+        }
+        .dist-item {
+            background: #fdf2f2;
+            border-left: 3px solid #f87171;
+            padding: 3px 6px;
+            color: #991b1b;
+        }
+        .dist-item strong {
+            color: #7f1d1d;
+        }
+
+        .rubric-box {
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            padding: 10px 12px;
+            margin-top: 14px;
+            break-inside: avoid;
+            page-break-inside: avoid;
+        }
+        .rubric-tbl {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 8pt;
+            margin-top: 6px;
+        }
+        .rubric-tbl th, .rubric-tbl td {
+            padding: 5px 8px;
+            border: 1px solid #cbd5e1;
+            text-align: left;
+        }
+        .rubric-tbl th {
+            background: #e2e8f0;
+            color: #334155;
+            font-weight: 700;
+        }
+
+        @media print {
+            body { background: #ffffff; }
+            .sheet { width: 100%; margin: 0; padding: 0; box-shadow: none; }
+            .item-card, .rubric-box { break-inside: avoid; page-break-inside: avoid; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="sheet">
+    <!-- MEMBRETE INSTITUCIONAL -->
+    <table class="header-tbl">
+        <tr>
+            <td class="logo-box">
+                <svg class="inst-logo-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="64" height="64" rx="12" fill="#1a3a6b"/>
+                    <path d="M32 12L16 22V44L32 54L48 44V22L32 12Z" stroke="#ffffff" stroke-width="3" fill="#2563eb" fill-opacity="0.3"/>
+                    <path d="M32 20V46M20 28L44 38M44 28L20 38" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+                </svg>
+            </td>
+            <td class="inst-info">
+                <div class="inst-title">[NOMBRE DEL ESTABLECIMIENTO EDUCATIVO]</div>
+                <div class="inst-sedes">
+                    Comuna / Ciudad · Región · Sistema Escolar Chileno<br>
+                    Pauta Docente y Solucionario Técnico &nbsp;·&nbsp; <strong>AÑO ESCOLAR 2026</strong>
+                </div>
+                <div class="inst-sub">
+                    [Asignatura] &nbsp;·&nbsp; [Nivel / Curso] &nbsp;·&nbsp; Profesor(a): [Nombre del Docente]
+                </div>
+            </td>
+            <td class="logo-box">
+                <svg class="inst-logo-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="64" height="64" rx="12" fill="#0f766e"/>
+                    <circle cx="32" cy="32" r="18" stroke="#ffffff" stroke-width="3" fill="#14b8a6" fill-opacity="0.3"/>
+                    <path d="M26 32L30 36L38 28" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </td>
+        </tr>
+    </table>
+    <hr class="header-line">
+
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+        <span class="doc-tag">🔒 Documento de Gestión y Calificación Docente</span>
+        <span style="font-size: 8pt; color: #64748b;">Escala de Exigencia: <strong>60%</strong> &nbsp;|&nbsp; Puntaje Total: <strong>[X] pts</strong></span>
+    </div>
+
+    <!-- TABLA DE ESPECIFICACIONES -->
+    <h3 style="font-size: 9.5pt; color: #1a3a6b; margin-bottom: 6px;">1. Matriz Curricular y Tabla de Especificaciones</h3>
+    <table class="spec-tbl">
+        <thead>
+            <tr>
+                <th style="width: 6%;">Ítem</th>
+                <th style="width: 14%;">OA Curricular</th>
+                <th style="width: 16%;">Habilidad DEMRE</th>
+                <th style="width: 26%;">Tarea Lectora Oficial</th>
+                <th style="width: 10%;">Clave</th>
+                <th style="width: 8%;">Pts</th>
+                <th style="width: 20%;">Falla Técnica Distractores</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>1</strong></td>
+                <td>OA ministerial</td>
+                <td><span class="badge s-loc">Localizar</span></td>
+                <td>Identificar información explícita</td>
+                <td><span class="key-badge">C</span></td>
+                <td>1 pt</td>
+                <td>A: Cambio foco · B: Sobregeneralización · D: Literalización</td>
+            </tr>
+            <tr>
+                <td><strong>2</strong></td>
+                <td>OA ministerial</td>
+                <td><span class="badge s-int">Interpretar</span></td>
+                <td>Inferir propósito comunicativo</td>
+                <td><span class="key-badge">A</span></td>
+                <td>1 pt</td>
+                <td>B: Invención · C: Contradicción · D: Causa secundaria</td>
+            </tr>
+            <tr>
+                <td><strong>3</strong></td>
+                <td>OA ministerial</td>
+                <td><span class="badge s-eva">Evaluar</span></td>
+                <td>Evaluar validez de argumentos</td>
+                <td><em>Desarrollo</em></td>
+                <td>3 pts</td>
+                <td>Rúbrica de tercios (0/3, 1/3, 2/3, 3/3)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- JUSTIFICACIÓN PEDAGÓGICA -->
+    <h3 style="font-size: 9.5pt; color: #1a3a6b; margin-bottom: 6px;">2. Justificación de Claves y Desglose de Distractores</h3>
+
+    <div class="item-card">
+        <div class="item-header">
+            <span class="item-num">Pregunta 1 &nbsp;|&nbsp; Clave: <span class="key-badge">C</span></span>
+            <span class="badge s-loc">Localizar · Tarea (a)</span>
+        </div>
+        <div class="simple-rephrase">
+            📌 <strong>Reformulación simple:</strong> ¿Qué hecho puntual menciona el autor en el párrafo 1?
+        </div>
+        <div class="text-evidence">
+            <strong>Evidencia textual:</strong> Párrafo 1, línea 3: «...los datos reflejan una variación directa...»
+        </div>
+        <div class="distractors-grid">
+            <div class="dist-item"><strong>A (Cambio de foco):</strong> Alude a un tema secundario ajeno a la pregunta.</div>
+            <div class="dist-item"><strong>B (Sobregeneralización):</strong> Utiliza cuantificadores absolutos sin base textual.</div>
+            <div class="dist-item"><strong>D (Literalización forzada):</strong> Copia palabras textuales de una zona no pertinente.</div>
+        </div>
+    </div>
+
+    <!-- PROTOCOLO DE DESARROLLO (TERCIOS) -->
+    <div class="rubric-box">
+        <h4 style="font-size: 9pt; color: #1a3a6b;">3. Protocolo de Corrección por Tercios (Preguntas Abiertas)</h4>
+        <p style="font-size: 7.8pt; color: #475569; margin-top: 2px;">
+            Se aplica match semántico flexible: no se penaliza ortografía literal ni caligrafía si el sentido central es comprensible.
+        </p>
+        <table class="rubric-tbl">
+            <thead>
+                <tr>
+                    <th style="width: 15%;">Nivel de Logro</th>
+                    <th style="width: 12%;">Puntaje</th>
+                    <th>Criterio de Evaluación y Evidencia Requerida</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Logrado Completo</strong></td>
+                    <td><strong>3 / 3 pts</strong></td>
+                    <td>Identifica con precisión el elemento solicitado, fundamenta con evidencia textual y elabora un juicio valorativo o explicación completa.</td>
+                </tr>
+                <tr>
+                    <td><strong>Logrado Parcial</strong></td>
+                    <td><strong>2 / 3 pts</strong></td>
+                    <td>Reconoce la idea principal pero la fundamentación es incompleta o carece de cita de apoyo.</td>
+                </tr>
+                <tr>
+                    <td><strong>Insuficiente</strong></td>
+                    <td><strong>1 / 3 pts</strong></td>
+                    <td>Menciona un concepto aislado o rescata una frase suelta sin responder cabalmente a lo solicitado.</td>
+                </tr>
+                <tr>
+                    <td><strong>No Observado</strong></td>
+                    <td><strong>0 / 3 pts</strong></td>
+                    <td>Respuesta en blanco, ilegible o incongruencia total.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+</body>
+</html>

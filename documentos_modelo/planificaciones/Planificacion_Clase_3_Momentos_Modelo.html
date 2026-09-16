@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planificación Didáctica de Clase en 3 Momentos | Docentes Chile IA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        @page {
+            size: A4 portrait;
+            margin: 8mm 10mm;
+        }
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            font-size: 12.5px;
+            line-height: 1.5;
+            color: #1e293b;
+            background: #f8fafc;
+        }
+        .sheet {
+            width: 210mm;
+            min-height: 297mm;
+            margin: 0 auto 10mm;
+            padding: 10mm 12mm;
+            background: #ffffff;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .header-tbl {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 6px;
+        }
+        .header-tbl td {
+            vertical-align: middle;
+            padding: 0;
+        }
+        .logo-box {
+            width: 54px;
+            text-align: center;
+        }
+        .inst-logo-svg {
+            width: 50px;
+            height: 50px;
+            display: block;
+            margin: 0 auto;
+        }
+        .inst-info {
+            text-align: center;
+            padding: 0 8px;
+        }
+        .inst-title {
+            font-size: 11pt;
+            font-weight: 800;
+            color: #1a3a6b;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+        }
+        .inst-sedes {
+            font-size: 7pt;
+            color: #475569;
+            line-height: 1.35;
+            margin: 2px 0;
+        }
+        .inst-sub {
+            font-size: 8pt;
+            font-weight: 700;
+            color: #1e293b;
+            border-top: 1px solid #cbd5e1;
+            padding-top: 2px;
+            margin-top: 2px;
+        }
+        .header-line {
+            border: 0;
+            border-top: 2.5px solid #1a3a6b;
+            margin: 4px 0 8px;
+        }
+
+        .meta-tbl {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 8.5pt;
+            margin-bottom: 10px;
+            border: 1px solid #cbd5e1;
+        }
+        .meta-tbl td {
+            padding: 5px 8px;
+            border: 1px solid #cbd5e1;
+        }
+        .meta-tbl strong {
+            color: #1a3a6b;
+        }
+
+        .obj-box {
+            background: #eff6ff;
+            border-left: 4px solid #2563eb;
+            padding: 8px 12px;
+            font-size: 9pt;
+            margin-bottom: 10px;
+            color: #1e3a8a;
+            line-height: 1.5;
+        }
+
+        .moment-card {
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            background: #ffffff;
+            break-inside: avoid;
+            page-break-inside: avoid;
+        }
+        .moment-header {
+            background: #f1f5f9;
+            padding: 6px 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #e2e8f0;
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+        }
+        .moment-title {
+            font-weight: 800;
+            font-size: 8.5pt;
+            color: #1e293b;
+            text-transform: uppercase;
+        }
+        .moment-time {
+            background: #1a3a6b;
+            color: #ffffff;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 7.5pt;
+            font-weight: 700;
+        }
+        .moment-content {
+            padding: 8px 12px;
+            font-size: 8.5pt;
+            line-height: 1.5;
+            color: #334155;
+        }
+        .moment-content ul {
+            margin-left: 16px;
+            margin-top: 4px;
+        }
+        .moment-content li {
+            margin-bottom: 3px;
+        }
+
+        .dua-box {
+            background: #fdf4ff;
+            border: 1px solid #f0abfc;
+            border-left: 4px solid #c026d3;
+            border-radius: 6px;
+            padding: 8px 12px;
+            margin-top: 10px;
+            font-size: 8pt;
+            color: #701a75;
+            break-inside: avoid;
+            page-break-inside: avoid;
+        }
+
+        @media print {
+            body { background: #ffffff; }
+            .sheet { width: 100%; margin: 0; padding: 0; box-shadow: none; }
+            .moment-card, .dua-box { break-inside: avoid; page-break-inside: avoid; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="sheet">
+    <!-- MEMBRETE INSTITUCIONAL -->
+    <table class="header-tbl">
+        <tr>
+            <td class="logo-box">
+                <svg class="inst-logo-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="64" height="64" rx="12" fill="#1a3a6b"/>
+                    <path d="M32 12L16 22V44L32 54L48 44V22L32 12Z" stroke="#ffffff" stroke-width="3" fill="#2563eb" fill-opacity="0.3"/>
+                    <path d="M32 20V46M20 28L44 38M44 28L20 38" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+                </svg>
+            </td>
+            <td class="inst-info">
+                <div class="inst-title">[NOMBRE DEL ESTABLECIMIENTO EDUCATIVO]</div>
+                <div class="inst-sedes">
+                    Comuna / Ciudad · Región · Sistema Escolar Chileno<br>
+                    Planificación Didáctica de Aula &nbsp;·&nbsp; <strong>AÑO ESCOLAR 2026</strong>
+                </div>
+                <div class="inst-sub">
+                    [Asignatura] &nbsp;·&nbsp; [Nivel / Curso] &nbsp;·&nbsp; Profesor(a): [Nombre del Docente]
+                </div>
+            </td>
+            <td class="logo-box">
+                <svg class="inst-logo-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="64" height="64" rx="12" fill="#0f766e"/>
+                    <circle cx="32" cy="32" r="18" stroke="#ffffff" stroke-width="3" fill="#14b8a6" fill-opacity="0.3"/>
+                    <path d="M26 32L30 36L38 28" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </td>
+        </tr>
+    </table>
+    <hr class="header-line">
+
+    <!-- METADATOS DE LA CLASE -->
+    <table class="meta-tbl">
+        <tr>
+            <td style="width: 35%;"><strong>Asignatura:</strong> [Asignatura]</td>
+            <td style="width: 35%;"><strong>Nivel / Curso:</strong> [Curso / Nivel]</td>
+            <td style="width: 30%;"><strong>Duración:</strong> 90 minutos (Bloque doble)</td>
+        </tr>
+        <tr>
+            <td><strong>Unidad Curricular:</strong> [Unidad X: Título]</td>
+            <td><strong>OA Mineduc:</strong> [Código OA oficial]</td>
+            <td><strong>Fecha / Semana:</strong> Semana [N°] — ___/___/2026</td>
+        </tr>
+    </table>
+
+    <!-- OBJETIVO DE CLASE CANÓNICO -->
+    <div class="obj-box">
+        <strong>🎯 Objetivo de la Clase:</strong><br>
+        [VERBO EN INFINITIVO: ej. Analizar] [CONTENIDO: el efecto persuasivo de los recursos retóricos en textos argumentativos], [CONDICIÓN: mediante la lectura guiada y la resolución de reactivos modelados en parejas], [HABILIDAD TRANSVERSAL: desarrollando el pensamiento crítico y la fundamentación rigurosa].
+    </div>
+
+    <!-- MOMENTO 1: INICIO -->
+    <div class="moment-card">
+        <div class="moment-header">
+            <span class="moment-title">1. Inicio de la Clase (Activación y Enfoque)</span>
+            <span class="moment-time">15 min</span>
+        </div>
+        <div class="moment-content">
+            <ul>
+                <li><strong>Saludo pedagógico y encuadre:</strong> El docente presenta el objetivo de la clase proyectado en la pizarra y solicita a un estudiante su lectura en voz alta.</li>
+                <li><strong>Activación de conocimientos previos:</strong> Pregunta detonante: <em>«¿Cómo podemos distinguir si una afirmación en redes sociales es un hecho verificado o una opinión interesada?»</em></li>
+                <li><strong>Sentido formativo:</strong> Se explicita que la habilidad de la clase es indispensable para la vida ciudadana y para la evaluación PAES/SIMCE.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- MOMENTO 2: DESARROLLO -->
+    <div class="moment-card">
+        <div class="moment-header">
+            <span class="moment-title">2. Desarrollo de la Clase (Modelado y Aplicación Práctica)</span>
+            <span class="moment-time">60 min</span>
+        </div>
+        <div class="moment-content">
+            <ul>
+                <li><strong>Modelado Docente ("ATENCIÓN", 15 min):</strong> El docente proyecta un texto muestra y modela en voz alta los 3 pasos de resolución: 1) Localizar la tesis, 2) Interpretar la intención implícita, y 3) Descartar distractores técnicos comunes.</li>
+                <li><strong>Trabajo en Guía de Aprendizaje (35 min):</strong> Distribución de guías de trabajo (Regular, Adecuación de Acceso para estudiantes NEET y Adecuación Significativa para estudiantes NEEP).</li>
+                <li><strong>Monitoreo activo de aula (10 min):</strong> El profesor recorre el aula brindando andamiaje focalizado y aclarando dudas de procedimiento.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- MOMENTO 3: CIERRE -->
+    <div class="moment-card">
+        <div class="moment-header">
+            <span class="moment-title">3. Cierre de la Clase (Metacognición y Evaluación Formativa)</span>
+            <span class="moment-time">15 min</span>
+        </div>
+        <div class="moment-content">
+            <ul>
+                <li><strong>Socialización plenaria:</strong> Se revisa la pregunta de mayor complejidad cognitiva invitando a los estudiantes a fundamentar por qué descartaron los distractores.</li>
+                <li><strong>Ticket de Salida:</strong> <em>«En una frase, explica qué pista textual te permitió identificar el propósito del autor hoy».</em></li>
+                <li><strong>Cierre formativo:</strong> Registro de participación y firma de cierre de bloque.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- DIVERSIFICACIÓN DUA (PIE) -->
+    <div class="dua-box">
+        <strong>♿ Estrategias de Diversificación e Inclusión DUA (Decreto 83):</strong><br>
+        • <strong>Adecuación de Acceso (PAI):</strong> Guía con tamaño de letra aumentado, glosario lateral de términos y renglones de respuesta profundos.<br>
+        • <strong>Adecuación Significativa (PACI):</strong> Guía con textos condensados, marcas de color visuales y opciones binarias simplificadas (A y B).
+    </div>
+
+</div>
+
+</body>
+</html>

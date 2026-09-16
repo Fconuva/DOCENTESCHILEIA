@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía de Aprendizaje N° [X] — [TÍTULO] | Docentes Chile IA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <style>
+        @page {
+            size: A4 portrait;
+            margin: 7mm 8mm;
+        }
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            font-size: 13px;
+            line-height: 1.5;
+            color: #1e293b;
+            background: #f8fafc;
+        }
+        .sheet {
+            width: 210mm;
+            min-height: 297mm;
+            margin: 0 auto 10mm;
+            padding: 10mm 12mm;
+            background: #ffffff;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        /* ── MEMBRETE INSTITUCIONAL ADAPTABLE ── */
+        .header-tbl {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 6px;
+        }
+        .header-tbl td {
+            vertical-align: middle;
+            padding: 0;
+        }
+        .logo-box {
+            width: 54px;
+            text-align: center;
+        }
+        .inst-logo-svg {
+            width: 50px;
+            height: 50px;
+            display: block;
+            margin: 0 auto;
+        }
+        .inst-info {
+            text-align: center;
+            padding: 0 8px;
+        }
+        .inst-title {
+            font-size: 11pt;
+            font-weight: 800;
+            color: #1a3a6b;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+        }
+        .inst-sedes {
+            font-size: 7pt;
+            color: #475569;
+            line-height: 1.35;
+            margin: 2px 0;
+        }
+        .inst-sub {
+            font-size: 8pt;
+            font-weight: 700;
+            color: #1e293b;
+            border-top: 1px solid #cbd5e1;
+            padding-top: 2px;
+            margin-top: 2px;
+        }
+        .header-line {
+            border: 0;
+            border-top: 2.5px solid #1a3a6b;
+            margin: 4px 0 8px;
+        }
+
+        /* ── DATOS DEL ESTUDIANTE Y EVALUACIÓN ── */
+        .student-tbl {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 8.5pt;
+            margin-bottom: 8px;
+            border: 1px solid #cbd5e1;
+            background: #f8fafc;
+        }
+        .student-tbl td {
+            padding: 5px 8px;
+            border: 1px solid #cbd5e1;
+            vertical-align: middle;
+        }
+        .student-tbl strong {
+            color: #1e293b;
+            font-weight: 600;
+        }
+
+        /* ── METABOX Y OBJETIVOS ── */
+        .meta-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 6px;
+            margin-bottom: 8px;
+        }
+        .meta-card {
+            background: #f1f5f9;
+            border: 1px solid #e2e8f0;
+            border-radius: 4px;
+            padding: 5px 8px;
+            font-size: 8pt;
+            color: #334155;
+        }
+        .meta-card strong {
+            color: #1a3a6b;
+            display: block;
+            font-size: 7.5pt;
+            text-transform: uppercase;
+        }
+        .obj-box {
+            background: #eff6ff;
+            border-left: 4px solid #2563eb;
+            padding: 6px 10px;
+            font-size: 8.5pt;
+            margin-bottom: 6px;
+            color: #1e3a8a;
+            line-height: 1.45;
+        }
+        .oa-box {
+            background: #fdf2f8;
+            border-left: 4px solid #db2777;
+            padding: 5px 10px;
+            font-size: 8pt;
+            margin-bottom: 8px;
+            color: #831843;
+        }
+        .instructions-box {
+            background: #fafaf9;
+            border: 1px dashed #cbd5e1;
+            border-radius: 4px;
+            padding: 6px 10px;
+            font-size: 8pt;
+            color: #475569;
+            margin-bottom: 10px;
+        }
+
+        /* ── TEXTOS FUENTE (MERRIWEATHER) ── */
+        .text-container {
+            background: #ffffff;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            padding: 10px 14px;
+            margin-bottom: 12px;
+        }
+        .text-header {
+            margin-bottom: 8px;
+            border-bottom: 1px solid #e2e8f0;
+            padding-bottom: 4px;
+        }
+        .text-genre {
+            font-size: 7.5pt;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #64748b;
+            font-weight: 700;
+        }
+        .text-title {
+            font-size: 11pt;
+            font-weight: 700;
+            color: #0f172a;
+            margin: 2px 0;
+        }
+        .text-body {
+            font-family: 'Merriweather', Georgia, serif;
+            font-size: 9pt;
+            line-height: 1.68;
+            color: #1e293b;
+            text-align: justify;
+        }
+        .text-body p {
+            margin-bottom: 8px;
+            text-indent: 1.2em;
+        }
+        .parr {
+            display: inline-block;
+            font-family: 'Inter', sans-serif;
+            font-size: 7pt;
+            font-weight: 700;
+            color: #64748b;
+            background: #f1f5f9;
+            border-radius: 3px;
+            padding: 0 4px;
+            margin-right: 4px;
+            vertical-align: 1px;
+            text-indent: 0;
+        }
+        .text-source {
+            font-size: 7.5pt;
+            color: #64748b;
+            border-top: 1px dashed #e2e8f0;
+            padding-top: 4px;
+            margin-top: 8px;
+            text-align: right;
+            font-family: 'Inter', sans-serif;
+        }
+
+        /* ── MODELADO DIDÁCTICO ("ATENCIÓN") ── */
+        .modeled-box {
+            background: #fffbeb;
+            border: 1px solid #fde68a;
+            border-left: 4px solid #d97706;
+            border-radius: 4px;
+            padding: 8px 12px;
+            margin-bottom: 12px;
+            font-size: 8.5pt;
+        }
+        .modeled-tag {
+            font-weight: 800;
+            color: #b45309;
+            font-size: 8pt;
+            text-transform: uppercase;
+            margin-bottom: 4px;
+        }
+
+        /* ── REACTIVOS DE SELECCIÓN MÚLTIPLE (DEMRE A-D) ── */
+        .question {
+            background: #ffffff;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            padding: 8px 12px;
+            margin-bottom: 10px;
+            break-inside: avoid;
+            page-break-inside: avoid;
+        }
+        .q-header {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 8px;
+            margin-bottom: 6px;
+        }
+        .q-title {
+            font-size: 9pt;
+            font-weight: 600;
+            color: #0f172a;
+            line-height: 1.4;
+        }
+        .q-num {
+            font-weight: 800;
+            color: #1a3a6b;
+            margin-right: 4px;
+        }
+        .badge {
+            font-size: 7pt;
+            font-weight: 700;
+            padding: 2px 6px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            white-space: nowrap;
+        }
+        .s-loc { background: #dbeafe; color: #1d4ed8; }
+        .s-int { background: #fce7f3; color: #be185d; }
+        .s-eva { background: #ede9fe; color: #7c3aed; }
+
+        .options-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            margin-top: 6px;
+        }
+        .opt {
+            display: flex;
+            align-items: flex-start;
+            gap: 6px;
+            padding: 4px 6px;
+            border-radius: 4px;
+            font-size: 8.5pt;
+            line-height: 1.35;
+            color: #334155;
+        }
+        .opt-let {
+            font-weight: 700;
+            color: #1a3a6b;
+            background: #f1f5f9;
+            border: 1px solid #cbd5e1;
+            border-radius: 3px;
+            width: 18px;
+            height: 18px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 7.5pt;
+            flex-shrink: 0;
+            margin-top: 1px;
+        }
+
+        /* ── LÍNEAS DE DESARROLLO ── */
+        .dev-lines {
+            margin-top: 8px;
+            display: flex;
+            flex-direction: column;
+            gap: 22px;
+            padding-bottom: 4px;
+        }
+        .ln {
+            border-bottom: 1px solid #94a3b8;
+            height: 0;
+            width: 100%;
+        }
+
+        @media print {
+            body { background: #ffffff; color: #000000; }
+            .sheet { width: 100%; margin: 0; padding: 0; box-shadow: none; page-break-after: always; }
+            .question { break-inside: avoid; page-break-inside: avoid; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="sheet">
+    <!-- MEMBRETE INSTITUCIONAL -->
+    <table class="header-tbl">
+        <tr>
+            <td class="logo-box">
+                <svg class="inst-logo-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="64" height="64" rx="12" fill="#1a3a6b"/>
+                    <path d="M32 12L16 22V44L32 54L48 44V22L32 12Z" stroke="#ffffff" stroke-width="3" fill="#2563eb" fill-opacity="0.3"/>
+                    <path d="M32 20V46M20 28L44 38M44 28L20 38" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+                </svg>
+            </td>
+            <td class="inst-info">
+                <div class="inst-title">[NOMBRE DEL ESTABLECIMIENTO EDUCATIVO]</div>
+                <div class="inst-sedes">
+                    Comuna / Ciudad · Región · Sistema Escolar Chileno<br>
+                    Departamento de Lenguaje / Ciencias / Matemática &nbsp;·&nbsp; <strong>AÑO ESCOLAR 2026</strong>
+                </div>
+                <div class="inst-sub">
+                    [Asignatura] &nbsp;·&nbsp; [Nivel / Curso] &nbsp;·&nbsp; Profesor(a): [Nombre del Docente]
+                </div>
+            </td>
+            <td class="logo-box">
+                <svg class="inst-logo-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="64" height="64" rx="12" fill="#0f766e"/>
+                    <circle cx="32" cy="32" r="18" stroke="#ffffff" stroke-width="3" fill="#14b8a6" fill-opacity="0.3"/>
+                    <path d="M26 32L30 36L38 28" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </td>
+        </tr>
+    </table>
+    <hr class="header-line">
+
+    <!-- DATOS DEL ESTUDIANTE Y EVALUACIÓN -->
+    <table class="student-tbl">
+        <tr>
+            <td style="width: 50%;"><strong>Nombre:</strong> __________________________________________________</td>
+            <td style="width: 18%;"><strong>Curso:</strong> [Curso / Nivel]</td>
+            <td style="width: 14%;"><strong>N° Lista:</strong> ___</td>
+            <td style="width: 18%;"><strong>Fecha:</strong> ___/___/2026</td>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>RUT:</strong> ____________________________</td>
+            <td><strong>Puntaje:</strong> ___ / [X] pts</td>
+            <td><strong>Nota / Logro:</strong> _______ (60%)</td>
+        </tr>
+    </table>
+
+    <!-- METADATOS DE LA GUÍA -->
+    <div class="meta-grid">
+        <div class="meta-card">
+            <strong>Unidad Curricular</strong>
+            [Unidad X: Título Oficial]
+        </div>
+        <div class="meta-card">
+            <strong>Plan Lector / Foco</strong>
+            [Habilidad o Lectura Clave]
+        </div>
+        <div class="meta-card">
+            <strong>Tiempo Estimado</strong>
+            [70 / 90 minutos]
+        </div>
+    </div>
+
+    <!-- OBJETIVO DE CLASE CANÓNICO -->
+    <div class="obj-box">
+        <strong>🎯 Objetivo de Aprendizaje:</strong>
+        [VERBO EN INFINITIVO: ej. Analizar] [CONTENIDO: las estrategias argumentativas y recursos persuasivos en textos periodísticos], [CONDICIÓN: mediante la lectura crítica guiada y el análisis comparativo de fuentes], [HABILIDAD TRANSVERSAL: desarrollando el pensamiento crítico y la fundamentación rigurosa].
+    </div>
+
+    <!-- OA MINEDUC Y HABILIDADES EVALUADAS -->
+    <div class="oa-box">
+        <strong>📌 Código Curricular:</strong> [OA ministerial] &nbsp;|&nbsp; <strong>Habilidades DEMRE:</strong> Localizar (información explícita), Interpretar y Relacionar (inferencias y relaciones), Evaluar (reflexión y postura crítica).
+    </div>
+
+    <!-- INSTRUCCIONES CLARAS -->
+    <div class="instructions-box">
+        <strong>📋 Instrucciones Generales:</strong>
+        1. Lee con atención los textos propuestos. Los párrafos están numerados para facilitar la localización de información.<br>
+        2. En las preguntas de selección múltiple, encierra en un círculo la alternativa correcta (A, B, C o D). Solo una es válida.<br>
+        3. En las preguntas de desarrollo, redacta tu respuesta con letra clara en los renglones designados, justificando con datos del texto.
+    </div>
+
+    <!-- TEXTO FUENTE -->
+    <div class="text-container">
+        <div class="text-header">
+            <span class="text-genre">[Género Discursivo · Contexto DEMRE]</span>
+            <h2 class="text-title">[Título del Texto de Lectura]</h2>
+        </div>
+        <div class="text-body">
+            <p><span class="parr">1</span> [Párrafo introductorio con planteamiento del tema o problema, asegurando densidad conceptual adecuada al nivel escolar].</p>
+            <p><span class="parr">2</span> [Párrafo de desarrollo donde se exponen argumentos, evidencias o ejemplos concretos].</p>
+            <p><span class="parr">3</span> [Párrafo de conclusión o síntesis que invite a la reflexión crítica del lector].</p>
+        </div>
+        <div class="text-source">
+            Fuente: [Referencia bibliográfica formal / Adaptado con fines formativos para Docentes Chile IA].
+        </div>
+    </div>
+
+    <!-- MODELADO DIDÁCTICO -->
+    <div class="modeled-box">
+        <div class="modeled-tag">💡 ATENCIÓN — Modelado de Razonamiento (Habilidad: Interpretar)</div>
+        <strong>Pregunta Muestra:</strong> ¿Cuál es el propósito del emisor en el párrafo 2?<br>
+        <strong>Paso 1 (Localizar):</strong> El autor presenta datos sobre el impacto ambiental.<br>
+        <strong>Paso 2 (Interpretar):</strong> Al contrastar las cifras con las metas oficiales, no busca solo informar, sino evidenciar el incumplimiento de los acuerdos.<br>
+        <strong>Conclusión:</strong> La opción correcta debe formular esta intención sin caer en sobregeneralizaciones.
+    </div>
+
+    <!-- REACTIVOS DEMRE (4 OPCIONES A-D) -->
+    <div class="question">
+        <div class="q-header">
+            <div class="q-title"><span class="q-num">1.</span> Según el párrafo 1, ¿cuál es el hecho principal planteado por el emisor?</div>
+            <span class="badge s-loc">Localizar</span>
+        </div>
+        <ul class="options-list">
+            <li class="opt"><span class="opt-let">A</span> [Distractor con cambio de foco respecto a la pregunta formulada].</li>
+            <li class="opt"><span class="opt-let">B</span> [Distractor con sobregeneralización o afirmación absoluta].</li>
+            <li class="opt"><span class="opt-let">C</span> [Clave correcta: información directa extraída del texto].</li>
+            <li class="opt"><span class="opt-let">D</span> [Distractor con literalización forzada que no responde al enunciado].</li>
+        </ul>
+    </div>
+
+    <div class="question">
+        <div class="q-header">
+            <div class="q-title"><span class="q-num">2.</span> A partir de la lectura del párrafo 2, ¿qué se infiere respecto al problema planteado?</div>
+            <span class="badge s-int">Interpretar</span>
+        </div>
+        <ul class="options-list">
+            <li class="opt"><span class="opt-let">A</span> [Clave correcta: inferencia lógica basada en evidencias del texto].</li>
+            <li class="opt"><span class="opt-let">B</span> [Distractor con invención plausible de conocimiento común].</li>
+            <li class="opt"><span class="opt-let">C</span> [Distractor contradictorio con la postura del emisor].</li>
+            <li class="opt"><span class="opt-let">D</span> [Distractor que confunde una causa secundaria con el efecto principal].</li>
+        </ul>
+    </div>
+
+    <!-- PREGUNTA DE DESARROLLO -->
+    <div class="question">
+        <div class="q-header">
+            <div class="q-title"><span class="q-num">3.</span> Evalúa la solidez del argumento presentado en el párrafo 3. Fundamenta tu postura personal utilizando al menos una evidencia del texto.</div>
+            <span class="badge s-eva">Evaluar</span>
+        </div>
+        <div class="dev-lines">
+            <div class="ln"></div>
+            <div class="ln"></div>
+            <div class="ln"></div>
+            <div class="ln"></div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>

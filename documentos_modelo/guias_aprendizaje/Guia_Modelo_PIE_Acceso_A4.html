@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía de Aprendizaje N° [X] (Adecuación de Acceso - DUA / PIE) | Docentes Chile IA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <style>
+        @page {
+            size: A4 portrait;
+            margin: 7mm 8mm;
+        }
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            font-size: 13.5px;
+            line-height: 1.6;
+            color: #0f172a;
+            background: #f8fafc;
+        }
+        .sheet {
+            width: 210mm;
+            min-height: 297mm;
+            margin: 0 auto 10mm;
+            padding: 10mm 12mm;
+            background: #ffffff;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        /* ── MEMBRETE INSTITUCIONAL ADAPTABLE ── */
+        .header-tbl {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 6px;
+        }
+        .header-tbl td {
+            vertical-align: middle;
+            padding: 0;
+        }
+        .logo-box {
+            width: 54px;
+            text-align: center;
+        }
+        .inst-logo-svg {
+            width: 50px;
+            height: 50px;
+            display: block;
+            margin: 0 auto;
+        }
+        .inst-info {
+            text-align: center;
+            padding: 0 8px;
+        }
+        .inst-title {
+            font-size: 11pt;
+            font-weight: 800;
+            color: #1a3a6b;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+        }
+        .inst-sedes {
+            font-size: 7pt;
+            color: #475569;
+            line-height: 1.35;
+            margin: 2px 0;
+        }
+        .inst-sub {
+            font-size: 8pt;
+            font-weight: 700;
+            color: #1e293b;
+            border-top: 1px solid #cbd5e1;
+            padding-top: 2px;
+            margin-top: 2px;
+        }
+        .header-line {
+            border: 0;
+            border-top: 2.5px solid #1a3a6b;
+            margin: 4px 0 8px;
+        }
+
+        .pie-badge-banner {
+            background: #e0f2fe;
+            border: 1px solid #7dd3fc;
+            border-radius: 4px;
+            padding: 4px 8px;
+            font-size: 8pt;
+            font-weight: 700;
+            color: #0369a1;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+
+        /* ── DATOS DEL ESTUDIANTE Y EVALUACIÓN ── */
+        .student-tbl {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 8.5pt;
+            margin-bottom: 8px;
+            border: 1px solid #cbd5e1;
+            background: #f8fafc;
+        }
+        .student-tbl td {
+            padding: 6px 8px;
+            border: 1px solid #cbd5e1;
+            vertical-align: middle;
+        }
+        .student-tbl strong {
+            color: #1e293b;
+            font-weight: 600;
+        }
+
+        .obj-box {
+            background: #eff6ff;
+            border-left: 4px solid #2563eb;
+            padding: 6px 10px;
+            font-size: 8.5pt;
+            margin-bottom: 6px;
+            color: #1e3a8a;
+            line-height: 1.5;
+        }
+        .instructions-box {
+            background: #f0fdf4;
+            border: 1px solid #bbf7d0;
+            border-left: 4px solid #16a34a;
+            border-radius: 4px;
+            padding: 6px 10px;
+            font-size: 8.5pt;
+            color: #14532d;
+            margin-bottom: 10px;
+        }
+
+        /* ── TEXTO FUENTE CON APOYO DUA ── */
+        .text-container {
+            background: #ffffff;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            padding: 12px 16px;
+            margin-bottom: 12px;
+        }
+        .text-title {
+            font-size: 11.5pt;
+            font-weight: 700;
+            color: #0f172a;
+            margin-bottom: 6px;
+        }
+        .text-body {
+            font-family: 'Merriweather', Georgia, serif;
+            font-size: 9.5pt;
+            line-height: 1.75;
+            color: #1e293b;
+            text-align: justify;
+        }
+        .text-body p {
+            margin-bottom: 10px;
+            text-indent: 1.2em;
+        }
+        .parr {
+            display: inline-block;
+            font-family: 'Inter', sans-serif;
+            font-size: 7.5pt;
+            font-weight: 700;
+            color: #0369a1;
+            background: #e0f2fe;
+            border-radius: 3px;
+            padding: 0 5px;
+            margin-right: 4px;
+            text-indent: 0;
+        }
+        .key-concept {
+            font-weight: 700;
+            color: #0f172a;
+            background: #fef08a;
+            padding: 1px 3px;
+            border-radius: 2px;
+        }
+        .gloss-box {
+            background: #f8fafc;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 6px;
+            margin-top: 8px;
+            font-size: 8pt;
+            color: #475569;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 6px;
+        }
+        .gloss-item strong {
+            color: #1a3a6b;
+        }
+
+        /* ── PREGUNTAS Y ALTERNATIVAS EN TARJETAS ── */
+        .question {
+            background: #ffffff;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            padding: 10px 14px;
+            margin-bottom: 12px;
+            break-inside: avoid;
+            page-break-inside: avoid;
+        }
+        .q-header {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            gap: 8px;
+            margin-bottom: 8px;
+        }
+        .q-title {
+            font-size: 9.5pt;
+            font-weight: 600;
+            color: #0f172a;
+            line-height: 1.45;
+        }
+        .q-num {
+            font-weight: 800;
+            color: #1a3a6b;
+            margin-right: 4px;
+        }
+        .badge {
+            font-size: 7.5pt;
+            font-weight: 700;
+            padding: 2px 6px;
+            border-radius: 4px;
+            text-transform: uppercase;
+        }
+        .s-loc { background: #dbeafe; color: #1d4ed8; }
+        .s-int { background: #fce7f3; color: #be185d; }
+        .s-eva { background: #ede9fe; color: #7c3aed; }
+
+        .options-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            margin-top: 8px;
+        }
+        .opt-card {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 10px;
+            border-radius: 6px;
+            font-size: 9pt;
+            color: #1e293b;
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+        }
+        .opt-let {
+            font-weight: 800;
+            color: #1a3a6b;
+            background: #ffffff;
+            border: 1.5px solid #94a3b8;
+            border-radius: 4px;
+            width: 22px;
+            height: 22px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 8.5pt;
+            flex-shrink: 0;
+        }
+
+        .dev-lines {
+            margin-top: 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 28px;
+            padding-bottom: 6px;
+        }
+        .ln {
+            border-bottom: 1.5px solid #94a3b8;
+            height: 0;
+            width: 100%;
+        }
+
+        @media print {
+            body { background: #ffffff; color: #000000; }
+            .sheet { width: 100%; margin: 0; padding: 0; box-shadow: none; page-break-after: always; }
+            .question { break-inside: avoid; page-break-inside: avoid; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="sheet">
+    <!-- MEMBRETE INSTITUCIONAL -->
+    <table class="header-tbl">
+        <tr>
+            <td class="logo-box">
+                <svg class="inst-logo-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="64" height="64" rx="12" fill="#1a3a6b"/>
+                    <path d="M32 12L16 22V44L32 54L48 44V22L32 12Z" stroke="#ffffff" stroke-width="3" fill="#2563eb" fill-opacity="0.3"/>
+                    <path d="M32 20V46M20 28L44 38M44 28L20 38" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round"/>
+                </svg>
+            </td>
+            <td class="inst-info">
+                <div class="inst-title">[NOMBRE DEL ESTABLECIMIENTO EDUCATIVO]</div>
+                <div class="inst-sedes">
+                    Comuna / Ciudad · Región · Sistema Escolar Chileno<br>
+                    Programa de Integración Escolar (PIE) &nbsp;·&nbsp; <strong>AÑO ESCOLAR 2026</strong>
+                </div>
+                <div class="inst-sub">
+                    [Asignatura] &nbsp;·&nbsp; [Nivel / Curso] &nbsp;·&nbsp; Profesor(a): [Nombre del Docente]
+                </div>
+            </td>
+            <td class="logo-box">
+                <svg class="inst-logo-svg" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="64" height="64" rx="12" fill="#0f766e"/>
+                    <circle cx="32" cy="32" r="18" stroke="#ffffff" stroke-width="3" fill="#14b8a6" fill-opacity="0.3"/>
+                    <path d="M26 32L30 36L38 28" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </td>
+        </tr>
+    </table>
+    <hr class="header-line">
+
+    <!-- BANNER DUA DE ACCESO -->
+    <div class="pie-badge-banner">
+        <span>♿ Material con Adecuación de Acceso (Decreto 83 - PAI / DUA)</span>
+        <span>Espacio de respuesta ampliado y vocabulario guiado</span>
+    </div>
+
+    <!-- DATOS DEL ESTUDIANTE Y EVALUACIÓN -->
+    <table class="student-tbl">
+        <tr>
+            <td style="width: 50%;"><strong>Nombre:</strong> [NOMBRE ESTUDIANTE ASIGNADO]</td>
+            <td style="width: 18%;"><strong>Curso:</strong> [Curso / Nivel]</td>
+            <td style="width: 14%;"><strong>N° Lista:</strong> ___</td>
+            <td style="width: 18%;"><strong>Fecha:</strong> ___/___/2026</td>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>RUT:</strong> ____________________________</td>
+            <td><strong>Puntaje:</strong> ___ / [X] pts</td>
+            <td><strong>Nota / Logro:</strong> _______ (60%)</td>
+        </tr>
+    </table>
+
+    <!-- OBJETIVO DE APRENDIZAJE CANÓNICO -->
+    <div class="obj-box">
+        <strong>🎯 Objetivo de Aprendizaje:</strong>
+        [VERBO EN INFINITIVO: ej. Comprender] [CONTENIDO: las ideas centrales y estructura de un texto explicativo], [CONDICIÓN: mediante la lectura atenta con glosario de apoyo y organizadores visuales], [HABILIDAD TRANSVERSAL: fortaleciendo la comprensión autónoma y la comunicación escrita].
+    </div>
+
+    <!-- INSTRUCCIONES CLARAS -->
+    <div class="instructions-box">
+        <strong>📋 Instrucciones con Apoyo:</strong>
+        1. Las palabras importantes del texto están <span class="key-concept">resaltadas</span> para facilitar tu lectura.<br>
+        2. Consulta el <strong>Glosario de Palabras</strong> al final de la lectura para comprender términos difíciles.<br>
+        3. En las alternativas (A, B, C, D), encierra en un círculo claro la letra de tu elección.<br>
+        4. En las respuestas escritas dispones de renglones amplios para que puedas redactar con tranquilidad.
+    </div>
+
+    <!-- TEXTO FUENTE CON GLOSARIO -->
+    <div class="text-container">
+        <h2 class="text-title">[Título del Texto de Lectura Adaptado]</h2>
+        <div class="text-body">
+            <p><span class="parr">1</span> [Párrafo 1 con oraciones breves y directas, y conceptos clave en <span class="key-concept">resaltado amarillo</span>].</p>
+            <p><span class="parr">2</span> [Párrafo 2 donde se presenta el argumento principal con conectores lógicos claros].</p>
+        </div>
+        <div class="gloss-box">
+            <div class="gloss-item"><strong>Vocabulario 1:</strong> Definición simple y cotidiana de la palabra.</div>
+            <div class="gloss-item"><strong>Vocabulario 2:</strong> Definición clara que orienta la comprensión del reactivo.</div>
+        </div>
+    </div>
+
+    <!-- PREGUNTAS EN TARJETAS (A-D) -->
+    <div class="question">
+        <div class="q-header">
+            <div class="q-title"><span class="q-num">1.</span> Según el párrafo 1, ¿cuál es el hecho principal que describe el autor?</div>
+            <span class="badge s-loc">Localizar</span>
+        </div>
+        <ul class="options-list">
+            <li class="opt-card"><span class="opt-let">A</span> [Opción distractora con información ajena a la lectura].</li>
+            <li class="opt-card"><span class="opt-let">B</span> [Clave correcta: información directa extraída del texto].</li>
+            <li class="opt-card"><span class="opt-let">C</span> [Opción distractora con error de detalle].</li>
+            <li class="opt-card"><span class="opt-let">D</span> [Opción contradictoria con el texto].</li>
+        </ul>
+    </div>
+
+    <!-- PREGUNTA DE DESARROLLO CON RENGLONES AMPLIOS -->
+    <div class="question">
+        <div class="q-header">
+            <div class="q-title"><span class="q-num">2.</span> Explica en tus propias palabras la idea principal del texto y por qué es importante para la vida cotidiana.</div>
+            <span class="badge s-int">Interpretar</span>
+        </div>
+        <div class="dev-lines">
+            <div class="ln"></div>
+            <div class="ln"></div>
+            <div class="ln"></div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
