@@ -35,3 +35,4 @@ Skill especializada para el diseño, diversificación e inclusión curricular en
    - Actividades de emparejamiento visual o unir con líneas.
    - Recuadros para expresión gráfica o dibujo guiado (`.draw-container`).
 3. **Personalización**: Emisión foliada con el nombre del estudiante pre-impreso en la cabecera.
+

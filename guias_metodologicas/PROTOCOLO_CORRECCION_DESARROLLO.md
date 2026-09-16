@@ -43,3 +43,4 @@ Para evitar ambigüedades en las respuestas, cada reactivo de desarrollo debe in
 1. **Un solo verbo principal**: Evitar encadenar *"Identifica, explica, compara y redacta..."* en una sola pregunta sin separación visual.
 2. **Renglones pautados físicos**: Proporcionar siempre bloques de renglones (`.dev-lines` con líneas `.ln`) con al menos 22 a 26 mm de separación, garantizando espacio suficiente para estudiantes con disgrafía.
 3. **«📌 Reformulación simple» en la pauta docente**: Traducir la instrucción a lenguaje coloquial para que el docente pueda modelar y aclarar dudas en sala sin regalar la respuesta.
+

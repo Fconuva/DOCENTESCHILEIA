@@ -13,3 +13,4 @@ Base obligatoria para todo reactivo de lectura escolar. Fuente canónica: `.gith
 - **Anti-adivinación**: La clave nunca es la alternativa más larga en caracteres. Distractores técnicos fundados.
 - **Claridad de Instrucciones**: La complejidad va en el contenido (texto y razonamiento), no en la instrucción de la pregunta.
 - **Lección Completa**: Explica → Modela (caja "ATENCIÓN") → Ejercita graduado → Evalúa logro por habilidad → Analiza el error en solucionario.
+

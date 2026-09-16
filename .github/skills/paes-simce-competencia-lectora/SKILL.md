@@ -52,3 +52,4 @@ Skill especializada para el diseño, elaboración y auditoría de ensayos, diagn
 3. **EJERCITA**: 5 a 7 preguntas graduadas por texto auténtico (500 a 1.200 palabras).
 4. **EVALÚA**: Porcentaje de logro desglosado por habilidad cognitiva.
 5. **ANALIZA EL ERROR**: Feedback con la falla técnica de cada distractor.
+

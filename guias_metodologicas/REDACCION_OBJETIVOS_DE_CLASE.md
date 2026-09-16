@@ -65,3 +65,4 @@ Para evitar objetivos de bajo desafío cognitivo, se recomienda graduar los verb
 - ❌ **Confundir objetivo con actividad**: *"Hacer la guía de la página 45"* no es un objetivo, es una tarea.
 - ❌ **Objetivos sobrecargados**: Redactar más de una acción principal en el mismo objetivo (*"Analizar, comparar, evaluar y escribir..."* fragmenta el foco evaluativo).
 - ❌ **Falta de condición metodológica**: Decir solo *"Analizar la novela"* sin indicar cómo se andamia el proceso en el aula.
+

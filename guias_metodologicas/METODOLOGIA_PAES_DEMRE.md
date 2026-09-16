@@ -84,3 +84,4 @@ Toda guía didáctica de aula no es solo un banco de preguntas: es una experienc
        ↓
 [ 5. APRENDE DEL ERROR ] -> Solucionario explicativo con la falla técnica de cada distractor.
 ```
+

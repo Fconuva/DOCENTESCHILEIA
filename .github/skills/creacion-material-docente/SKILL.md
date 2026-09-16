@@ -142,3 +142,4 @@ Antes de entregar o imprimir cualquier material didáctico, ejecutar:
 ```bash
 py -3 herramientas/validar_material_docente.py "ruta/a/la/guia.html"
 ```
+

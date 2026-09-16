@@ -53,3 +53,4 @@ Antes de enviar a fotocopiar o imprimir una guía, verificar:
 - [ ] ¿El interlineado permite leer sin saltarse líneas accidentalmente (`line-height: 1.6+`)?
 - [ ] ¿Los renglones de respuesta manual tienen al menos 22mm de alto?
 - [ ] ¿Las instrucciones fueron simplificadas y redactadas en oraciones simples?
+

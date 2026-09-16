@@ -25,3 +25,4 @@ Esta instrucción rige toda elaboración de guías de trabajo, evaluaciones, pla
    - Todo material debe incluir `@page { size: A4 portrait; margin: 7mm 8mm; }`, contenedor `.sheet` y `break-inside: avoid` en reactivos.
 7. **Control de Calidad Previo**:
    - Ejecutar `py -3 herramientas/validar_material_docente.py "ruta/a/guia.html"` antes de imprimir o publicar.
+
