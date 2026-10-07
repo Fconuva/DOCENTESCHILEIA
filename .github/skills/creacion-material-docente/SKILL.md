@@ -1,145 +1,101 @@
-# Creación de Material Docente — Docentes Chile IA
-
-Skill canónica para la planificación de clases, diseño de guías de aprendizaje (imprimibles e interactivas), adaptación curricular DUA/PIE (Decreto 83) y elaboración de solucionarios y pautas docentes en el **sistema escolar chileno** y preparación para **PAES / SIMCE**.
-
+---
+name: creacion-material-docente
+description: Crear y revisar planificaciones, guías impresas o digitales, presentaciones espejo, instrumentos y pautas para aula chilena, conservando el objetivo y comprobando claridad, recursos, accesibilidad, coherencia y formatos finales.
 ---
 
-## 1. Cuándo usar esta Skill
+# Creación completa de material docente
 
-- Cuando se deba **planificar o redactar una clase** de cualquier nivel o modalidad escolar (Educación Básica, Media Humanístico-Científica o Técnico-Profesional).
-- Cuando se deba **crear, revisar o auditar guías de aprendizaje, talleres o evaluaciones formativas/sumativas**.
-- Cuando se requiera emitir **adecuaciones curriculares PIE**:
-  - Copias con **Adecuación de Acceso** (PAI / NEET / Disgrafía / Baja visión / Hipoacusia).
-  - Copias con **Adecuación Significativa** (PACI / NEEP / Discapacidad Intelectual / DIL Fuerte).
-- Cuando se deba construir la **pauta de corrección docente** con matriz DEMRE, justificación de distractores y protocolo de tercios.
-- Base obligatoria de diseño: respeta el estándar visual, tipográfico e institucional del colegio y los lineamientos de evaluación ministerial.
+Leer [planificación y paquete](../../../conocimiento/docencia/PLANIFICACION_Y_PAQUETE.md)
+y [objetivos](../../../guias_metodologicas/REDACCION_OBJETIVOS_DE_CLASE.md). La
+guía, la planificación y la presentación explican el mismo aprendizaje, con
+contenidos completos para cada destinatario. No basta una plantilla vacía.
 
----
+## Encargo y currículo
 
-## 2. Fase 1: Planificación de Clase y Redacción Pedagógica
+Confirmar curso, asignatura, unidad, OA o referente, propósito de la clase,
+duración real, material existente y producto solicitado. Buscar antes de pedir
+lo ya declarado. Verificar el código y enunciado curricular en su fuente vigente;
+no adjudicar un OA por parecido de tema. Una preferencia de diseño es local,
+no una exigencia ministerial.
 
-Toda clase de 90 minutos (bloque doble) o 45 minutos (bloque simple) debe estructurarse rigurosamente en tres momentos pedagógicos:
+Conservar contenidos y decisiones del docente. Distinguir guía de enseñanza,
+evaluación, libreto y campo de Portafolio. Para el portafolio se lee también la
+[skill propia](../portafolio-docente/SKILL.md); no convertir este molde de aula
+en una casilla obligatoria de DocenteMás.
 
-### 2.1. Fórmula Obligatoria de Objetivos de Clase
-Los objetivos de clase se redactan siempre bajo la siguiente fórmula canónica:
+## Objetivo, actividad y evidencia
 
-```text
-VERBO EN INFINITIVO + CONTENIDO + CONDICIÓN + HABILIDAD TRANSVERSAL
-```
+Formular aprendizaje abordable con habilidad y conocimiento. Seleccionar
+actividad y evidencia que permitan observarlo; incluir la dimensión actitudinal
+cuando corresponde y diseñar cómo se trabaja y monitorea. Una fórmula con verbo,
+contenido, condición y transversal puede ayudar, pero no se impone universalmente.
+«Mediante» dentro de cualquier párrafo no acredita coherencia del objetivo.
 
-| Componente | Descripción | Ejemplos Recomendados |
-|---|---|---|
-| **Verbo en Infinitivo** | Acción cognitiva observable | *Analizar, Interpretar, Comparar, Evaluar, Comprender, Sintetizar, Producir, Modelar* |
-| **Contenido** | Objeto de estudio o concepto central | *las estrategias argumentativas en una columna de opinión*, *la función cuadrática* |
-| **Condición** | Contexto o medio de realización | *mediante la lectura crítica guiada*, *a través del análisis de reactivos modelados*, *con apoyo de organizadores gráficos* |
-| **Habilidad Transversal** | Competencia genérica desarrollada | *fomentando el pensamiento crítico*, *desarrollando la comunicación efectiva y la fundamentación rigurosa* |
+Definir: qué harán los estudiantes, consigna literal, primera acción, recurso,
+producto, criterio de logro y próxima acción si hay error. Las preguntas y la
+pauta valoran la habilidad, no solo la presencia de palabras o la realización de
+una ficha. No bajar la habilidad aprobada para resolver una dificultad de diseño.
 
-### 2.2. Estructura de la Clase en Tres Momentos
-1. **Inicio (15 min)**:
-   - Saludo formativo y presentación visual del objetivo de la clase en pizarra.
-   - Activación de conocimientos previos mediante una pregunta detonante de la vida cotidiana.
-   - Explicitación del sentido formativo (para qué sirve en la vida ciudadana y en la PAES/SIMCE).
-2. **Desarrollo (60 min)**:
-   - **Modelado Docente ("ATENCIÓN", 15 min)**: Demostración explícita (*worked example*) de cómo pensar, localizar evidencias y descartar distractores.
-   - **Trabajo en Guía de Aprendizaje (35 min)**: Distribución de las guías según perfil (Regular, PIE Acceso, PIE Significativa).
-   - **Monitoreo activo de aula (10 min)**: Recorrido docente con andamiaje focalizado y verificación del test de claridad de instrucciones.
-3. **Cierre (15 min)**:
-   - Socialización plenaria de la pregunta de mayor complejidad cognitiva.
-   - Síntesis metacognitiva o **Ticket de Salida** (*«¿Qué pista del texto te permitió justificar la clave?»*).
-   - Registro formativo y cierre de bloque.
+## Secuencia conducible
 
----
+Mostrar Inicio, Desarrollo y Cierre, con tiempos ajustados al bloque, no una
+distribución fija 15/60/15. Incluir activación y sentido, objetivo explicado al
+curso, modelado pertinente, práctica guiada, trabajo progresivamente autónomo,
+monitoreo, devolución, sistematización y metacognición cuando aporten al encargo.
+No sumar actividades para cumplir una lista; relacionar cada etapa con el aprendizaje.
 
-## 3. Fase 2: Elaboración de Guías de Aprendizaje Imprimibles (Formato Regular)
+El docente necesita frases para conducir y cambiar de etapa. Los estudiantes
+necesitan consignas cortas, recursos y espacio para trabajar. Prever respuesta
+parcial, error y silencio. El modelado muestra procedimiento y razonamiento,
+sin revelar las respuestas de un instrumento de evaluación.
 
-Las guías deben generarse en HTML maquetado con precisión para **impresión directa en papel A4**.
+## Paquete por destinatario
 
-### 3.1. Membrete Institucional
-Toda guía debe incluir la tabla de 3 celdas `.header-tbl`:
-- **Izquierda**: Logo / Escudo institucional del establecimiento escolar.
-- **Centro**: Nombre del establecimiento, ciudad/comuna, departamento de asignatura y profesor(a).
-- **Derecha**: Logo institucional complementario o escudo de congregación/red educativa.
-- **Línea divisoria**: `<hr class="header-line">` con borde destacado.
+| Pieza | Revisión que debe hacerse |
+|---|---|
+| Planificación | Objetivo, secuencia, evidencias, tiempos, apoyos y recursos reales. |
+| Guía del estudiante | Identificación, objetivo e instrucciones separados, lectura o recurso completo, tareas y espacios útiles. |
+| Presentación espejo | Mismo orden y conceptos; preguntas visibles; sin apuntes docentes mezclados. |
+| Pauta/solucionario docente | Criterios, respuestas aceptables, evidencia y justificación; separada de la guía. |
+| Instrumento | Recoge la evidencia prevista, con unidades, leyenda y criterio de valoración. |
+| Recursos adicionales | Existen, corresponden a la actividad y están identificados por su nombre de uso. |
 
-### 3.2. Metadatos de Estudiante y Evaluación
-Tabla de control con campos:
-- Nombre completo del estudiante, Curso, N° de Lista, Fecha, RUT.
-- Puntaje Obtenido / Puntaje Total (Pts).
-- Nota / Nivel de Logro calculada con **escala de exigencia al 60%**.
+Una clase impresa incluye todo lo que se lee y completa. Un QR o enlace no
+sustituye el texto cuando se acordó papel. Los ejemplos simulados se identifican;
+imágenes de acompañamiento no acreditan hechos. Comprobar fuentes y condiciones de uso.
 
-### 3.3. Metadatos Curriculares y Didácticos
-- **Unidad Curricular** y **Plan Lector / Foco temático**.
-- **Tiempo Estimado de Trabajo** (70 a 90 minutos de resolución efectiva).
-- **Objetivo de la Guía** redactado con la fórmula de 4 partes.
-- **Código Curricular Oficial** (ej: `OA ministerial`) y habilidades evaluadas.
-- **Instrucciones claras y numeradas**: Principio rector: *«La complejidad debe estar en el CONTENIDO, no en la INSTRUCCIÓN»*.
+## Inclusión y evaluación
 
-### 3.4. Textos Fuente y Formato Tipográfico
-- Contenedor `.sheet` con ancho `210mm` y alto mínimo `297mm`.
-- `@page { size: A4 portrait; margin: 7mm 8mm; }`.
-- Tipografía general: Google Font `'Inter'` (13px, color `#1e293b`).
-- Tipografía de lectura de textos: Google Font `'Merriweather'` (serif, 9pt, `line-height: 1.68`, texto justificado).
-- **Párrafos numerados**: Cada párrafo debe iniciar con `<span class="parr">N</span>` para facilitar la citación en reactivos.
-- Extensión del texto: 500 a 1.200 palabras para medir resistencia lectora.
-- Cita bibliográfica formal al pie de la lectura.
+Leer [DUA](../adecuaciones-curriculares-dua/SKILL.md) si hay barreras o adecuación
+acordada. Diversificar acceso y expresión sin modificar el objetivo por diagnóstico
+automático. Una modificación curricular individual requiere contexto y decisión
+del equipo competente; no emitir proactivamente una versión «significativa» para todos.
 
-### 3.5. Modelado Didáctico: Caja "ATENCIÓN"
-Antes de la práctica independiente, incluir una caja `.modeled-box` (fondo `#fffbeb`, borde ámbar `#d97706`) que demuestre el paso a paso del razonamiento.
+La pauta se construye desde el aprendizaje. El esquema de 0–3 puntos es una
+opción de instrumento, no norma nacional. Definir qué significa cada nivel en
+esa tarea. La exigencia y conversión a nota se toman del reglamento o encargo;
+no suponer 60% por encontrar la palabra «Puntaje».
 
-### 3.6. Reactivos de Selección Múltiple (Marco DEMRE)
-- **Exactamente 4 alternativas A–D**: Rigurosamente prohibido incluir alternativa E (formato PSU antiguo en desuso).
-- **Badges de Habilidad DEMRE**: Localizar, Interpretar, Evaluar.
-- **Regla Anti-adivinación**: La clave **nunca debe ser la alternativa más larga** por conteo de caracteres.
-- **Distractores Técnicos Fundados**: *Cambio de foco*, *sobregeneralización*, *literalización forzada*, *invención plausible*, *contradicción* o *confusión causa-efecto*.
+## Impresión, edición y verificación
 
-### 3.7. Preguntas de Desarrollo y Espacios de Escritura
-- Toda pregunta abierta debe contener: Contexto, Tarea cognitiva con un solo verbo principal y Criterio de extensión.
-- **Renglones Físicos Pautados**: Es obligatorio insertar bloques `.dev-lines` con renglones limpios `.ln` (altura 22-26px).
+Las [plantillas](templates/plantilla_guia_regular.html) son ejemplos reutilizables,
+no sustituyen el formato institucional confirmado. Ajustar A4 y márgenes al
+contenido, conservar membrete aprobado y usar tipografías legibles. Si se usa
+tinta negra, revisar sin fondos y en escala de grises. Una fuente de internet
+puede fallar al imprimir sin conexión: confirmar disponibilidad o usar alternativas locales.
 
----
+Reservar renglones medidos para la respuesta esperada; 7 mm es una referencia
+operativa ajustable, no una disposición legal. No reducir espacio o letra para
+forzar un número fijo de páginas. Revisar tablas, gráficos, encabezados, pies,
+numeración, cortes y páginas finales en el PDF renderizado.
 
-## 4. Fase 3: Diversificación e Inclusión DUA / PIE (Decreto 83)
-
-### 4.1. Especificaciones de la Guía "PIE Acceso" (PAI / NEET)
-- Mismo objetivo cognitivo y mismas preguntas que la guía regular.
-- Tamaño de letra aumentado (`13.5px` a `14.5px`, interlineado `1.65`).
-- Conceptos y palabras clave destacados en negrita o sombreado suave.
-- Glosario contextual de apoyo al pie de la lectura (`.gloss-box`).
-- Alternativas en tarjetas visualmente separadas (`.opt-card`).
-- Renglones de desarrollo profundos (26 a 28px de altura) para disgrafía.
-
-### 4.2. Especificaciones de la Guía "PIE Significativa" (PACI / NEEP)
-- Tipografía Google Font `'Nunito'` (15-16px, interlineado `1.7`).
-- Textos adaptados y condensados a un máximo de 1 a 2 párrafos concisos.
-- Marcas visuales de color (`mark`, `.hl-g`, `.hl-p`) para resaltar los datos clave.
-- Eliminación de preguntas de desarrollo extenso.
-- Preguntas con **opciones binarias simplificadas (A y B)** con círculos de marcación grandes.
-- Actividad de expresión gráfica o recuadro de dibujo guiado (`.draw-container`).
-
----
-
-## 5. Fase 4: Solucionarios y Pautas de Corrección Docente
-
-### 5.1. Matriz de Especificaciones DEMRE
-Tabla con: Ítem, OA Curricular, Habilidad DEMRE, Tarea Lectora (a–n), Clave Correcta, Puntaje y Clasificación técnica de distractores.
-
-### 5.2. Reformulación Simple Obligatoria
-Cada reactivo en la pauta debe incluir una **«📌 Reformulación simple»** que traduzca la instrucción a lenguaje cotidiano del estudiante.
-
-### 5.3. Protocolo de Calificación por Tercios (Preguntas de Desarrollo)
-- **3 / 3 pts (Logrado Completo)**: Identifica con exactitud, fundamenta con cita textual o paráfrasis precisa y elabora un juicio valorativo coherente.
-- **2 / 3 pts (Logrado Parcial)**: Reconoce el elemento central pero la fundamentación es incompleta.
-- **1 / 3 pts (Insuficiente)**: Menciona un concepto aislado sin elaboración.
-- **0 / 3 pts (No Observado)**: En blanco, ilegible o incongruencia total.
-- **Principio de corrección**: Match semántico flexible; no penalizar caligrafía ni ortografía cuando la idea central sea comprensible.
-
----
-
-## 6. Auditoría Automática de Calidad
-
-Antes de entregar o imprimir cualquier material didáctico, ejecutar:
+Ejecutar el control técnico y abrir el archivo final:
 
 ```bash
-py -3 herramientas/validar_material_docente.py "ruta/a/la/guia.html"
+python herramientas/validar_material_docente.py ruta/guia.html
 ```
 
+El script declara qué puede comprobar; no aprueba calidad pedagógica ni impresora.
+Aplicar el [pipeline](../../../.agent/workflows/docencia-completa.md) para una
+entrega: recursos, versiones, revisión independiente, dictamen y estado real de
+publicación/aviso. Las lecturas ya vigentes no se repiten por ritual.

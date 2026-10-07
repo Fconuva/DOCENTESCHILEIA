@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "encargo": "Ejemplo sintético: actividad impresa de interpretación",
+  "alcance": "Propuesta; sin construcción ni revisión independiente",
+  "fuentes": [{"ruta": "encargo.md", "sha256": "pendiente"}],
+  "artefactos": [],
+  "criterios": [],
+  "roles": {"planeador": "ejemplo-sintetico", "constructor": null, "verificador": null, "evaluador": null},
+  "revisiones": []
+}

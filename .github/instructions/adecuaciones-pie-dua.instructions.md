@@ -1,14 +1,10 @@
 ---
-description: "Regla obligatoria para la elaboración de materiales con adecuación curricular y diseño universal de aprendizaje (Decreto 83)."
-name: "Adecuaciones Curriculares DUA Chile"
-applyTo: ["**/*pie*", "**/*dua*", "**/*acceso*", "**/*significativa*"]
+description: Diversificación y apoyos elegidos desde barreras observadas y acuerdos vigentes.
+applyTo: "**/*PIE*.html,.github/skills/adecuaciones-curriculares-dua/**"
 ---
 
-# Regla de Workspace — Adecuaciones Curriculares DUA (Decreto 83)
-
-Base obligatoria para todo material inclusivo. Fuente canónica: `.github/skills/adecuaciones-curriculares-dua/SKILL.md` y `guias_metodologicas/DISENO_UNIVERSAL_APRENDIZAJE_DUA.md`.
-
-- **Accesibilidad General**: Tipografía base aumentada (`13.5px` a `16px`), interlineado amplio (`1.65+`) y renglones de respuesta profundos para disgrafía.
-- **Adecuaciones de Acceso (PAI / NEET)**: Mantener el mismo objetivo curricular; añadir glosarios de términos, palabras clave en negrita y opciones en tarjetas separadas.
-- **Adecuaciones Significativas (PACI / NEEP)**: Tipografía Nunito (15-16px), textos condensados en 1-2 párrafos con marcas de color (`mark`, `hl-g`), opciones binarias A-B con círculos grandes y recuadros para dibujo/expresión gráfica.
-
+Leer completa la [skill DUA](../skills/adecuaciones-curriculares-dua/SKILL.md).
+Identificar objetivo, barrera y evidencia. Elegir y probar apoyos; no diagnosticar ni
+asignar PAI/PACI o reducción curricular automáticamente. Las plantillas son ejemplos,
+no recetas por condición. Documentar qué conserva el objetivo y qué modificación
+requiere decisión individual. Comprobar nivel y alcance de la norma antes de aplicarla.

@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guía de Aprendizaje N° [X] — [TÍTULO] | Docentes Chile IA</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
+
+
+
     <style>
         @page {
             size: A4 portrait;
@@ -323,7 +323,7 @@
         }
     </style>
 </head>
-<body>
+<body data-plantilla="modelo-editable">
 
 <div class="sheet">
     <!-- MEMBRETE INSTITUCIONAL -->
@@ -366,9 +366,9 @@
             <td style="width: 18%;"><strong>Fecha:</strong> ___/___/2026</td>
         </tr>
         <tr>
-            <td colspan="2"><strong>RUT:</strong> ____________________________</td>
+            <td colspan="2"><strong>Actividad:</strong> ____________________________</td>
             <td><strong>Puntaje:</strong> ___ / [X] pts</td>
-            <td><strong>Nota / Logro:</strong> _______ (60%)</td>
+            <td><strong>Nota / Logro:</strong> _______ [escala acordada]</td>
         </tr>
     </table>
 
@@ -384,14 +384,14 @@
         </div>
         <div class="meta-card">
             <strong>Tiempo Estimado</strong>
-            [70 / 90 minutos]
+            [Duración disponible]
         </div>
     </div>
 
-    <!-- OBJETIVO DE CLASE CANÓNICO -->
-    <div class="obj-box">
+    <!-- OBJETIVO DE CLASE DEL ENCARGO -->
+    <div class="obj-box" data-objetivo>
         <strong>🎯 Objetivo de Aprendizaje:</strong>
-        [VERBO EN INFINITIVO: ej. Analizar] [CONTENIDO: las estrategias argumentativas y recursos persuasivos en textos periodísticos], [CONDICIÓN: mediante la lectura crítica guiada y el análisis comparativo de fuentes], [HABILIDAD TRANSVERSAL: desarrollando el pensamiento crítico y la fundamentación rigurosa].
+        [Objetivo de aprendizaje alineado al currículo, la tarea y la evidencia; completar según el encargo].
     </div>
 
     <!-- OA MINEDUC Y HABILIDADES EVALUADAS -->
@@ -433,34 +433,37 @@
     </div>
 
     <!-- REACTIVOS DEMRE (4 OPCIONES A-D) -->
-    <div class="question">
+    <div class="question" data-reactivo="1" data-opciones="4">
+
         <div class="q-header">
             <div class="q-title"><span class="q-num">1.</span> Según el párrafo 1, ¿cuál es el hecho principal planteado por el emisor?</div>
             <span class="badge s-loc">Localizar</span>
         </div>
         <ul class="options-list">
-            <li class="opt"><span class="opt-let">A</span> [Distractor con cambio de foco respecto a la pregunta formulada].</li>
-            <li class="opt"><span class="opt-let">B</span> [Distractor con sobregeneralización o afirmación absoluta].</li>
-            <li class="opt"><span class="opt-let">C</span> [Clave correcta: información directa extraída del texto].</li>
-            <li class="opt"><span class="opt-let">D</span> [Distractor con literalización forzada que no responde al enunciado].</li>
+            <li class="opt" data-opcion="A"><span class="opt-let">A</span> [Alternativa A; completar según texto y pauta separada].</li>
+            <li class="opt" data-opcion="B"><span class="opt-let">B</span> [Alternativa B; completar según texto y pauta separada].</li>
+            <li class="opt" data-opcion="C"><span class="opt-let">C</span> [Alternativa C; completar según texto y pauta separada].</li>
+            <li class="opt" data-opcion="D"><span class="opt-let">D</span> [Alternativa D; completar según texto y pauta separada].</li>
         </ul>
     </div>
 
-    <div class="question">
+    <div class="question" data-reactivo="2" data-opciones="4">
+
         <div class="q-header">
             <div class="q-title"><span class="q-num">2.</span> A partir de la lectura del párrafo 2, ¿qué se infiere respecto al problema planteado?</div>
             <span class="badge s-int">Interpretar</span>
         </div>
         <ul class="options-list">
-            <li class="opt"><span class="opt-let">A</span> [Clave correcta: inferencia lógica basada en evidencias del texto].</li>
-            <li class="opt"><span class="opt-let">B</span> [Distractor con invención plausible de conocimiento común].</li>
-            <li class="opt"><span class="opt-let">C</span> [Distractor contradictorio con la postura del emisor].</li>
-            <li class="opt"><span class="opt-let">D</span> [Distractor que confunde una causa secundaria con el efecto principal].</li>
+            <li class="opt" data-opcion="A"><span class="opt-let">A</span> [Alternativa A; completar según texto y pauta separada].</li>
+            <li class="opt" data-opcion="B"><span class="opt-let">B</span> [Alternativa B; completar según texto y pauta separada].</li>
+            <li class="opt" data-opcion="C"><span class="opt-let">C</span> [Alternativa C; completar según texto y pauta separada].</li>
+            <li class="opt" data-opcion="D"><span class="opt-let">D</span> [Alternativa D; completar según texto y pauta separada].</li>
         </ul>
     </div>
 
     <!-- PREGUNTA DE DESARROLLO -->
     <div class="question">
+
         <div class="q-header">
             <div class="q-title"><span class="q-num">3.</span> Evalúa la solidez del argumento presentado en el párrafo 3. Fundamenta tu postura personal utilizando al menos una evidencia del texto.</div>
             <span class="badge s-eva">Evaluar</span>
@@ -477,4 +480,3 @@
 
 </body>
 </html>
-

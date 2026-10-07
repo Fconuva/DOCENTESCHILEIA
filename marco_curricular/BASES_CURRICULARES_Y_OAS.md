@@ -90,6 +90,6 @@ Organizada en torno a **35 Especialidades** agrupadas en sectores económicos cl
 ### Principios para la Planificación Curricular Inclusiva:
 1. **Alineación con el Currículum Regular**: Toda adecuación toma como punto de partida los OAs del nivel que cursa el estudiante.
 2. **Diseño Universal para el Aprendizaje (DUA)**: Diversificación planificada desde el origen (múltiples medios de representación, expresión y compromiso).
-3. **Plan de Adecuación Curricular Individual (PACI)**: Para estudiantes con Necesidades Educativas Permanentes (NEEP), ajustando la profundidad conceptual a través de la priorización o graduación de objetivos.
-4. **Plan de Apoyo Individual (PAI)**: Para estudiantes con Necesidades Educativas Transitorias (NEET), facilitando medios de acceso sin alterar el objetivo de aprendizaje.
+3. **Adecuaciones curriculares individuales**: Documentar decisiones del equipo competente y comprobar el procedimiento del nivel; no asignar PACI automáticamente por NEEP ni reducir objetivos por diagnóstico.
+4. **Apoyos individuales**: Elegir según barrera observada, evidencia y acuerdos; no asignar PAI solo por NEET. Ver la [guía DUA](../guias_metodologicas/DISENO_UNIVERSAL_APRENDIZAJE_DUA.md) y verificar normativa vigente.
 

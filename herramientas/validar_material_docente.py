@@ -1,214 +1,154 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-validar_material_docente.py
-===========================
-Auditor y validador de calidad para instrumentos y guías pedagógicas en HTML
-diseñadas para el sistema escolar chileno y preparación PAES / SIMCE.
-
-Parte de DOCENTES CHILE IA (github.com/Fconuva/DOCENTESCHILEIA).
-Sin dependencias externas (utiliza la biblioteca estándar de Python).
-
-Reglas que verifica:
-1. Membrete Institucional (datos de institución y docente).
-2. Metadatos de Estudiante y Evaluación (Nombre, Curso, Fecha, Puntaje/Escala 60%).
-3. Redacción del Objetivo de Clase (Fórmula canónica de 4 componentes).
-4. Formato de Selección Múltiple (4 alternativas A-D, nunca 5; control anti-adivinación).
-5. Espacios de Respuesta en Preguntas de Desarrollo (.dev-lines / .ln).
-6. Configuración de Impresión A4 (@page, .sheet, break-inside: avoid).
-"""
-
-import sys
-import re
+#!/usr/bin/env python3
+"""Comprobación técnica parcial de HTML. No emite aprobación pedagógica."""
 import argparse
-from pathlib import Path
+import json
+import re
 from html.parser import HTMLParser
+from pathlib import Path
 
-if hasattr(sys.stdout, "reconfigure"):
-    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-if hasattr(sys.stderr, "reconfigure"):
-    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
+VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
 
 
 class AnalizadorHTMLGuia(HTMLParser):
     def __init__(self):
-        super().__init__()
-        self.imagenes = []
-        self.clases = set()
+        super().__init__(convert_charrefs=True)
+        self.stack = []
         self.textos = []
-        self.en_style = False
         self.estilos = []
+        self.clases = set()
+        self.reactivos = []
+        self.imagenes = []
+        self.css_externo = False
+        self.objetivo = False
+        self.plantilla = False
+        self.estructura_invalida = False
 
     def handle_starttag(self, tag, attrs):
-        attrs_dict = dict(attrs)
-        if tag == "img":
-            src = attrs_dict.get("src", "")
-            if src:
-                self.imagenes.append(src)
-        if "class" in attrs_dict:
-            for c in attrs_dict["class"].split():
-                self.clases.add(c)
-        if tag == "style":
-            self.en_style = True
+        attrs = dict(attrs)
+        if "data-plantilla" in attrs:
+            self.plantilla = True
+        hidden = any(n[1] for n in self.stack) or tag in {"script", "style", "template"} or "hidden" in attrs
+        question = next((n[2] for n in reversed(self.stack) if n[2] is not None), None)
+        if "data-reactivo" in attrs:
+            if question is not None:
+                self.estructura_invalida = True
+            question = {"id": attrs["data-reactivo"], "cantidad": attrs.get("data-opciones"), "opciones": [], "clave": attrs.get("data-clave")}
+            self.reactivos.append(question)
+        if not hidden:
+            self.clases.update(attrs.get("class", "").split())
+            if "data-objetivo" in attrs:
+                self.objetivo = True
+            if tag == "img" and attrs.get("src"):
+                self.imagenes.append(attrs["src"])
+            if "data-opcion" in attrs and question is not None:
+                question["opciones"].append(attrs["data-opcion"])
+        if tag == "link" and "stylesheet" in attrs.get("rel", "").split():
+            self.css_externo = True
+        if tag not in VOID:
+            self.stack.append((tag, hidden, question))
+
+    def handle_startendtag(self, tag, attrs):
+        self.handle_starttag(tag, attrs)
+        if tag not in VOID:
+            self.handle_endtag(tag)
 
     def handle_endtag(self, tag):
-        if tag == "style":
-            self.en_style = False
+        for index in range(len(self.stack) - 1, -1, -1):
+            if self.stack[index][0] == tag:
+                if index != len(self.stack) - 1:
+                    self.estructura_invalida = True
+                del self.stack[index:]
+                return
 
     def handle_data(self, data):
-        if self.en_style:
+        if any(n[0] == "style" for n in self.stack):
             self.estilos.append(data)
-        else:
+        elif not any(n[1] for n in self.stack):
             self.textos.append(data)
 
 
-def auditar_guia_html(ruta_archivo: Path) -> dict:
-    hallazgos = {
-        "archivo": str(ruta_archivo),
-        "errores": [],
-        "advertencias": [],
-        "exitos": [],
-        "estadisticas": {}
-    }
-
-    if not ruta_archivo.exists():
-        hallazgos["errores"].append(f"El archivo no existe: {ruta_archivo}")
-        return hallazgos
-
-    contenido = ruta_archivo.read_text(encoding="utf-8", errors="replace")
+def auditar_guia_html(ruta_archivo):
+    ruta = Path(ruta_archivo)
+    out = {"archivo": str(ruta), "estado": "COMPROBACION_TECNICA_PARCIAL", "errores": [], "advertencias": [], "comprobaciones": [], "no_verificado": ["Coherencia pedagógica, exactitud, pauta y fuente", "Renderizado, impresión física y lectura OMR"], "estadisticas": {}}
+    try:
+        contenido = ruta.read_text(encoding="utf-8-sig")
+    except (OSError, UnicodeError) as exc:
+        out["errores"].append(f"No se pudo leer el HTML: {exc}")
+        return out
     parser = AnalizadorHTMLGuia()
     parser.feed(contenido)
-
-    texto_total = " ".join(parser.textos)
-    estilos_totales = " ".join(parser.estilos)
-
-    # 1. Membrete Institucional
-    tiene_membrete = any(c in parser.clases for c in ["header-tbl", "inst-header-table", "membrete-banner", "inst-info", "header-banner"]) or bool(re.search(r"colegio|liceo|escuela|instituto|educativo", texto_total, re.IGNORECASE))
-    if tiene_membrete:
-        hallazgos["exitos"].append("Membrete: Estructura de cabecera institucional identificada.")
+    parser.close()
+    texto = " ".join(parser.textos)
+    if parser.plantilla:
+        out["advertencias"].append("Modelo editable: completar y revisar campos, textos, pauta y recursos antes de usar como material final.")
+    css = re.sub(r"/\*.*?\*/", "", " ".join(parser.estilos), flags=re.S)
+    if not texto.strip():
+        out["errores"].append("El cuerpo no contiene texto visible comprobable.")
+    if parser.estructura_invalida or parser.stack:
+        out["errores"].append("Estructura incompleta o anidamiento incompatible con la comprobación; revisar HTML.")
+    if parser.objetivo:
+        out["comprobaciones"].append("Existe un elemento marcado data-objetivo; su contenido exige revisión.")
     else:
-        hallazgos["advertencias"].append("Membrete: Verifique que la cabecera contenga los datos del establecimiento educativo.")
-
-    # 2. Metadatos de Estudiante y Evaluación
-    tiene_nombre = bool(re.search(r"Nombre|Estudiante|Alumno", texto_total, re.IGNORECASE))
-    tiene_curso = bool(re.search(r"Curso|Nivel|Básico|Medio|1°|2°|3°|4°|5°|6°|7°|8°", texto_total, re.IGNORECASE))
-    tiene_fecha = bool(re.search(r"Fecha", texto_total, re.IGNORECASE))
-    tiene_puntaje = bool(re.search(r"Puntaje|Pts|Nota|Calificación|Nivel de Logro", texto_total, re.IGNORECASE))
-
-    if tiene_nombre and tiene_curso:
-        hallazgos["exitos"].append("Metadatos: Campos de identificación del estudiante presentes (Nombre, Curso).")
+        out["no_verificado"].append("Objetivo sin marca data-objetivo; no se infiere de verbos sueltos.")
+    if re.search(r"@page(?:\s+[^\{]+)?\s*\{[^}]*\bsize\s*:\s*A4\b", css, flags=re.I):
+        out["comprobaciones"].append("Se declara tamaño A4 en CSS interno; falta verificar el PDF.")
     else:
-        hallazgos["advertencias"].append("Metadatos: Faltan campos explícitos de Nombre y Curso del estudiante.")
-
-    if tiene_puntaje:
-        hallazgos["exitos"].append("Evaluación: Campos de puntaje y calificación presentes (Escala 60%).")
+        out["advertencias"].append("No se comprobó declaración size: A4 en CSS interno.")
+    if parser.css_externo:
+        out["no_verificado"].append("Hojas de estilo externas: contenido y disponibilidad no inspeccionados.")
+    espacios = parser.clases.intersection({"dev-lines", "ln", "write-line", "writing-box", "renglones", "lineas-respuesta"})
+    if espacios:
+        out["comprobaciones"].append("Hay elementos de espacio de respuesta en el cuerpo; dimensiones y suficiencia requieren revisión.")
     else:
-        hallazgos["advertencias"].append("Evaluación: No se detectó casilla de puntaje o calificación.")
-
-    # 3. Objetivo de Clase / Guía (Fórmula canónica de 4 partes)
-    # VERBO EN INFINITIVO + CONTENIDO + CONDICIÓN + HABILIDAD
-    verbos_infinitivo = [
-        "analizar", "comprender", "identificar", "evaluar", "reflexionar",
-        "interpretar", "comparar", "sintetizar", "explicar", "producir",
-        "redactar", "reconocer", "caracterizar", "diferenciar", "relacionar",
-        "modelar", "resolver", "diseñar", "aplicar", "describir"
-    ]
-    conectores_condicion = ["mediante", "a través de", "con el uso", "a partir de", "mediante la", "a traves de", "con apoyo de"]
-
-    tiene_verbo = any(re.search(rf"\b{v}\b", texto_total, re.IGNORECASE) for v in verbos_infinitivo)
-    tiene_condicion = any(re.search(rf"\b{c}\b", texto_total, re.IGNORECASE) for c in conectores_condicion)
-
-    if tiene_verbo and tiene_condicion:
-        hallazgos["exitos"].append("Objetivo Pedagógico: Cumple estructura canónica (Verbo en infinitivo + Condición metodológica).")
-    else:
-        detalles_obj = []
-        if not tiene_verbo:
-            detalles_obj.append("verbo en infinitivo observable")
-        if not tiene_condicion:
-            detalles_obj.append("condición (ej: 'mediante...', 'a través de...')")
-        hallazgos["advertencias"].append(f"Objetivo Pedagógico: Podría faltar {' o '.join(detalles_obj)} en la formulación de 4 partes.")
-
-    # 4. Alternativas de Selección Múltiple
-    # Buscar opciones E)
-    opciones_e = re.findall(r"\b[eE][\)\.\-–]\s+[A-Za-z0-9]", texto_total)
-    if opciones_e:
-        hallazgos["errores"].append(f"Formato Reactivos: Se encontraron {len(opciones_e)} opciones 'E)'. Las pruebas DEMRE (PAES/SIMCE) vigentes son estrictamente A-D (4 opciones).")
-    else:
-        hallazgos["exitos"].append("Formato Reactivos: Sin opciones E (cumple estándar DEMRE de 4 alternativas A-D).")
-
-    preguntas_bloque = re.findall(r"[A-Da-d][\)\.\-–]\s*([^\n\r]+)", contenido)
-    if len(preguntas_bloque) >= 4:
-        hallazgos["estadisticas"]["alternativas_detectadas"] = len(preguntas_bloque)
-        hallazgos["exitos"].append(f"Reactivos: Detectadas al menos {len(preguntas_bloque)} alternativas de selección múltiple.")
-
-    # 5. Preguntas de Desarrollo y Espacio de Respuesta
-    tiene_dev_lines = any(c in parser.clases for c in ["dev-lines", "ln", "write-line", "writing-box", "renglones", "lineas-respuesta"])
-    if tiene_dev_lines or ".ln" in estilos_totales or "dev-lines" in estilos_totales:
-        hallazgos["exitos"].append("Desarrollo: Renglones pautados presentes (.dev-lines / .ln).")
-    else:
-        pide_desarrollo = bool(re.search(r"\b(explica|fundamenta|justifica|redacta|argumenta|evalúa)\b", texto_total, re.IGNORECASE))
-        if pide_desarrollo:
-            hallazgos["advertencias"].append("Desarrollo: Hay preguntas de desarrollo pero no se detectaron clases de renglones (.dev-lines / .ln).")
-
-    # 6. Configuración de Impresión A4
-    tiene_page_a4 = bool(re.search(r"@page\s*\{[^}]*A4", estilos_totales, re.IGNORECASE)) or "@page" in estilos_totales
-    tiene_sheet = "sheet" in parser.clases or ".sheet" in estilos_totales
-    tiene_break_avoid = "break-inside: avoid" in estilos_totales or "page-break-inside: avoid" in estilos_totales
-
-    if tiene_page_a4 and tiene_sheet:
-        hallazgos["exitos"].append("Impresión: Configuración A4 definida (@page y contenedor .sheet).")
-    else:
-        hallazgos["advertencias"].append("Impresión: Se recomienda incluir '@page { size: A4 portrait; margin: 7mm 8mm; }' y contenedor .sheet.")
-
-    if tiene_break_avoid:
-        hallazgos["exitos"].append("Impresión: Reglas de protección de corte activas (break-inside: avoid).")
-    else:
-        hallazgos["advertencias"].append("Impresión: Falta 'break-inside: avoid' para evitar corte de preguntas entre páginas.")
-
-    return hallazgos
-
-
-def imprimir_reporte(hallazgos: dict) -> int:
-    print("\n" + "=" * 78)
-    print(f"  AUDITORÍA DOCENTES CHILE IA: {Path(hallazgos['archivo']).name}")
-    print("=" * 78)
-
-    if hallazgos["exitos"]:
-        print("\n  [OK] CRITERIOS CUMPLIDOS:")
-        for ex in hallazgos["exitos"]:
-            print(f"       + {ex}")
-
-    if hallazgos["advertencias"]:
-        print("\n  [!] ADVERTENCIAS / RECOMENDACIONES:")
-        for adv in hallazgos["advertencias"]:
-            print(f"       * {adv}")
-
-    if hallazgos["errores"]:
-        print("\n  [X] ERRORES CRÍTICOS:")
-        for err in hallazgos["errores"]:
-            print(f"       ! {err}")
-        print("\n" + "-" * 78)
-        print("  RESULTADO: REPROBADO (Corrija los errores antes de imprimir/publicar)")
-        print("-" * 78 + "\n")
-        return 1
-
-    print("\n" + "-" * 78)
-    print("  RESULTADO: APROBADO CON ÉXITO")
-    print("-" * 78 + "\n")
-    return 0
+        out["no_verificado"].append("No se detectaron elementos de espacio de respuesta; CSS aislado no demuestra su presencia.")
+    ids = set()
+    for item in parser.reactivos:
+        identidad = item["id"]
+        if not identidad or identidad in ids:
+            out["errores"].append(f"Identificador de reactivo vacío o duplicado: {identidad!r}.")
+        ids.add(identidad)
+        try:
+            cantidad = int(item["cantidad"])
+            if not 2 <= cantidad <= 5:
+                raise ValueError
+        except (TypeError, ValueError):
+            out["errores"].append(f"Reactivo {identidad}: declarar data-opciones entre 2 y 5 según perfil verificado.")
+            continue
+        esperadas = list("ABCDE"[:cantidad])
+        opciones = item["opciones"]
+        if len(opciones) != cantidad or sorted(opciones) != esperadas:
+            out["errores"].append(f"Reactivo {identidad}: opciones {opciones!r}; se declararon {cantidad} ({esperadas!r}).")
+        if item["clave"] is not None and item["clave"] not in opciones:
+            out["errores"].append(f"Reactivo {identidad}: clave fuera de las opciones declaradas.")
+        if item["clave"] is not None:
+            out["advertencias"].append(f"Reactivo {identidad}: contiene clave en el HTML; retirar de la versión de estudiante en un ensayo cerrado.")
+    out["estadisticas"]["reactivos_marcados"] = len(parser.reactivos)
+    if not parser.reactivos:
+        out["no_verificado"].append("Sin reactivos marcados: no se comprobó cantidad, alternativas ni claves.")
+    for src in parser.imagenes:
+        if src.startswith(("https://", "http://", "data:", "//")):
+            out["no_verificado"].append("Imagen remota o embebida: legibilidad y disponibilidad requieren revisión.")
+        elif not (ruta.parent / src.split("#")[0].split("?")[0]).is_file():
+            out["errores"].append(f"Imagen local ausente: {src}")
+    return out
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Auditar calidad de material didáctico escolar en HTML.")
-    parser.add_argument("archivo", help="Ruta al archivo HTML de la guía, evaluación o planificación.")
-    args = parser.parse_args()
-
-    ruta = Path(args.archivo)
-    hallazgos = auditar_guia_html(ruta)
-    codigo_salida = imprimir_reporte(hallazgos)
-    sys.exit(codigo_salida)
+    cli = argparse.ArgumentParser(description=__doc__)
+    cli.add_argument("archivo", type=Path)
+    cli.add_argument("--json", action="store_true")
+    args = cli.parse_args()
+    out = auditar_guia_html(args.archivo)
+    if args.json:
+        print(json.dumps(out, ensure_ascii=False, indent=2))
+    else:
+        print(out["estado"])
+        for group in ("errores", "advertencias", "comprobaciones", "no_verificado"):
+            for item in out[group]:
+                print(f"{group}: {item}")
+    return 2 if out["errores"] else 0
 
 
 if __name__ == "__main__":
-    main()
-
+    raise SystemExit(main())

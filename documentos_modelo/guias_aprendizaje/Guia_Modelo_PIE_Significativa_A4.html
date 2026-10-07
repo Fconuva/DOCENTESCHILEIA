@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guía de Aprendizaje N° [X] (Adecuación Curricular Significativa - PACI) | Docentes Chile IA</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    <title>Modelo de guía con objetivo ajustado | Docentes Chile IA</title>
+
+
+
     <style>
         @page {
             size: A4 portrait;
@@ -252,7 +252,7 @@
         }
     </style>
 </head>
-<body>
+<body data-plantilla="modelo-editable">
 
 <div class="sheet">
     <!-- MEMBRETE INSTITUCIONAL -->
@@ -288,7 +288,7 @@
 
     <!-- BANNER PIE SIGNIFICATIVA -->
     <div class="pie-paci-banner">
-        <span>🌟 Adecuación Curricular Significativa (Decreto 83 - PACI / DIL)</span>
+        <span>Modelo de actividad con objetivo ajustado; requiere acuerdo individual</span>
         <span>Lectura guiada y formato de respuesta simplificado</span>
     </div>
 
@@ -303,12 +303,12 @@
         <tr>
             <td colspan="2"><strong>Profesor(a):</strong> [Nombre del Docente]</td>
             <td><strong>Puntaje:</strong> ___ / [X] pts</td>
-            <td><strong>Nota / Logro:</strong> _______ (60%)</td>
+            <td><strong>Nota / Logro:</strong> _______ [escala acordada]</td>
         </tr>
     </table>
 
-    <!-- OBJETIVO CANÓNICO ADAPTADO -->
-    <div class="obj-box">
+    <!-- OBJETIVO DEL ENCARGO ADAPTADO -->
+    <div class="obj-box" data-objetivo>
         <strong>🎯 Objetivo de la Clase:</strong>
         Identificar las acciones y hechos principales de la historia, mediante la lectura guiada de párrafos breves con apoyo visual, fortaleciendo la atención y la comprensión lectora.
     </div>
@@ -332,43 +332,42 @@
     </div>
 
     <!-- PREGUNTA 1: OPCIÓN BINARIA A/B -->
-    <div class="question">
+    <div class="question" data-reactivo="1" data-opciones="2">
+
         <div class="q-header">
             <div class="q-title"><span class="q-num">1.</span> ¿Qué aprendieron a hacer las personas en el primer párrafo?</div>
             <span class="badge s-loc">Localizar</span>
         </div>
         <div class="binary-options">
-            <div class="bin-card">
-                <span class="bin-let">A</span>
-                <span>Colaborar y cuidar su entorno. (Correcta)</span>
+            <div class="bin-card" data-opcion="A"><span class="bin-let">A</span>
+                <span>Colaborar y cuidar su entorno.</span>
             </div>
-            <div class="bin-card">
-                <span class="bin-let">B</span>
+            <div class="bin-card" data-opcion="B"><span class="bin-let">B</span>
                 <span>Viajar solos a una montaña lejana.</span>
             </div>
         </div>
     </div>
 
     <!-- PREGUNTA 2: INTERPRETACIÓN BINARIA A/B -->
-    <div class="question">
+    <div class="question" data-reactivo="2" data-opciones="2">
+
         <div class="q-header">
             <div class="q-title"><span class="q-num">2.</span> ¿Cómo se sintieron las personas al reunirse en el segundo párrafo?</div>
             <span class="badge s-int">Interpretar</span>
         </div>
         <div class="binary-options">
-            <div class="bin-card">
-                <span class="bin-let">A</span>
+            <div class="bin-card" data-opcion="A"><span class="bin-let">A</span>
                 <span>Se sintieron tristes y enojadas.</span>
             </div>
-            <div class="bin-card">
-                <span class="bin-let">B</span>
-                <span>Se sintieron felices y celebraron con alegría. (Correcta)</span>
+            <div class="bin-card" data-opcion="B"><span class="bin-let">B</span>
+                <span>Se sintieron felices y celebraron con alegría.</span>
             </div>
         </div>
     </div>
 
     <!-- ACTIVIDAD 3: EXPRESIÓN GRÁFICA / DIBUJO -->
     <div class="question">
+
         <div class="q-header">
             <div class="q-title"><span class="q-num">3.</span> Dibuja la parte que más te gustó de la lectura:</div>
         </div>
