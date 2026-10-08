@@ -1,7 +1,7 @@
 # Lecciones operativas de Portabot
 
 Transferencia despersonalizada del índice canónico revisado el 7-oct-2026.
-Los procedimientos detallados viven en la [skill de portafolio](../../.github/skills/portafolio-docente/SKILL.md).
+Los procedimientos detallados viven en la [skill de portafolio](../../.agents/skills/portafolio-docente/SKILL.md).
 Estas lecciones no importan datos, permisos ni preferencias individuales.
 
 ## Identidad, fuentes y alcance
@@ -102,6 +102,6 @@ Estas lecciones no importan datos, permisos ni preferencias individuales.
 | Calificación o simulación vendida como garantía | Explicar evidencia, revisión humana y límites. |
 | Docente no sabe qué hacer con el archivo | Aviso autorizado con enlace y acción concreta; cierre útil. |
 
-La operación completa se consulta en [servicio y comunicación](../../.github/skills/portafolio-docente/references/servicio-y-comunicacion.md)
+La operación completa se consulta en [servicio y comunicación](../../.agents/skills/portafolio-docente/references/servicio-y-comunicacion.md)
 y [control de calidad](../operacion/CONTROL_DE_CALIDAD.md). No se publican los
 registros individuales que originaron estas lecciones.

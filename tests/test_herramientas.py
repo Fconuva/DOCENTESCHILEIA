@@ -7,7 +7,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "herramientas"))
-from instalar_skill import instalar
+from instalar_skill import ROOT_DIRS, instalar
 from pipeline_docente import hash_archivo, validar_registro
 from validar_material_docente import auditar_guia_html
 from validar_repositorio import validar
@@ -202,6 +202,66 @@ class Estructura(ArchivosTemporales):
     def test_sin_frontmatter_no_es_skill_valida(self):
         self.write("SKILL.md", "Solo una cabecera")
         self.assertTrue(validar(self.base)["errores"])
+
+
+class PaqueteParaDocentes(unittest.TestCase):
+    """El paquete se abre como carpeta en Antigravity: las skills deben estar donde las busca."""
+
+    raiz = Path(__file__).resolve().parents[1]
+    skills_docente = {"empezar", "planificar-clase", "planificar-unidad", "planificar-anual", "crear-evaluacion", "revisar-material"}
+
+    def test_skills_en_la_ruta_estandar(self):
+        nombres = {p.parent.name for p in (self.raiz / ".agents" / "skills").glob("*/SKILL.md")}
+        self.assertTrue(self.skills_docente <= nombres, self.skills_docente - nombres)
+
+    def test_no_quedan_rutas_que_antigravity_no_lee(self):
+        self.assertFalse((self.raiz / ".github" / "skills").exists())
+        self.assertFalse((self.raiz / ".agent").exists())
+
+    def test_nombre_de_skill_coincide_con_su_carpeta(self):
+        for ruta in (self.raiz / ".agents" / "skills").glob("*/SKILL.md"):
+            with self.subTest(skill=ruta.parent.name):
+                cabecera = ruta.read_text(encoding="utf-8").split("---")[1]
+                self.assertIn(f"name: {ruta.parent.name}\n", cabecera)
+
+    def test_reglas_comunes_caben_en_el_limite_de_antigravity(self):
+        self.assertLess((self.raiz / "AGENTS.md").stat().st_size, 24000)
+
+    def test_cada_pdf_oficial_tiene_texto_buscable(self):
+        for carpeta in ("marco_curricular/documentos_oficiales", "temarios_evaluacion_docente_2026"):
+            for pdf in (self.raiz / carpeta).glob("*.pdf"):
+                with self.subTest(pdf=pdf.name):
+                    txt = pdf.with_suffix(".txt")
+                    self.assertTrue(txt.is_file())
+                    self.assertIn("[página 1 del PDF]", txt.read_text(encoding="utf-8")[:2000])
+
+    def test_modelos_de_planificacion_declaran_a4_y_objetivo(self):
+        for nombre in ("Planificacion_Anual_Modelo", "Planificacion_Unidad_Modelo", "Planificacion_Clase_3_Momentos_Modelo"):
+            with self.subTest(modelo=nombre):
+                out = auditar_guia_html(self.raiz / "documentos_modelo" / "planificaciones" / f"{nombre}.html")
+                self.assertFalse(out["errores"])
+                self.assertTrue(any("tamaño A4" in x for x in out["comprobaciones"]))
+                self.assertTrue(any("data-objetivo" in x for x in out["comprobaciones"]))
+
+    def test_indice_de_oa_apunta_a_listas_de_objetivos(self):
+        indice = (self.raiz / "marco_curricular" / "INDICE_DE_OA.md").read_text(encoding="utf-8")
+        archivo, lineas, filas = None, [], 0
+        for renglon in indice.split("\n"):
+            if renglon.startswith("Archivo: `"):
+                archivo = renglon.split("`")[1]
+                lineas = (self.raiz / archivo).read_text(encoding="utf-8").split("\n")
+            celdas = [c.strip() for c in renglon.split("|")]
+            if archivo and len(celdas) == 6 and celdas[4].isdigit():
+                filas += 1
+                inicio = int(celdas[4]) - 1
+                tramo = "\n".join(lineas[inicio:inicio + 30])
+                with self.subTest(archivo=archivo, linea=celdas[4]):
+                    self.assertIn("Objetivos de Aprendizaje", tramo)
+                    self.assertIn(f"[página {celdas[3]} del PDF]", "\n".join(lineas[max(inicio - 60, 0):inicio + 1]))
+        self.assertGreater(filas, 100)
+
+    def test_carpeta_del_docente_no_se_instala(self):
+        self.assertNotIn("mi_trabajo", ROOT_DIRS)
 
 
 if __name__ == "__main__":

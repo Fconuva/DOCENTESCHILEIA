@@ -1,119 +1,63 @@
-# Marco para la Buena Enseñanza (MBE) — Estándar de la Profesión Docente en Chile
+# Marco para la Buena Enseñanza (MBE 2021)
 
-## Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (CPEIP / Mineduc)
+Los Estándares de la Profesión Docente, Marco para la Buena Enseñanza, fueron
+aprobados por el Consejo Nacional de Educación en la resolución N.º 068 de 2021
+y publicados por el CPEIP en agosto de 2021. Describen lo que un docente debe
+saber y saber hacer. Tienen 4 dominios y 12 estándares; cada estándar se
+desglosa en descriptores.
 
-El **Marco para la Buena Enseñanza (MBE)** constituye el referente nacional que define lo que los docentes chilenos deben saber, saber hacer y ponderar en el ejercicio de su profesión. Es el instrumento rector sobre el cual se construyen los instrumentos de la **Evaluación Docente (DocenteMás)** y la **Prueba de Conocimientos Específicos y Pedagógicos (ECEP)**.
+Esta versión reemplazó la estructura anterior de criterios A.1, B.2, C.6, etc.
+Si un documento antiguo cita esos criterios, no corresponde al marco vigente.
 
----
+Fuente del paquete: [PDF oficial](documentos_oficiales/Marco_para_la_Buena_Ensenanza_General.pdf)
+y su [texto buscable](documentos_oficiales/Marco_para_la_Buena_Ensenanza_General.txt).
+Los enunciados de abajo están copiados de la «Visión sinóptica del MBE 2021»
+(página 17 del PDF). Los descriptores de cada estándar se leen en el PDF.
+Educación Parvularia tiene su propio marco:
+[PDF](documentos_oficiales/Marco_para_la_Buena_Ensenanza_Parvularia.pdf).
 
-## 1. Estructura de los Cuatro Dominios
+## Dominio A: Preparación del proceso de enseñanza y aprendizaje
 
-El ejercicio docente se organiza en torno a cuatro dominios interconectados que recorren el ciclo completo de la práctica pedagógica:
+| Estándar | Enunciado oficial |
+|---|---|
+| 1. Aprendizaje y desarrollo de los/as estudiantes | Comprende cómo aprenden los/as estudiantes, los factores educativos, familiares, sociales y culturales que influyen en su desarrollo, y la importancia de atender a diferencias individuales en el diseño de los procesos de enseñanza y aprendizaje. |
+| 2. Conocimiento disciplinar, didáctico y del currículum escolar | Demuestra una comprensión amplia, profunda y crítica de los conocimientos, habilidades y actitudes de la disciplina que enseña, su didáctica y el currículum escolar vigente, con el propósito de hacer el saber disciplinar accesible y significativo para todos sus estudiantes. |
+| 3. Planificación de la enseñanza | Planifica experiencias de aprendizaje efectivas, inclusivas y culturalmente pertinentes para el logro de los objetivos de aprendizaje, considerando el conocimiento disciplinar y didáctico, el currículum vigente, el contexto, las características y conocimientos previos de sus estudiantes y la evidencia generada a partir de las evaluaciones. |
+| 4. Planificación de la evaluación | Planifica la evaluación, incorporando diversas modalidades que permitan producir evidencias alineadas con los objetivos de aprendizaje, monitorear el nivel de logro de estos y retroalimentar a sus estudiantes. |
 
-```text
-                     ┌──────────────────────────────────────────────┐
-                     │ DOMINIO A: Preparación de la Enseñanza       │
-                     │ (Planificación, disciplina y evaluación)     │
-                     └──────────────────────┬───────────────────────┘
-                                            │
-                     ┌──────────────────────▼──────────────────────┐
-                     │ DOMINIO B: Creación de un Ambiente Propicio  │
-                     │ (Clima de aula, convivencia y altas expect.)│
-                     └──────────────────────┬───────────────────────┘
-                                            │
-                     ┌──────────────────────▼──────────────────────┐
-                     │ DOMINIO C: Enseñanza para el Aprendizaje     │
-                     │ (Interacciones, preguntas, andamiaje, error)│
-                     └──────────────────────┬───────────────────────┘
-                                            │
-                     ┌──────────────────────▼──────────────────────┐
-                     │ DOMINIO D: Responsabilidades Profesionales   │
-                     │ (Reflexión pedagógica, ética y comunidad)   │
-                     └──────────────────────────────────────────────┘
-```
+## Dominio B: Creación de un ambiente propicio para el aprendizaje
 
----
+| Estándar | Enunciado oficial |
+|---|---|
+| 5. Ambiente respetuoso y organizado | Establece un ambiente de aula respetuoso, inclusivo y organizado, para favorecer el aprendizaje de sus estudiantes y su compromiso con la promoción de la buena convivencia. |
+| 6. Desarrollo personal y social | Promueve el desarrollo personal y social de sus estudiantes, favoreciendo su bienestar y fomentando competencias socioemocionales, actitudes y hábitos necesarios para el ejercicio de la ciudadanía, vida democrática, cuidado por el medio ambiente y valoración por la diversidad. |
 
-## 2. Dominio A: Preparación de la Enseñanza
+## Dominio C: Enseñanza para el aprendizaje de todos/as los/as estudiantes
 
-*«Criterios que aseguran que el docente domina la disciplina que enseña y diseña estrategias de aprendizaje y evaluación coherentes con el currículum nacional y las características de sus estudiantes.»*
+| Estándar | Enunciado oficial |
+|---|---|
+| 7. Estrategias de enseñanza para el logro de aprendizajes profundos | Implementa estrategias de enseñanza basadas en una comunicación clara y precisa, para atender las diferencias individuales y promover altas expectativas, participación y colaboración de los/las estudiantes en actividades inclusivas y desafiantes orientadas al logro de aprendizajes profundos. |
+| 8. Estrategias para el desarrollo de habilidades del pensamiento | Desafía a sus estudiantes promoviendo el desarrollo del pensamiento crítico, creativo y la metacognición, basándose en los conocimientos de la disciplina que enseña, para que aprendan de manera comprensiva, reflexiva y con creciente autonomía. |
+| 9. Evaluación y retroalimentación para el aprendizaje | Utiliza la evaluación y la retroalimentación para monitorear y potenciar el aprendizaje, basándose en criterios evaluativos y evidencia relevante, ajustando apoyos de manera oportuna y específica, y propiciando la autoevaluación en los/as estudiantes. |
 
-### Criterios y Descriptores Fundamentales:
-- **Criterio A.1: Domina los contenidos de las disciplinas que enseña y el marco curricular nacional.**
-  - Conoce en profundidad los conceptos, principios, metodologías y debates actuales de su asignatura.
-  - Comprende la articulación vertical y horizontal de los Objetivos de Aprendizaje (OA) en la trayectoria escolar.
-- **Criterio A.2: Conoce las características, conocimientos y experiencias de sus estudiantes.**
-  - Identifica el nivel de desarrollo cognitivo, emocional, social y cultural de su grupo.
-  - Reconoce y aprovecha los conocimientos previos, fortalezas e intereses del estudiantado.
-- **Criterio A.3: Domina la didáctica de las disciplinas que enseña (PCK).**
-  - Aplica estrategias de enseñanza variadas, pertinentes y desafiantes acordes a la naturaleza del contenido.
-  - Anticipa concepciones erróneas comunes y diseña mediaciones específicas para superarlas.
-- **Criterio A.4: Organiza los objetivos y contenidos de manera coherente con el tiempo disponible.**
-  - Secuencia las clases con una progresión lógica y gradual de complejidad.
-  - Distribuye el tiempo de forma realista (clases de 45 o 90 minutos con inicio, desarrollo y cierre efectivos).
-- **Criterio A.5: Las estrategias de evaluación son coherentes con los objetivos de aprendizaje.**
-  - Diseña instrumentos diagnósticos, formativos y sumativos directamente alineados al verbo y contenido del OA.
-  - Establece criterios y rúbricas de logro transparentes y compartidos con los estudiantes.
+## Dominio D: Responsabilidades profesionales
 
----
+| Estándar | Enunciado oficial |
+|---|---|
+| 10. Ética profesional | Actúa éticamente, resguardando los derechos de todos sus estudiantes, su bienestar y el de la comunidad escolar, en consonancia con el proyecto educativo institucional, la legislación vigente y el marco regulatorio para la educación escolar. |
+| 11. Aprendizaje profesional continuo | Demuestra compromiso con su aprendizaje profesional continuo, transformando sus prácticas a través de la reflexión sistemática, la colaboración y la participación en diversas instancias de desarrollo profesional para la mejora del aprendizaje de los estudiantes. |
+| 12. Compromiso con el mejoramiento continuo de la comunidad escolar | Demuestra compromiso con la comunidad escolar, mediante la participación en iniciativas de desarrollo y mejoramiento continuo del centro educativo, asumiendo una responsabilidad compartida con estudiantes, docentes, directivos, familias y apoderados por el logro de las metas institucionales. |
 
-## 3. Dominio B: Creación de un Ambiente Propicio para el Aprendizaje
+## Cómo usarlo al planificar
 
-*«Criterios referidos al clima relacional, la equidad, el respeto mutuo, la disciplina formativa y las altas expectativas que favorecen el aprendizaje de todos.»*
+| Lo que estás haciendo | Estándar que lo orienta | Pregunta de revisión |
+|---|---|---|
+| Elegir y acotar el objetivo de la clase | 2 y 3 | ¿El objetivo sale del currículum vigente y es abordable en este tiempo con este curso? |
+| Diseñar actividades | 3 y 7 | ¿La actividad hace que el estudiante piense y produzca, o solo que complete? |
+| Preparar preguntas | 8 | ¿Hay preguntas que piden explicar, justificar o comparar, además de recordar? |
+| Preparar la evaluación | 4 y 9 | ¿La evidencia que recojo muestra lo que dice el objetivo? ¿Cuándo y cómo retroalimento? |
+| Pensar en el curso real | 1 y 5 | ¿Qué saben ya, qué les cuesta y qué necesita la sala para funcionar? |
 
-### Criterios y Descriptores Fundamentales:
-- **Criterio B.1: Establece un clima de relaciones de aceptación, equidad, confianza, solidaridad y respeto.**
-  - Fomenta interacciones amables y constructivas; acoge la diversidad sin discriminación de ningún tipo.
-  - Escucha activamente a sus estudiantes y valora sus opiniones e identidades.
-- **Criterio B.2: Manifiesta altas expectativas sobre las posibilidades de aprendizaje de todos sus alumnos.**
-  - Promueve la convicción de que todo estudiante puede aprender con el esfuerzo y apoyo adecuado (mentalidad de crecimiento).
-  - Plantea desafíos intelectuales exigentes pero accesibles mediante andamiaje.
-- **Criterio B.3: Establece y mantiene normas consistentes de convivencia en el aula.**
-  - Co-construye normas claras orientadas al bienestar colectivo y al cuidado del espacio formativo.
-  - Maneja las disrupciones con serenidad, enfoque formativo y justicia pedagógica.
-- **Criterio B.4: Establece un ambiente organizado de trabajo y dispone los espacios y recursos en función de los aprendizajes.**
-  - Optimiza las transiciones entre momentos de la clase para evitar tiempos muertos.
-  - Dispone los recursos didácticos (guías, materiales concretos, proyectores) de forma ágil y segura.
-
----
-
-## 4. Dominio C: Enseñanza para el Aprendizaje de Todos los Estudiantes
-
-*«Criterios que guían la interacción pedagógica en el aula: cómo el docente comunica, modela, pregunta, retroalimenta y promueve el pensamiento profundo.»*
-
-### Criterios y Descriptores Fundamentales:
-- **Criterio C.1: Comunica en forma clara y precisa los objetivos de aprendizaje.**
-  - Explicita qué se aprenderá, cómo se trabajará y por qué es relevante para la vida y el contexto.
-- **Criterio C.2: Las estrategias de enseñanza son desafiantes, coherentes y significativas para los estudiantes.**
-  - Promueve la indagación, la resolución de problemas, el debate fundamentado y la producción activa.
-  - Conecta los aprendizajes con situaciones auténticas del entorno social, cultural o laboral.
-- **Criterio C.3: El contenido de la clase es tratado con rigurosidad conceptual y es comprensible para los estudiantes.**
-  - Utiliza vocabulario técnico disciplinar preciso, explicándolo a través de ejemplos cotidianos y analogías.
-- **Criterio C.4: Optimiza el uso del tiempo disponible para la enseñanza.**
-  - Mantiene el ritmo de la clase centrado en el foco pedagógico; asegura que los estudiantes dediquen la mayor parte del tiempo a producir o razonar.
-- **Criterio C.5: Promueve el desarrollo del pensamiento crítico, creativo y metacognitivo.**
-  - Formula preguntas abiertas de orden superior (*«¿Por qué?», «¿Qué evidencia respalda esa postura?», «¿Cómo llegaste a esa conclusión?»*).
-  - Modela estrategias de autorregulación y reflexión sobre el propio proceso de aprendizaje.
-- **Criterio C.6: Evalúa y monitorea permanentemente el proceso de comprensión y apropiación de los contenidos.**
-  - Recorre la sala, revisa producciones en proceso y realiza preguntas de chequeo a estudiantes diversos.
-  - Ofrece **retroalimentación formativa inmediata**: orientada al criterio, descriptiva y no meramente sancionatoria o de elogio vacío.
-  - Utiliza el error como una ventana valiosa para profundizar en el razonamiento conceptual.
-
----
-
-## 5. Dominio D: Responsabilidades Profesionales
-
-*«Criterios vinculados a la dimensión ética, el trabajo colaborativo con la comunidad escolar y la reflexión crítica continua sobre la propia práctica.»*
-
-### Criterios y Descriptores Fundamentales:
-- **Criterio D.1: El profesor reflexiona sistemáticamente sobre su práctica pedagógica.**
-  - Analiza críticamente los resultados de sus evaluaciones para reformular planificaciones y estrategias de aula.
-  - Busca actualización constante en su disciplina y en nuevas metodologías docentes.
-- **Criterio D.2: Construye relaciones profesionales y de equipo con sus colegas.**
-  - Participa activamente en el trabajo colaborativo (co-docencia PIE, reuniones de departamento, proyectos interdisciplinarios).
-  - Comparte materiales, experiencias y aprendizajes con sus pares (Módulo 3 DocenteMás).
-- **Criterio D.3: Asume responsabilidades en la orientación de sus alumnos y en la vinculación con las familias.**
-  - Mantiene comunicación fluida y formativa con padres y apoderados sobre el desarrollo integral del estudiante.
-- **Criterio D.4: Propicia y cuida el desarrollo integral de la comunidad educativa y el proyecto institucional.**
-  - Se compromete con el Proyecto Educativo Institucional (PEI) y la formación ciudadana democrática.
-
+El MBE describe el desempeño docente; no es una pauta de formato. No obliga a
+usar una plantilla ni una cantidad fija de momentos o minutos. En la evaluación
+docente manda además el manual y la rúbrica de la modalidad y del año.

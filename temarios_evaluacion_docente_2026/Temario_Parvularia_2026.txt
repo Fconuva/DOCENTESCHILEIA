@@ -1,0 +1,59 @@
+# Texto extraído de Temario_Parvularia_2026.pdf
+# Extracción automática en orden de lectura (pdftotext); cada bloque indica la página del PDF.
+# Sirve para buscar y citar. Tablas, columnas y títulos de eje pueden quedar desplazados:
+# ante cualquier duda manda el PDF oficial del mismo nombre.
+
+[página 1 del PDF]
+MINISTERIO DE EDUCACIÓN Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas — CPEIP
+Instrumento de Evaluación de Conocimientos Específicos y Pedagógicos 2026
+EDUCACIÓN PARVULARIA
+DOMINIO 1: CURRÍCULUM, FUNDAMENTOS, POLÍTICAS Y NORMATIVAS EN LA EDUCACIÓN PARVULARIA. 1.1 Nociones generales y fundamentos de la Educación Parvularia. • Identificar situaciones educativas, pertinentes y colaborativas que resguardan el protagonismo de niños y niñas, basadas en los principios fundantes del nivel.
+1.2 Institucionalidad y Políticas Educativas para la Educación Parvularia. • Comprender los aportes de la Ley N° 20.529 Sistema Nacional de Aseguramiento de la Calidad de la
+Educación Parvularia, Básica y Media y su Fiscalización.; Ley N° 20.835 crea la Subsecretaría de Educación Parvularia; Ley Nº 20.845 de Inclusión Escolar. • Reconocer los propósitos y fundamentos de la Ley N° 20.911, crea el Plan de Formación Ciudadana para los Establecimientos Educacionales reconocidos por el Estado y sus implicancias en el nivel de Educación Parvularia.
+1.3 Conocimiento del Currículum de la Educación Parvularia. • Reconocer los propósitos e implicancias de la Ley N°20.835 en Educación Parvularia, que resguarda los
+compromisos de la política con la niñez basada en convenciones internacionales que garantizan los derechos de niños y niñas. • Reconocer innovaciones y modificaciones de la propuesta curricular y las relaciones entre ellas (fundamento, estructura curricular y contextos de aprendizaje). • Implementar en los procesos formativos, los principios pedagógicos que sustentan la educación de calidad, oportuna y pertinente para propiciar una formación integral y favorecer aprendizajes relevantes y significativos. • Proponer ambientes de aprendizaje significativos, y congruentes con las características e intereses de los niños y niñas, con el contexto sociocultural, intercultural y lingüístico, ya sea dentro o fuera del establecimiento.
+DOMINIO 2: DESARROLLO INTEGRAL DE NIÑAS Y NIÑOS. 2.1 Desarrollo Cognitivo. • Identificar momentos claves del desarrollo cognitivo de niñas y niños, que permitan sustentar las
+decisiones pedagógicas en congruencia con estos procesos.
+• 2.2 Desarrollo Socioemocional. • Asociar las características de los distintos tipos de apego y su relación con el desarrollo socioemocional
+del párvulo (basado en autores como Bowlby y Ainsworth).
+2.3 Desarrollo Psicomotriz.
+1
+
+[página 2 del PDF]
+MINISTERIO DE EDUCACIÓN Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas — CPEIP
+• Proponer experiencias de aprendizaje que permitan el desarrollo psicomotor de niños y niñas, fortaleciendo su autonomía y su capacidad de exploración para actuar en el entorno.
+2.4 Bienestar integral de niñas y niños. • Identificar características de ambientes físicos variados, seguros e inclusivos, con espacios y recursos
+educativos planificados previamente, de acuerdo con las características de todos los niños y niñas en ambientes libres de estereotipos, con recursos de apoyo según los requerimientos individuales y colectivos.
+DOMINIO 3: PROMOCIÓN, ENSEÑANZA Y EVALUACIÓN DEL ÁMBITO DESARROLLO PERSONAL Y SOCIAL. 3.1. Conocimientos disciplinarios y pedagógicos necesarios para gestionar el proceso de enseñanza y aprendizaje del Núcleo Identidad y Autonomía. • Conocer conceptos básicos que favorecen el desarrollo de la Identidad y Autonomía en niños y niñas, y
+que permitan orientar prácticas educativas que propician la construcción gradual de la conciencia de sí mismos como personas únicas y valiosas; con identificación, comprensión y expresión de las emociones (“alfabetización emocional”). • Seleccionar estrategias de enseñanza y aprendizaje que favorezcan la Identidad y Autonomía, incorporándolas de manera transversal en el desarrollo de los otros núcleos del nivel de Educación Parvularia. • Seleccionar estrategias de evaluación asociadas a instrumentos y técnicas adecuadas a la naturaleza de los OA del Núcleo Identidad y Autonomía. • Analizar los principales componentes disciplinarios del Núcleo de Corporalidad y Movimiento como: conocimiento de sí mismo, corporalidad y valoración de las posibilidades motrices para ampliar la exploración del medio y conquistar una mayor autonomía. • Promover estrategias de retroalimentación para recoger evidencias de aprendizaje de niños y niñas del Núcleo Corporalidad y Movimiento. 3.2 Conocimientos disciplinarios y pedagógicos necesarios para gestionar el proceso de enseñanza y aprendizaje del Núcleo Convivencia y Ciudadanía. • Conocer conceptos básicos que favorecen el desarrollo de la Convivencia y Ciudadanía en niños y niñas, orientando prácticas educativas que promueven la interacción social, la participación, la colaboración y la resolución pacífica de conflictos, en coherencia con la formación ciudadana del nivel. • Seleccionar estrategias de enseñanza y aprendizaje que favorezcan la Convivencia y Ciudadanía, incorporándolas de manera transversal en el desarrollo de los demás núcleos del nivel. • Seleccionar estrategias de evaluación asociadas a instrumentos y técnicas adecuadas a la naturaleza del Núcleo Convivencia y Ciudadanía.
+2
+
+[página 3 del PDF]
+MINISTERIO DE EDUCACIÓN Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas — CPEIP
+DOMINIO 4: FUNDAMENTOS, NOCIONES CONCEPTUALES Y ESTRATEGIAS DE APRENDIZAJE DEL ÁMBITO COMUNICACIÓN INTEGRAL.
+4.1. Conocimientos disciplinarios y pedagógicos necesarios para gestionar el proceso de enseñanza y aprendizaje del Núcleo Lenguaje Verbal. • Comprender el desarrollo del lenguaje verbal, no verbal y paraverbal para propiciar acciones
+pedagógicas pertinentes al desarrollo del lenguaje de niños y niñas. • Comprender la dimensión oral y escrita del lenguaje para propiciar la implementación de acciones
+pedagógicas pertinentes al desarrollo del lenguaje de niños y niñas. • Seleccionar estrategias de evaluación que incorporen instrumentos y técnicas adecuadas a la naturaleza
+de los OA del Núcleo Lenguaje Verbal. • Identificar estrategias de enseñanza que promueven en los niños y niñas aprendizajes del Núcleo
+Lenguaje Verbal. • Comprender los fundamentos asociados a la sensibilización y apreciación estética, en niños y niñas. • Determinar los componentes disciplinares vinculados al Núcleo de Lenguajes Artísticos: Expresión
+creativa, sensibilidad y apreciación artística. • Seleccionar estrategias de enseñanza y de evaluación que incorporen instrumentos y técnicas
+adecuadas a la naturaleza de los OA del Núcleo Lenguajes Artísticos. • Implementar estrategias de enseñanza y recursos pedagógicos que promuevan en los niños y niñas
+objetivos de aprendizaje del Núcleo Lenguajes Artísticos. • Proponer interacciones pedagógicas que retroalimenten a los niños y niñas para contribuir al logro de
+los aprendizajes del Núcleo Lenguajes Artísticos (utilización del error, utilización de las intervenciones de los/as párvulos, entre otros).
+DOMINIO 5: FUNDAMENTOS, NOCIONES CONCEPTUALES Y ESTRATEGIAS DE APRENDIZAJE DEL ÁMBITO INTERACCIÓN Y COMPRENSIÓN DEL ENTORNO.
+5.1. Conocimientos disciplinarios y pedagógicos necesarios para gestionar el proceso de enseñanza y aprendizaje del Núcleo Exploración del Entorno Natural.
+• Comprender las áreas del saber disciplinario vinculado a la Exploración del Entorno Natural como: descubrimiento de su entorno, desarrollo sostenible y pensamiento científico.
+• Conocer y seleccionar diversas estrategias de enseñanza-aprendizaje y evaluación que integren conocimientos, habilidades y actitudes del Núcleo Exploración del Entorno Natural.
+• Comprender las áreas del saber disciplinario vinculado a la Comprensión del Entorno Sociocultural.
+5.2 Conocimientos disciplinarios y pedagógicos necesarios para gestionar el proceso de enseñanza y aprendizaje del Núcleo Exploración del Entorno Sociocultural. • Comprender las áreas del saber disciplinario vinculado al Entorno Sociocultural como: manifestaciones
+del patrimonio cultural, material e inmaterial del país. • Conocer y seleccionar diversas estrategias de enseñanza y evaluación coherentes con el Núcleo
+Comprensión del Entorno Sociocultural.
+3
+
+[página 4 del PDF]
+MINISTERIO DE EDUCACIÓN Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas — CPEIP
+5.3 Conocimientos disciplinarios y pedagógicos necesarios para gestionar el proceso de enseñanza y aprendizaje del Núcleo Pensamiento Matemático. • Conocer y seleccionar diversas estrategias de enseñanza y evaluación coherentes con el Núcleo
+Pensamiento Matemático. • Comprender las áreas del saber disciplinario vinculado al Pensamiento Matemático como: Desarrollo
+de la resolución de problemas a partir del razonamiento lógico; establecimiento de relaciones causales; desarrollo de nociones tempo espaciales; y uso de la cuantificación en situaciones cotidianas.
+4
+

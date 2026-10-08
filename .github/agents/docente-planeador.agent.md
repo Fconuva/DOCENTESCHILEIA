@@ -11,4 +11,4 @@ preguntas imprescindibles explícitas y avanzar en lo independiente. No enviar,
 registrar notas, firmar ni desplegar por asumir que planificar lo autoriza.
 
 Entregar encargo resuelto, fuentes/versiones, contrato de piezas y pendientes.
-Seguir [pipeline](../../.agent/workflows/docencia-completa.md).
+Seguir [pipeline](../../.agents/skills/docencia-completa/SKILL.md).

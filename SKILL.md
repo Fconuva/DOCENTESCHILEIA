@@ -1,27 +1,33 @@
 ---
 name: docentes-chile-ia
-description: Planificar, construir, revisar y preparar materiales docentes chilenos, portafolios M1/M2/M3, pruebas de lectura y apoyos curriculares con fuentes verificadas. Coordina los procedimientos del paquete sin autorizar envíos ni escrituras administrativas.
+description: Planificar clases, unidades y el año, crear y revisar materiales y evaluaciones para aula chilena con el currículum oficial citado, y apoyar portafolios, lectura PAES/SIMCE, diversificación y preparación ECEP. Coordina los procedimientos del paquete sin autorizar envíos ni escrituras administrativas.
 ---
 
 # Docentes Chile IA
 
-Este paquete reúne el procedimiento completo de producción y revisión docente,
-las lecciones reutilizables de Portabot y referencias públicas del sistema chileno.
-La profundidad está distribuida por tarea: los procedimientos se conservan, y
-se abre el necesario en vez de cargar toda la biblioteca en cada consulta.
+Índice de tareas del paquete. Se elige la tarea, se lee su skill completa y
+solo las referencias que esa skill indica. Las instrucciones comunes están en
+[AGENTS.md](AGENTS.md).
 
 ## Elegir la tarea
 
 | Solicitud | Skill que debe leerse completa |
 |---|---|
-| M1, M2, M3, ficha de grabación, revisión por rúbrica, materiales del portafolio | [Portafolio docente](.github/skills/portafolio-docente/SKILL.md) |
-| Planificación, guía impresa, presentación espejo, pauta y recursos | [Creación de material](.github/skills/creacion-material-docente/SKILL.md) |
-| Enseñar lectura, construir o auditar un ensayo PAES/SIMCE | [Competencia lectora](.github/skills/paes-simce-competencia-lectora/SKILL.md) |
-| Identificar barreras, diversificar o aplicar una adecuación acordada | [DUA y adecuaciones](.github/skills/adecuaciones-curriculares-dua/SKILL.md) |
-| Preparación disciplinar/pedagógica ECEP | [Preparación ECEP](.github/skills/ecep-preparacion/SKILL.md) |
-| Contrastar planificación, asistencia, firma o calificaciones en Lirmi | [Registro verificado](.github/skills/lirmi-registro-verificado/SKILL.md) |
-| Contenido y contratos de entrega de una plataforma educativa | [Plataforma educativa](.github/skills/plataforma-educativa-calidad/SKILL.md) |
-| Localizar memoria pertinente y comprobar vigencia | [Contexto y Neuromapa](.github/skills/neuromapa-contexto-docente/SKILL.md) |
+| Primera vez, saludo o «¿qué puedes hacer?» | [Empezar](.agents/skills/empezar/SKILL.md) |
+| Una clase, planificación diaria o guion | [Planificar clase](.agents/skills/planificar-clase/SKILL.md) |
+| Una unidad, planificación mensual o semestral | [Planificar unidad](.agents/skills/planificar-unidad/SKILL.md) |
+| Planificación anual o distribución de los OA del año | [Planificar anual](.agents/skills/planificar-anual/SKILL.md) |
+| Prueba, rúbrica, lista de cotejo, pauta o ticket de salida | [Crear evaluación](.agents/skills/crear-evaluacion/SKILL.md) |
+| Revisar o mejorar un material ya hecho | [Revisar material](.agents/skills/revisar-material/SKILL.md) |
+| Guía impresa, presentación espejo, pauta y recursos | [Creación de material](.agents/skills/creacion-material-docente/SKILL.md) |
+| Enseñar lectura, construir o auditar un ensayo PAES/SIMCE | [Competencia lectora](.agents/skills/paes-simce-competencia-lectora/SKILL.md) |
+| Identificar barreras, diversificar o aplicar una adecuación acordada | [DUA y adecuaciones](.agents/skills/adecuaciones-curriculares-dua/SKILL.md) |
+| Preparación disciplinar y pedagógica ECEP | [Preparación ECEP](.agents/skills/ecep-preparacion/SKILL.md) |
+| M1, M2, M3, ficha de grabación, revisión por rúbrica | [Portafolio docente](.agents/skills/portafolio-docente/SKILL.md) |
+| Contrastar planificación, asistencia, firma o calificaciones en Lirmi | [Registro verificado](.agents/skills/lirmi-registro-verificado/SKILL.md) |
+| Contenido y contratos de entrega de una plataforma educativa | [Plataforma educativa](.agents/skills/plataforma-educativa-calidad/SKILL.md) |
+| Entrega formal a otra persona, con revisión independiente | [Docencia completa](.agents/skills/docencia-completa/SKILL.md) |
+| Localizar memoria pertinente y comprobar vigencia | [Contexto y Neuromapa](.agents/skills/neuromapa-contexto-docente/SKILL.md) |
 
 Si se trabaja dentro de una instalación privada de Portabot, abrir primero su
 AGENTS y su índice de reglas actual y aplicar sus skills canónicas. No usar esta
@@ -33,8 +39,9 @@ también prevalecen sobre una nota histórica.
 
 1. Distinguir consulta, propuesta, construcción, corrección, revisión o entrega.
    No rehacer lo que el docente ya aprobó por una preferencia del agente.
-2. Confirmar nivel, asignatura, modalidad, encargo y versión de las fuentes. Buscar
-   primero los datos existentes; no pedir al docente un manual público disponible.
+2. Confirmar nivel, asignatura, duración y versión de las fuentes. Buscar
+   primero los datos existentes en `mi_trabajo/mi_contexto.md`; no pedir al
+   docente un documento público que el paquete ya trae.
 3. Identificar destinatarios: estudiante, docente y plataforma. Una pauta con
    respuestas no se publica como guía del estudiante; un libreto no se pega como
    respuesta a un campo de plataforma.
@@ -46,10 +53,12 @@ también prevalecen sobre una nota histórica.
 
 ## Ejecución y cierre
 
-Usar el [pipeline completo](.agent/workflows/docencia-completa.md) cuando haya
-producción de entregables. Una consulta de lectura no necesita abrir un ciclo
-de construcción. El [control de calidad](conocimiento/operacion/CONTROL_DE_CALIDAD.md)
-explica cobertura, independencia y las diferencias entre comprobación técnica,
+El material de aula propio del docente se construye, se revisa con la lista de
+[errores típicos](conocimiento/docencia/ERRORES_TIPICOS_DE_LA_IA.md) y se
+entrega declarando lo no comprobado. Una entrega formal a otra persona usa el
+[pipeline completo](.agents/skills/docencia-completa/SKILL.md) y el
+[control de calidad](conocimiento/operacion/CONTROL_DE_CALIDAD.md), que
+explican cobertura, independencia y las diferencias entre comprobación técnica,
 revisión pedagógica, publicación y aviso.
 
 Los comandos del paquete trabajan sobre archivos locales. No escriben en Lirmi,
@@ -62,9 +71,11 @@ local. El resumen final distingue contenido, formatos, publicación y comunicaci
 
 ## Biblioteca y mantenimiento
 
+- [Currículum nacional](marco_curricular/CURRICULUM_NACIONAL.md): qué rige,
+  documentos por nivel y cómo encontrar y citar un OA.
 - [Índice de conocimiento](conocimiento/INDICE.md): procedimientos y referencias por área.
-- [Cobertura y procedencia](conocimiento/PROCEDENCIA_Y_COBERTURA.md): transferencia desde
-  las once áreas de Neuromapa, límites y fuentes canónicas.
+- [Cobertura y procedencia](conocimiento/PROCEDENCIA_Y_COBERTURA.md): fuentes,
+  límites y transferencia desde las áreas privadas.
 - [Reglas reutilizables de Portabot](conocimiento/portabot/LECCIONES_OPERATIVAS.md):
   identidad, integridad de campos, edición, simulación, auditoría y entrega.
 - [Casos de aceptación](ejemplos/CASOS_DE_ACEPTACION.md): comportamiento esperado

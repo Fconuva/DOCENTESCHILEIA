@@ -54,5 +54,5 @@ de la prueba, fuente textual, única clave defendible y distractores razonados.
 La longitud de la clave se revisa como posible pista, sin alterar corrección semántica.
 
 Abrir [metodología por proceso](../guias_metodologicas/METODOLOGIA_PAES_DEMRE.md),
-[skill de lectura](../.github/skills/paes-simce-competencia-lectora/SKILL.md)
+[skill de lectura](../.agents/skills/paes-simce-competencia-lectora/SKILL.md)
 y [comprobación de ensayos](../conocimiento/docencia/LECTURA_Y_EVALUACION.md).

@@ -1,9 +1,9 @@
 ---
 description: Diseño y revisión de enseñanza de lectura y ensayos según prueba y proceso.
-applyTo: "recursos_paes_simce/**,.github/skills/paes-simce-competencia-lectora/**"
+applyTo: "recursos_paes_simce/**,.agents/skills/paes-simce-competencia-lectora/**"
 ---
 
-Leer completa la [skill de lectura](../skills/paes-simce-competencia-lectora/SKILL.md).
+Leer completa la [skill de lectura](../../.agents/skills/paes-simce-competencia-lectora/SKILL.md).
 PAES y Simce tienen fuentes distintas. Comprobar proceso, nivel y especificaciones;
 no atribuir un índice local a DEMRE. Justificar clave y distractores con evidencia.
 Separar enseñanza y ensayo cerrado; no mostrar pautas al estudiante. La comprobación

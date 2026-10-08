@@ -33,4 +33,37 @@ Comunicar el objetivo en lenguaje accesible y retomarlo en el cierre con evidenc
 En Portafolio revisar la rúbrica de la modalidad para decidir si una actitud debe
 figurar y cómo se observará. No agregarla decorativamente para cumplir una lista.
 
+## Criterios de trabajo para acotar el objetivo
+
+Son recomendaciones del paquete; ninguna es fórmula oficial.
+
+- **El OA se transcribe y el objetivo de la clase va aparte.** Dos líneas:
+  «OA: [número y texto literal]» y «Objetivo de la clase: […]». Tres defectos
+  que buscar en el OA citado: fusionado con otro, cortado antes del último
+  inciso o parafraseado con palabras agregadas.
+- **El verbo es el que la clase ejecuta.** Antes de cerrar el objetivo, mirar
+  qué hace el estudiante y qué deja como evidencia. Si el producto es una
+  tabla de doble entrada, el verbo es comparar aunque el OA diga analizar.
+- **Un contenido y una habilidad por clase.** El OA completo no cabe en una
+  clase. Si solo van a reconocer y no a analizar, se ajusta el objetivo antes.
+- **Lo que el objetivo agrega, obliga.** Si dice «contrastando dos fuentes»,
+  en la clase hay dos fuentes y se contrastan.
+- **Una sola actitud, creíble y observable.** Sale de las actitudes u OAT del
+  nivel y calza con la tarea real. No se agrega por fórmula ni contradice la
+  descripción de la clase.
+- **Criterio de logro alcanzable.** Preguntarse si un estudiante puede fallar
+  el criterio haciendo lo correcto. Alertas: «sin detenerse», «sin errores»,
+  «a la primera», «todo el curso».
+- **No bajar el verbo por comodidad.** Evaluar es emitir un juicio con
+  criterios; si la tarea lo permite, el verbo se mantiene.
+- **Acortar no corta una enumeración.** Para reducir un objetivo se reescribe
+  la frase completa; no se elimina un elemento de una lista declarada.
+- **Dos versiones que dicen lo mismo.** La formal en la planificación y una
+  frase para decirla al curso: «Hoy vamos a comparar dos personajes y
+  explicar, con una cita, en qué cambian».
+- **Una sola formulación en todas las piezas.** Planificación, guía,
+  presentación e instrumento llevan el mismo objetivo.
+- **Verificar nivel y vigencia.** El OA es del curso real y de las Bases que
+  rigen ese nivel y año. Ver [currículum nacional](../marco_curricular/CURRICULUM_NACIONAL.md).
+
 Ver [planificación y paquete](../conocimiento/docencia/PLANIFICACION_Y_PAQUETE.md).

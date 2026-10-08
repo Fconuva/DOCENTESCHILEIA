@@ -44,4 +44,4 @@ usar renglones de 7 mm o mayores según tarea y necesidades, y comprobar en pape
 no confundir px con mm ni imponer 22–26 mm entre todos los renglones.
 Para OMR o tecnologías de apoyo, realizar una prueba con el flujo real.
 
-Ver [skill de adecuaciones](../.github/skills/adecuaciones-curriculares-dua/SKILL.md).
+Ver [skill de adecuaciones](../.agents/skills/adecuaciones-curriculares-dua/SKILL.md).

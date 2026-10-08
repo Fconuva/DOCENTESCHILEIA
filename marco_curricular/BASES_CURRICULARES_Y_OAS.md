@@ -2,6 +2,10 @@
 
 ## Síntesis de las Bases Curriculares de la Educación Chilena
 
+Esta página es un resumen de ejes y habilidades por asignatura; no contiene el
+texto de los OA. Para saber qué rige, qué documento corresponde a cada nivel y
+cómo encontrar y citar un OA literal, ver [currículum nacional](CURRICULUM_NACIONAL.md).
+
 Este documento organiza los **Ejes Disciplinares**, **Habilidades Centrales** y la **Progresión de Objetivos de Aprendizaje (OA)** de las principales asignaturas y modalidades del sistema escolar chileno.
 
 ---

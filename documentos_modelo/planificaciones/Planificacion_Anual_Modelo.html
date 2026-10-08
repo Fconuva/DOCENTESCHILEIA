@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planificación anual | Docentes Chile IA</title>
+    <style>
+        @page {
+            size: A4 landscape;
+            margin: 12mm;
+        }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+            font-size: 9.5pt;
+            line-height: 1.4;
+            color: #1b1b1b;
+            background: #eef0f3;
+        }
+        .sheet {
+            width: 297mm;
+            margin: 8mm auto;
+            padding: 12mm;
+            background: #ffffff;
+        }
+        h1 { font-size: 14pt; margin-bottom: 1mm; }
+        .sub { font-size: 9pt; color: #444; margin-bottom: 4mm; }
+        h2 {
+            font-size: 11pt;
+            border-bottom: 2px solid #1b1b1b;
+            margin: 5mm 0 2mm;
+            padding-bottom: 0.5mm;
+            break-after: avoid;
+        }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 4mm; }
+        th, td { border: 1px solid #777; padding: 1.5mm 2mm; vertical-align: top; text-align: left; }
+        th { background: #e6e6e6; font-weight: 700; }
+        tr { break-inside: avoid; }
+        .rotulo { width: 46mm; font-weight: 700; background: #f3f3f3; }
+        .anexo { break-before: page; }
+        .nota { font-size: 8.5pt; color: #444; margin-top: 3mm; }
+        @media print {
+            body { background: #ffffff; }
+            .sheet { width: auto; margin: 0; padding: 0; }
+        }
+    </style>
+</head>
+<body data-plantilla="modelo-editable">
+<div class="sheet">
+
+    <h1>Planificación anual</h1>
+    <p class="sub">[Nombre del establecimiento] · [Asignatura] · [Curso] · Docente: [Nombre] · Año [____]</p>
+
+    <table>
+        <tr><td class="rotulo">Fuente curricular</td><td>[Bases Curriculares del nivel y su decreto] · [Programa de Estudio usado: del Mineduc o propio]</td></tr>
+        <tr><td class="rotulo">Horas y bloques</td><td>[Horas semanales y cómo se reparten]</td></tr>
+        <tr><td class="rotulo">Calendario</td><td>[Inicio y término de clases, vacaciones] · [Fechas por confirmar, si las hay]</td></tr>
+        <tr><td class="rotulo">Clases disponibles</td><td>[Cuenta: semanas × clases por semana − feriados y actividades − evaluación − reserva = total]</td></tr>
+        <tr><td class="rotulo">Propósito del año</td><td data-objetivo>[Qué se espera que el curso logre en la asignatura este año, en dos o tres líneas]</td></tr>
+    </table>
+
+    <h2>Distribución del año</h2>
+    <table>
+        <tr><th style="width:52mm">Unidad</th><th style="width:26mm">Semanas</th><th style="width:18mm">Clases</th><th style="width:34mm">OA</th><th>Habilidades y actitudes</th><th style="width:56mm">Evaluaciones</th><th style="width:48mm">Recursos principales</th></tr>
+        <tr><td>[1. Título o propósito]</td><td>[1 a __]</td><td>[__]</td><td>[OA __, OA __]</td><td>[Lo que se enseña y se observa]</td><td>[Formativa (semana __), sumativa (semana __)]</td><td>[Texto, lecturas, materiales]</td></tr>
+        <tr><td>[2. Título]</td><td>[__ a __]</td><td>[__]</td><td>[OA __]</td><td>[Habilidades y actitudes]</td><td>[Evaluaciones]</td><td>[Recursos]</td></tr>
+        <tr><td>[3. Título]</td><td>[__ a __]</td><td>[__]</td><td>[OA __]</td><td>[Habilidades y actitudes]</td><td>[Evaluaciones]</td><td>[Recursos]</td></tr>
+        <tr><td>[4. Título]</td><td>[__ a __]</td><td>[__]</td><td>[OA __]</td><td>[Habilidades y actitudes]</td><td>[Evaluaciones]</td><td>[Recursos]</td></tr>
+        <tr><th>Total</th><th>[__ semanas]</th><th>[__]</th><th colspan="4">[La suma de clases coincide con las clases disponibles]</th></tr>
+    </table>
+
+    <h2>Calendario de evaluaciones</h2>
+    <table>
+        <tr><th>Evaluación</th><th style="width:26mm">Semana</th><th style="width:30mm">Tipo</th><th>Instrumento</th><th style="width:40mm">OA que cubre</th></tr>
+        <tr><td>[Nombre]</td><td>[__]</td><td>[Formativa o sumativa]</td><td>[Prueba, rúbrica, proyecto]</td><td>[OA __]</td></tr>
+        <tr><td>[Nombre]</td><td>[__]</td><td>[Tipo]</td><td>[Instrumento]</td><td>[OA __]</td></tr>
+    </table>
+
+    <h2>Componentes que cruzan el año</h2>
+    <table>
+        <tr><td class="rotulo">Plan lector, proyectos, salidas</td><td>[Qué, cuándo y cómo se evalúa]</td></tr>
+        <tr><td class="rotulo">Semanas sin clases</td><td>[Vacaciones, feriados largos, actividades del colegio]</td></tr>
+    </table>
+
+    <h2>Cobertura de los OA del nivel</h2>
+    <table>
+        <tr><th style="width:18mm">OA</th><th>Unidad o unidades donde se aborda</th><th style="width:80mm">Observación</th></tr>
+        <tr><td>[OA 1]</td><td>[Unidad __]</td><td>[Si queda fuera, por qué]</td></tr>
+        <tr><td>[OA 2]</td><td>[Unidad __]</td><td>[Observación]</td></tr>
+    </table>
+
+    <div class="anexo">
+        <h2>Anexo: texto de los Objetivos de Aprendizaje</h2>
+        <table>
+            <tr><th style="width:18mm">OA</th><th>Texto literal</th><th style="width:60mm">Fuente y página</th></tr>
+            <tr><td>[OA 1]</td><td>[Texto completo]</td><td>[Bases Curriculares …, página __ del PDF]</td></tr>
+            <tr><td>[OA 2]</td><td>[Texto completo]</td><td>[Fuente y página]</td></tr>
+        </table>
+    </div>
+
+    <p class="nota">Modelo editable. No existe un formato nacional obligatorio ni un número fijo de unidades: se adapta al formato y al calendario del establecimiento.</p>
+
+</div>
+</body>
+</html>

@@ -7,8 +7,8 @@ import uuid
 from pathlib import Path
 
 
-ROOT_FILES = {"SKILL.md", "README.md", "AGENTS.md", "CLAUDE.md", "LICENSE"}
-ROOT_DIRS = {".github", ".agent", "conocimiento", "guias_metodologicas", "herramientas", "ejemplos", "tests", "documentos_modelo", "dossiers_pedagogicos", "marco_curricular", "recursos_paes_simce", "temarios_evaluacion_docente_2026"}
+ROOT_FILES = {"SKILL.md", "README.md", "AGENTS.md", "CLAUDE.md", "LICENSE", "PRIMEROS_PASOS.md", "QUE_PEDIR.md"}
+ROOT_DIRS = {".github", ".agents", "conocimiento", "guias_metodologicas", "herramientas", "ejemplos", "tests", "documentos_modelo", "dossiers_pedagogicos", "marco_curricular", "recursos_paes_simce", "temarios_evaluacion_docente_2026"}
 
 
 def archivos_paquete(origen):

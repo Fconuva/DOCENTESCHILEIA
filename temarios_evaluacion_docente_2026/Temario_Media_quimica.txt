@@ -1,0 +1,69 @@
+# Texto extraído de Temario_Media_quimica.pdf
+# Extracción automática en orden de lectura (pdftotext); cada bloque indica la página del PDF.
+# Sirve para buscar y citar. Tablas, columnas y títulos de eje pueden quedar desplazados:
+# ante cualquier duda manda el PDF oficial del mismo nombre.
+
+[página 1 del PDF]
+MINISTERIO DE EDUCACIÓN Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas — CPEIP
+
+Instrumento de Evaluación de Conocimientos Específicos y Pedagógicos 2026
+EDUCACIÓN MEDIA QUÍMICA
+
+DOMINIO 1: DISOLUCIONES.
+
+1.1. •
+• •
+
+Disoluciones. Estimar cualitativa y cuantitativamente la concentración de una disolución química, utilizando diversas unidades de concentración. Explicar los factores que influyen en la solubilidad de una sustancia. Relacionar las propiedades coligativas con fenómenos cotidianos.
+
+DOMINIO 2: QUÍMICA ORGÁNICA.
+
+2.1. •
+• •
+
+Química orgánica. Relacionar la estructura de compuestos orgánicos con sus propiedades físicas y/o químicas, en contextos de interés bioquímicos, industriales y de la vida cotidiana. Aplicar las reglas de nomenclatura para nombrar o reconocer moléculas orgánicas. Relacionar la hibridación del carbono con las propiedades físicas y químicas de moléculas orgánicas.
+
+2.2. Isomería y estequiometría. • Distinguir la distribución espacial de los átomos en modelos bidimensionales y tridimensionales de moléculas orgánicas.
+
+DOMINIO 3: REACCIONES QUÍMICAS.
+3.1. Reacciones ácido-base.
+• Calcular el pH y pOH de disoluciones acuosas en estudio. • Ejemplificar el fenómeno de neutralización en una reacción ácido-base. • Explicar los efectos de un tampón o buffer en sistemas ácido-base.
+3.2. Redox.
+• Explicar o caracterizar las reacciones redox a partir de los cambios en el estado de oxidación de las especies participantes en diferentes contextos (medicina, industria, electrónica, entre otros).
+• Balancear ecuaciones de óxido-reducción utilizando el método ion-electrón.
+
+1
+
+[página 2 del PDF]
+MINISTERIO DE EDUCACIÓN Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas — CPEIP
+3.3. Polímeros.
+• Identificar reactantes y productos involucrados en la obtención de algunos polímeros de interés en contextos productivos (PVC, teflón, poliuretano, polietileno, silicona, entre otros).
+• Relacionar las propiedades de las biomacromoléculas (ejemplos: hidratos de carbono, lípidos, proteínas, ácidos nucleicos) con su estructura y reactividad.
+DOMINIO 4: REACTIVIDAD QUÍMICA. 4.1. Termodinámica y equilibrio químico.
+• Explicar procesos y/o reacciones químicas según el perfil energético y/o condiciones en que se realizan (endotérmicos, exotérmicos, adiabáticos, isotérmicos, isocóricos e isobáricos).
+• Interpretar los cambios de entalpía, de entropía y energía libre, en diversos contextos. • Inferir cambios en el estado de equilibrio en relación con la temperatura, la presión del sistema
+y la concentración. 4.2 Cinética.
+• Aplicar el concepto de velocidad de reacción utilizando ejemplos. • Explicar el concepto de energía de activación de una reacción química y su incidencia sobre la
+velocidad de reacción. • Evaluar el efecto de un catalizador en sistemas biológicos y aplicaciones industriales.
+DOMINIO 5: ISÓTOPOS RADIOACTIVOS: ENERGÍA NUCLEAR Y DATACIÓN. 5.1. Aplicación de los isótopos radioactivos.
+• Distinguir las ventajas y/o desventajas del uso de la energía nuclear.
+DOMINIO 6: RAZONAMIENTO CIENTÍFICO. 6.1. Habilidades de Razonamiento Científico.
+• Distinguir en un diseño experimental o en un problema de investigación científica las variables que lo constituyen.
+• Distinguir un procedimiento o diseño experimental adecuado para comprobar una hipótesis o responder una determinada pregunta de investigación o un problema de investigación científica.
+• Distinguir conclusiones de argumentos científicos válidos, a partir del análisis de evidencias, información, investigaciones y/o de un diseño experimental.
+• Identificar modificaciones para mejorar un diseño experimental, a partir del propósito, los resultados o las conclusiones obtenidas.
+• Evaluar la pertinencia de los datos cuantitativos o cualitativos presentados en tablas, gráficos, modelos u otras representaciones.
+2
+
+[página 3 del PDF]
+MINISTERIO DE EDUCACIÓN Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas — CPEIP
+DOMINIO 7: ENSEÑANZA-APRENDIZAJE EN LA ASIGNATURA DE QUÍMICA. 7.1. Estrategias de enseñanza en la asignatura de Química.
+• Determinar estrategias metodológicas y/o actividades para abordar objetivos de aprendizaje propios de la asignatura.
+• Proponer diversas formas de representar y formular los contenidos de modo de hacerlos comprensibles para todos/as los/as estudiantes. Por ejemplo: analogías, ilustraciones, explicaciones, metáforas, ejemplos, contraejemplos, demostraciones, entre otras.
+• Seleccionar recursos didácticos apropiados para abordar diferentes objetivos de aprendizaje de la Química.
+• Proponer estrategias o actividades de aprendizaje en función de los énfasis curriculares de la asignatura.
+• Sugerir estrategias para enfrentar las dificultades que se presentan en el proceso de aprendizaje de los estudiantes, de modo que estas puedan ser superadas.
+7.2. Aprendizaje en la asignatura de Química. • Identificar los conocimientos previos requeridos para abordar los distintos aprendizajes de la asignatura. • Identificar errores comunes en la asignatura, con el fin de retroalimentar y promover el aprendizaje a partir del error.
+7.3. Evaluación en la asignatura de Química. • Identificar los indicadores de evaluación y desempeños que dan cuenta de los distintos objetivos de aprendizaje de la asignatura. • Seleccionar actividades, estrategias e instrumentos de evaluación pertinentes a los objetivos de aprendizajes de la Química. • Evaluar prácticas e interacciones pedagógicas que contribuyen a retroalimentar formativamente el aprendizaje de los/as estudiantes ante evidencias de desempeños.
+3
+

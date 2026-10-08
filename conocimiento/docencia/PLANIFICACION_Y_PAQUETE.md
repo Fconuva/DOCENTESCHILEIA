@@ -74,10 +74,10 @@ oculta de otra habilidad. No convertir automáticamente problemas de envío en n
 Crear una lista de piezas con versión, destinatario, formato y relación con la clase.
 Comprobar que cada dependencia existe, que la pauta coincide con el instrumento y
 que las versiones de acceso conservan el objetivo salvo adecuación curricular acordada.
-Abrir [DUA](../../.github/skills/adecuaciones-curriculares-dua/SKILL.md) para esa decisión.
+Abrir [DUA](../../.agents/skills/adecuaciones-curriculares-dua/SKILL.md) para esa decisión.
 
 Informar revisión de contenido, comprobación técnica, visual y prueba física por
 separado. Una preimpresión digital no acredita lectura OMR ni calidad de una fotocopia.
-Usar el [pipeline](../../.agent/workflows/docencia-completa.md) para conservar evidencia
+Usar el [pipeline](../../.agents/skills/docencia-completa/SKILL.md) para conservar evidencia
 y el [protocolo de desarrollo](../../guias_metodologicas/PROTOCOLO_CORRECCION_DESARROLLO.md)
 para redactar criterios aplicables.

@@ -70,3 +70,37 @@ y ejemplos propios no prueban hechos de aula ni se deben presentar como vivencia
 La verificación técnica del paquete se ejecuta con los comandos del README. Sus
 resultados tienen cobertura explícita: estructura, referencias y comportamiento
 de scripts. No acreditan revisión oficial, impresión física ni efectos de aprendizaje.
+
+## Ampliación del 8 de octubre de 2026
+
+Se agregó la capa de uso para docentes con Antigravity y el conocimiento de
+planificación, currículum y evaluación de aula.
+
+- Currículum: los decretos de cada nivel se tomaron de la portada de los
+  documentos oficiales incluidos. El marco 2026 se tomó de las
+  [Orientaciones para el inicio del año escolar 2026](https://escolar.mineduc.cl/wp-content/uploads/sites/107/2026/02/Orientaciones-inicio-ano-escolar-2026.pdf)
+  del Ministerio de Educación.
+- Marco para la Buena Enseñanza: el resumen se reescribió desde el PDF de 2021
+  incluido, porque el anterior describía la estructura previa de criterios.
+- Evaluación: lo normativo proviene de la
+  [ficha del Mineduc sobre el Decreto 67](https://ayudamineduc.cl/print/9392845).
+  No se abrió el texto del decreto en la Biblioteca del Congreso; los números
+  de artículo no se citan.
+- PAES: los datos de formato se leyeron en el temario regular de Competencia
+  Lectora de la Admisión 2027 publicado por DEMRE.
+- Portafolio e IA: citas textuales de las preguntas frecuentes 2026 y de las
+  orientaciones de veracidad de DocenteMás.
+- Estructura de la clase, objetivos, instrumentos, material para estudiantes y
+  errores típicos de la IA: criterios propios destilados de las reglas
+  privadas de trabajo y de la planificación real de aula del autor,
+  despersonalizados. Se presentan como criterios del paquete, no como norma.
+  No se trasladaron exigencias de un establecimiento (membretes, exigencia,
+  bloques horarios), nombres, nóminas ni casos.
+- Textos buscables: los `.txt` de `marco_curricular/documentos_oficiales/` y
+  de los temarios se generaron con `pdftotext` en orden de lectura, con marca
+  de página. La extracción puede desplazar títulos de eje y tablas; la fuente
+  es el PDF.
+- Antigravity: rutas de skills y reglas según la
+  [documentación oficial](https://antigravity.google/docs/skills) consultada
+  ese día. Los flujos heredados dejan de funcionar el 19 de octubre de 2026,
+  por lo que el pipeline se convirtió en skill.

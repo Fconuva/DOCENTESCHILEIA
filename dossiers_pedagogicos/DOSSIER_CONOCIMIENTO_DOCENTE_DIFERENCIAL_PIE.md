@@ -41,9 +41,9 @@ y ajustar a partir de evidencia, sin prometer efectos ni inventar resultados.
 
 ## Estudiar para la ECEP
 
-Trabajar desde la [skill ECEP](../.github/skills/ecep-preparacion/SKILL.md). Seleccionar
+Trabajar desde la [skill ECEP](../.agents/skills/ecep-preparacion/SKILL.md). Seleccionar
 temario de la especialidad, construir matriz por dominio, explicar decisiones y practicar
 con casos propios claramente rotulados. Contrastar cada distractor con evidencia.
 
-Abrir [DUA](../.github/skills/adecuaciones-curriculares-dua/SKILL.md) para el procedimiento
+Abrir [DUA](../.agents/skills/adecuaciones-curriculares-dua/SKILL.md) para el procedimiento
 y [guía de diversificación](../guias_metodologicas/DISENO_UNIVERSAL_APRENDIZAJE_DUA.md).

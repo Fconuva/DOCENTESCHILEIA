@@ -1,71 +1,91 @@
 # Docentes Chile IA
 
-Skills, agentes, procedimientos, plantillas A4 y herramientas locales para
-planificar, construir y revisar trabajo docente en Chile. Incluye portafolios
-M1/M2/M3, material de aula, inclusión, lectura PAES/SIMCE, preparación ECEP,
-registros verificables y calidad de plataformas educativas.
+Un asistente para planificar clases, unidades y el año, preparar guías y
+evaluaciones y revisar material, con el currículum chileno adentro. Se usa con
+Antigravity, un programa gratuito de Google, y no hace falta saber programar.
 
-La ampliación incorpora criterios operativos y pedagógicos de Portabot y de las
-áreas de Neuromapa. Los procedimientos públicos están despersonalizados:
-los casos de clientes, diagnósticos, pagos, chats y credenciales permanecen privados.
-No se promete calificación ni infalibilidad de un modelo.
+## Para empezar
 
-## Usar el paquete
+1. Instala [Antigravity](https://antigravity.google/download) e inicia sesión con tu cuenta de Google.
+2. Descarga esta carpeta: botón verde **Code**, **Download ZIP**, y extráela en Documentos.
+3. En Antigravity abre la carpeta con **File, Open Folder**.
+4. Abre el asistente con **Ctrl + L** y escribe `/empezar`.
 
-Clonar el repositorio y abrir su carpeta con el agente:
+La guía paso a paso, con solución de problemas, está en
+[PRIMEROS_PASOS.md](PRIMEROS_PASOS.md).
 
-```bash
-git clone https://github.com/Fconuva/DOCENTESCHILEIA.git
-cd DOCENTESCHILEIA
-```
+**Requisitos:** computador con Windows 10 de 64 bits o superior (o Mac o
+Linux), 8 GB de RAM o más, cuenta de Google e internet.
 
-[SKILL.md](SKILL.md) es la entrada completa. [AGENTS.md](AGENTS.md) y
-[CLAUDE.md](CLAUDE.md) comparten instrucciones. Las skills especializadas tienen
-metadatos de selección y referencias a los procedimientos del paquete.
+## Qué le puedes pedir
 
-Para instalar la entrada en un perfil de Claude o Codex, usar el instalador
-del paquete. Primero muestra el destino; `--aplicar` instala una copia completa
-sin sobrescribir una instalación existente. No modifica conectores ni otras skills.
+| Escribe | Para |
+|---|---|
+| `/empezar` | Contarle tus cursos y tu sala una sola vez. |
+| `/planificar-clase` | Una clase con INICIO, DESARROLLO y CIERRE, su guía y su pauta. |
+| `/planificar-unidad` | Una unidad con OA, indicadores, evaluación y secuencia semanal. |
+| `/planificar-anual` | Repartir los OA del año en unidades según tu calendario real. |
+| `/crear-evaluacion` | Una prueba, rúbrica, lista de cotejo o ticket de salida, con su pauta. |
+| `/revisar-material` | Revisar un material tuyo o hecho con IA antes de usarlo. |
+
+También puedes escribir con tus palabras, sin comando. Hay ejemplos listos
+para copiar en [QUE_PEDIR.md](QUE_PEDIR.md).
+
+Todo queda guardado en la carpeta `mi_trabajo`. Cada documento se abre en el
+navegador y se imprime o guarda como PDF con Ctrl + P.
+
+## Tres cosas que conviene saber
+
+- **El asistente se equivoca.** Lee cada documento antes de usarlo y confirma
+  el OA que citó. La lista de [errores típicos de la IA](conocimiento/docencia/ERRORES_TIPICOS_DE_LA_IA.md)
+  dice qué mirar.
+- **No escribas datos de tus estudiantes.** Ni nombres completos, ni RUT, ni
+  notas, ni diagnósticos.
+- **La cuota gratuita es limitada.** Se renueva cada semana y Google no
+  publica cuánto es. Pide el trabajo completo en un solo mensaje.
+
+### Portafolio de la evaluación docente
+
+DocenteMás limita el uso de IA en el Portafolio: «El uso de IA solo está
+permitido para apoyar la organización de sus ideas o para identificar errores
+de redacción u ortográficos en sus respuestas», y su uso debe informarse en la
+Declaración de autoría
+([Preguntas frecuentes 2026](https://www.docentemas.cl/wp-content/uploads/2026/09/Preguntas-frecuentes.pdf),
+[orientaciones de veracidad](https://www.docentemas.cl/wp-content/uploads/2026/08/Como-resguardar-las-condiciones-de-veracidad-en-tu-PF_PDF.pdf)).
+Las reflexiones y análisis de tu Portafolio los escribes tú.
+
+## Qué trae el paquete
+
+| Carpeta | Contenido |
+|---|---|
+| [marco_curricular](marco_curricular/CURRICULUM_NACIONAL.md) | Bases Curriculares de todos los niveles y Marco para la Buena Enseñanza, en PDF y en texto buscable, con una guía para encontrar y citar un OA. |
+| [conocimiento/docencia](conocimiento/INDICE.md) | Cómo se planifica el año y la unidad, estructura de la clase, evaluación de aula, material para estudiantes y errores típicos de la IA. |
+| [guias_metodologicas](guias_metodologicas/REDACCION_OBJETIVOS_DE_CLASE.md) | Redacción de objetivos, corrección de preguntas abiertas, diversificación, lectura PAES. |
+| [documentos_modelo](documentos_modelo/planificaciones/Planificacion_Clase_3_Momentos_Modelo.html) | Modelos A4 editables: planificación anual, de unidad y de clase, guías y pauta. |
+| [temarios_evaluacion_docente_2026](temarios_evaluacion_docente_2026/) y [dossiers_pedagogicos](dossiers_pedagogicos/) | Temarios de la prueba de conocimientos y apuntes de estudio. |
+| `.agents/skills` | Las instrucciones que sigue el asistente en cada tarea. |
+| `mi_trabajo` | Tu carpeta: tu contexto y todo lo que produces. |
+
+Otras tareas que el asistente sabe hacer: [adecuaciones y diversificación](.agents/skills/adecuaciones-curriculares-dua/SKILL.md),
+[lectura PAES y SIMCE](.agents/skills/paes-simce-competencia-lectora/SKILL.md),
+[preparación de la prueba de conocimientos](.agents/skills/ecep-preparacion/SKILL.md),
+[revisión de portafolio](.agents/skills/portafolio-docente/SKILL.md),
+[registro en Lirmi](.agents/skills/lirmi-registro-verificado/SKILL.md) y
+[plataformas educativas](.agents/skills/plataforma-educativa-calidad/SKILL.md).
+
+## Para quien mantiene el paquete
+
+Funciona con cualquier agente que lea `AGENTS.md` y skills en `.agents/skills/`
+(Antigravity, Codex). [SKILL.md](SKILL.md) es el índice de tareas y
+[CLAUDE.md](CLAUDE.md) apunta a las mismas instrucciones. Para instalarlo como
+skill global de Claude o Codex:
 
 ```bash
 python herramientas/instalar_skill.py --cliente codex
 python herramientas/instalar_skill.py --cliente claude --aplicar
 ```
 
-Peticiones que puede resolver:
-
-- «Revisa este M1 contra la rúbrica de mi modalidad; conserva mi tema y señala
-  qué evidencia falta antes de afirmar resultados».
-- «Prepara la clase grabada con lo que hay en mi sala, un libreto conducible,
-  guía, presentación y pauta; comprueba qué imprimir».
-- «Convierte la idea del M3 en propuesta completa, sin inventar reuniones,
-  participantes ni resultados».
-- «Haz una guía impresa y su presentación espejo; deja espacio real para escribir».
-- «Audita este ensayo y distingue revisión de contenido, PDF y prueba física OMR».
-
-## Skills y conocimiento
-
-| Área | Entrada y procedimiento |
-|---|---|
-| Portabot / portafolios | [Skill](.github/skills/portafolio-docente/SKILL.md), [M1](.github/skills/portafolio-docente/references/m1.md), [M2](.github/skills/portafolio-docente/references/m2.md), [M3](.github/skills/portafolio-docente/references/m3.md) |
-| Aula e impresión | [Skill de material](.github/skills/creacion-material-docente/SKILL.md), [planificación y paquete](conocimiento/docencia/PLANIFICACION_Y_PAQUETE.md) |
-| PAES / SIMCE | [Skill](.github/skills/paes-simce-competencia-lectora/SKILL.md), [diseño y aplicación](conocimiento/docencia/LECTURA_Y_EVALUACION.md) |
-| DUA / adecuaciones | [Skill](.github/skills/adecuaciones-curriculares-dua/SKILL.md), [referencia](guias_metodologicas/DISENO_UNIVERSAL_APRENDIZAJE_DUA.md) |
-| ECEP | [Skill](.github/skills/ecep-preparacion/SKILL.md), dossiers y temarios conservados en sus carpetas |
-| Lirmi | [Skill de contraste y registro](.github/skills/lirmi-registro-verificado/SKILL.md) |
-| Plataformas | [Skill](.github/skills/plataforma-educativa-calidad/SKILL.md), [contratos y producción](conocimiento/plataformas/CONTRATOS_Y_VERIFICACION.md) |
-| Memoria y tokens | [Skill de contexto](.github/skills/neuromapa-contexto-docente/SKILL.md), [vigencia](conocimiento/operacion/MEMORIA_Y_VIGENCIA.md) |
-
-La [biblioteca](conocimiento/INDICE.md) contiene el detalle. El
-[pipeline](.agent/workflows/docencia-completa.md) y los cuatro agentes de
-`.github/agents/` distribuyen planeación, ejecución, verificación y evaluación.
-La independencia se acredita por actuaciones reales, no por cuatro títulos.
-El [ejemplo de clase impresa](ejemplos/clase-interpretacion-2medio/CONTEXTO.md)
-incluye guía y pauta terminadas en HTML/PDF, con comprobaciones y límites explícitos.
-
-## Comprobar los archivos
-
-Python 3.12 o superior, sin dependencias externas para las herramientas locales:
+Comprobaciones, con Python 3.12 o superior y sin dependencias externas:
 
 ```bash
 python herramientas/validar_repositorio.py
@@ -74,28 +94,26 @@ python herramientas/validar_material_docente.py documentos_modelo/guias_aprendiz
 python herramientas/pipeline_docente.py ejemplos/encargo-sintetico/control.json
 ```
 
-Los validadores informan cobertura y límites. No califican semánticamente un
-objetivo, no acreditan una clase realizada y no certifican una impresora o escáner.
-La revisión pedagógica abre los materiales y usa las fuentes propias del encargo.
-El ejemplo de pipeline devuelve código 2 porque está pendiente intencionalmente;
-el [esquema del registro](conocimiento/operacion/REGISTRO_DEL_PIPELINE.md) explica
-cómo registrar un trabajo real. Un resultado técnico completo tampoco certifica pedagogía.
-La [verificación de la ampliación](conocimiento/VERIFICACION_2026-10-07.md) documenta
-las pruebas realizadas, los hallazgos corregidos y los límites del resultado.
+Los validadores informan cobertura y límites: no califican un objetivo, no
+acreditan una clase realizada ni certifican una impresora. El ejemplo de
+pipeline devuelve código 2 porque está pendiente a propósito; el
+[esquema del registro](conocimiento/operacion/REGISTRO_DEL_PIPELINE.md) explica
+cómo registrar una entrega real. Las verificaciones hechas están en
+[7 de octubre](conocimiento/VERIFICACION_2026-10-07.md) y
+[8 de octubre de 2026](conocimiento/VERIFICACION_2026-10-08.md).
 
 ## Fuentes, alcance y derechos
 
 Las exigencias oficiales se consultan en su proceso, modalidad y versión:
+[Currículum Nacional](https://www.curriculumnacional.cl/),
 [DocenteMás 2026](https://www.docentemas.cl/comienza-la-elaboracion-del-portafolio-2026/),
 [Mineduc: Decreto 83](https://bibliotecadigital.mineduc.cl/handle/20.500.12365/14490)
 y [DEMRE: publicaciones](https://portaldemre.demre.cl/publicaciones).
-No confundir año de aplicación con admisión ni un temario ECEP con un manual de Portafolio.
-La matriz de 2026 es una referencia fechada, no una certificación de vigencia futura.
+Las referencias de 2026 están fechadas; no certifican vigencia futura.
 
 El código y la documentación originales del proyecto se distribuyen bajo MIT.
 Los documentos oficiales y recursos de terceros conservan sus derechos y
 condiciones de uso; su presencia no les asigna la licencia MIT. Las plantillas
-son ejemplos adaptables: membretes, fuentes, márgenes, niveles y escalas se
-ajustan al establecimiento y al material acordado.
+son ejemplos adaptables al establecimiento.
 
-Autor: Francisco Javier Núñez Valenzuela. [Procedencia y cobertura de la ampliación](conocimiento/PROCEDENCIA_Y_COBERTURA.md).
+Autor: Francisco Javier Núñez Valenzuela. [Procedencia y cobertura](conocimiento/PROCEDENCIA_Y_COBERTURA.md).

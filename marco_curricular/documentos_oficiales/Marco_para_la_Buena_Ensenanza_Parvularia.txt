@@ -1,0 +1,1550 @@
+# Texto extraído de Marco_para_la_Buena_Ensenanza_Parvularia.pdf
+# Extracción automática en orden de lectura (pdftotext); cada bloque indica la página del PDF.
+# Sirve para buscar y citar. Tablas, columnas y títulos de eje pueden quedar desplazados:
+# ante cualquier duda manda el PDF oficial del mismo nombre.
+
+[página 1 del PDF]
+MARCO
+PARA LA BUENA
+ENSEÑANZA
+DE EDUCACIÓN
+PARVULARIA
+Referente para una práctica pedagógica reflexiva y pertinente
+
+[página 2 del PDF]
+Marco para la Buena Enseñanza de Educación Parvularia Referente para una práctica pedagógica reflexiva y pertinente
+ISBN Subsecretaría de Educación Parvularia Gobierno de Chile. Ministerio de Educación
+Ahumada 48, Santiago www.mineduc.cl Agosto 2019
+
+MARCO
+PARA LA BUENA
+ENSEÑANZA
+DE EDUCACIÓN
+PARVULARIA
+Referente para una práctica pedagógica reflexiva y pertinente
+
+[página 3 del PDF]
+ÍNDICE
+
+4
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+I
+
+Presentación
+
+Página
+6
+
+Dominios,
+II Criterios y Descriptores
+
+16
+
+III Glosario
+
+60
+
+IV Referencias Bibliográficas
+
+66
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+5
+
+[página 4 del PDF]
+I. 		 PRESENTACIÓN
+
+6
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Un Marco para la Buena Enseñanza es un referente que orienta a los/as docentes o educadores/as respecto de la reflexión y la práctica pedagógica que deben desarrollar como profesionales de la educación para la mejora continua de su quehacer, estableciendo los desempeños que se espera de ellos en su labor educativa.
+El año 2003, el Ministerio de Educación publicó por primera vez un Marco para la Buena Enseñanza (MBE) con el propósito de orientar la política profesional docente y dar a conocer a la comunidad los estándares que deben alcanzar los profesores del sistema escolar. En su elaboración, liderada por el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (CPEIP) del Ministerio de Educación, participaron expertos nacionales y extranjeros, el Colegio de Profesores, la Asociación Chilena de Municipalidades y una parte importante de docentes, principalmente del sector escolar, a quienes se les consultó sobre la propuesta.
+
+Si bien dicho MBE integra prácticas comunes con la Educación Parvularia, se requería contar con un referente propio del nivel que guiara el desempeño de los/as profesionales del campo y que incluyera los elementos esenciales que caracterizan a la educación de los niños y las niñas desde su nacimiento hasta su ingreso a Educación Básica. En esta elaboración, un rol central lo tienen las Bases Curriculares de Educación Parvularia (BCEP) del año 2018, las que se constituyen en el referente principal que sustenta esta propuesta. La necesidad de contar con un MBE para el nivel se ve reforzada al considerar que este referente orienta la construcción de los Estándares de Formación Inicial Docente (FID) y los Estándares de Desempeño Profesional, de los cuales surgen los instrumentos de evaluación que nutren la Carrera Docente.
+La construcción del MBE EP ha sido un proceso participativo y riguroso, considerando como
+
+base el Marco para la Buena Enseñanza de Educación General (reeditado el año 2008). A partir de él, se incorporan elementos distintivos del nivel de Educación Parvularia en sintonía con lo definido en las BCEP, además se considera el contexto legal y normativo vigente del sistema educativo, los aportes de la investigación nacional e internacional sobre prácticas docentes que impactan positivamente en los aprendizajes de los niños y las niñas y las retroalimentaciones entregadas por el Consejo Nacional de Educación (CNED). Durante el proceso de construcción, se desarrollaron diversas instancias de recolección de información y consulta a múltiples actores del nivel: educadores/as de párvulos, técnicos en Educación Parvularia, asesores/as especialistas en temas relacionados con la primera infancia, docentes y académicos de distintas universidades del país, y miembros de las principales instituciones vinculadas al nivel.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+7
+
+[página 5 del PDF]
+1. PRESENTACIÓN
+CARACTERÍSTICAS DEL MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+El MBE EP es un referente que busca orientar las prácticas pedagógicas que debe desarrollar cada educador/a de párvulos para fortalecer su ejercicio ético profesional y generar las mejores oportunidades de aprendizaje de todos los niños y las niñas desde los primeros meses de vida hasta el ingreso a la Educación Básica, teniendo como fundamento principal las BCEP.
+El MBE EP supone que los/as profesionales que se desempeñan en las aulas son primordialmente educadores/as que están comprometidos/as con los derechos y la formación de todos los niños y las niñas. En este sentido, para lograr una buena enseñanza se requiere que los/as educadores/as se involucren en la acción de enseñar con todos sus conocimientos, capacidades y valores para establecer una interrelación empática y sensible que hace distintiva e insustituible la tarea educativa en este nivel.
+Este MBE EP reconoce la importancia de los primeros años de vida y considera “los hallazgos que evidencian que lo que sucede en etapas tempranas del desarrollo influye en la estructura cerebral, afectando la diferenciación y función neuronal, lo que implica un gran desafío
+
+y responsabilidad para la práctica pedagógica. La plasticidad cerebral ofrece la posibilidad de aprender y desaprender en forma permanente, reorganizándose y formando nuevas conexiones acorde a las experiencias que va vivenciando cada niño y niña, las que a su vez potencian aprendizajes cada vez más complejos” (BCEP, 2018, p.12). Por otra parte, reconoce la complejidad y particularidad de los procesos de enseñanza y aprendizaje y los variados contextos culturales en que éstos ocurren, tomando en cuenta las necesidades de desarrollo de competencias y conocimientos por parte de los/as educadores/as, tanto en contenidos que han de ser aprendidos como en estrategias para enseñarlos; la generación de ambientes propicios para el aprendizaje; y la responsabilidad y compromiso ético de los/as educadores/as con el aprendizaje de cada niño y niña. “La enseñanza representa, entonces, la acción pedagógica al servicio de las potencialidades de aprendizaje de todas las niñas y los niños” (BCEP, 2018, p.28).
+El MBE EP busca dar una visión de las diferentes responsabilidades profesionales que tiene un/a educador/a en su trabajo diario, considerando para ello la rela-
+
+ción que establece con los niños y las niñas, sus familias, los equipos de aula y los otros miembros de la comunidad educativa, así como también con la comunidad local. Esto, con el objetivo de contribuir a un óptimo desempeño en su quehacer educativo, favoreciendo efectivamente el desarrollo integral y el aprendizaje de todos y todas.
+Además, este referente orienta el desarrollo de los Estándares de Formación Inicial Docente y los Estándares de Desempeño Profesional, así como también contribuye al mejoramiento de la enseñanza y de las interacciones entre los diferentes miembros de la comunidad educativa y local, mediante un «itinerario» que guíe a los/as educadores/ as en sus primeras experiencias y ayude a los más experimentados a ser más eficaces, en función de establecer, a través de una serie de dominios, criterios y descriptores, un marco estructurado para la reflexión sobre su propia práctica pedagógica, que los lleve a definir metas de mejora continua y trayectorias formativas para una enseñanza de mayor calidad; todo ello bajo un contexto ordenado y consensuado, en cuanto a lo que se espera de su desempeño profesional como educador/a de párvulos.
+
+8
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+El énfasis central que da sentido a este MBE EP consiste en ofrecer a todos los niños y las niñas la oportunidad de involucrarse en interacciones de calidad, que favorezcan el aprendizaje y el máximo desarrollo de todas sus potencialidades. De acuerdo con ello, tres son las preguntas básicas que han orientado la construcción de este MBE EP, las que buscan dar respuesta a aspectos esenciales del ejercicio profesional del/la educador/a de párvulos:
+¿Qué es necesario saber?
+¿Qué es necesario saber hacer?
+¿Cuán bien se está haciendo?
+
+Como se señaló anteriormente, el MBE EP se construye a partir del referente BCEP el cual, entre otros elementos, explicita los fundamentos y principios pedagógicos sobre los que se sustenta la educación en este nivel, junto con indicar la trayectoria educativa1 que deben seguir los niños y las niñas desde los primeros meses de vida hasta el ingreso a la Educación Básica, y los contextos requeridos para su implementación.
+
+Con la intención de complementar y fortalecer lo expresado en los fundamentos de las BCEP (Orientaciones valóricas, Labor educativa conjunta, Enfoque pedagógico de la Educación Parvularia, Fin y propósitos en la Educación Parvularia), en el MBE EP se ha dado especial relevancia a seis conceptos centrales del nivel: “enfoque de derechos, inclusión, juego, liderazgo, trabajo colaborativo y reflexión pedagógica, los que orientan la responsabilidad y el actuar ético de todo/a educador/a en su práctica profesional”. Estos conceptos se encuentran desarrollados en los distintos apartados de este referente, para resguardar su consideración a lo largo de todo el proceso educativo con la finalidad de intencionar permanentemente que toda práctica pedagógica se desarrolle según las características esenciales y distintivas del nivel.
+
+Esto significa que el/la educador/a debe sustentar su quehacer pedagógico considerando los elementos que fundamentan las BCEP, de modo que asegure oportunidades de aprendizaje donde se resguarde que todos los niños y las niñas sean respetados y considerados desde su singularidad, identidad y contexto familiar y sociocultural, propiciando en todo momento su plena inclusión en el proceso educativo, evitando estereotipos, sesgos de género y todo tipo de prácticas discriminatorias que desvaloricen su condición de niño o niña.
+
+(1) La trayectoria educativa es el recorrido que realizan los niños y las niñas dentro del sistema educativo. En Educación Parvularia se organiza en tres niveles curriculares, que abarcan tramos de dos años cada uno: 1° Nivel (Sala Cuna) hacia los dos años; 2° Nivel (Medio) hacia los cuatro años y 3° Nivel (Transición) hacia los seis años (BCEP, 2018).
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+9
+
+[página 6 del PDF]
+1. PRESENTACIÓN
+PROPÓSITOS DEL MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+1. Orientar a los/as educadores/as de párvulos respecto de las prác-
+ticas pedagógicas que deben reflejar en su ejercicio profesional.
+2. Promover la reflexión pedagógica crítica, individual y entre pares,
+en contextos educativos diversos.
+3. Dar a conocer las características del ejercicio profesional de los/
+as educadores/as a los miembros de las comunidades y organizaciones educativas, instituciones formadoras de docentes y otras organizaciones ligadas al nivel de Educación Parvularia.
+4. Aportar lineamientos a las instituciones de formación docen-
+te inicial y continua, para que puedan evaluar y enriquecer sus programas y procesos de formación y desarrollo profesional, para hacerlos coherentes con las prácticas definidas en el MBE EP.
+5. Orientar la definición de instrumentos y la construcción de
+juicios evaluativos en los procesos del desempeño docente de los/as educadores/as.
+El MBE EP se articula con la normativa legal definida por el Ministerio de Educación, entre la que se destaca: Ley General de Educación N°20.370; Ley de Inclusión Escolar N°20.845; Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media y su fiscalización Ley N°20.529; Sistema de Desarrollo Profesional Docente Ley N°20.903; Decreto N°83/2015 Aprueba Criterios y Orientaciones de Adecuación Curricular para Estudiantes con Necesidades Educativas Especiales de Educación Parvularia y Educación Básica; y Decreto N°373 Establece Principios y Definiciones Técnicas para la Elaboración de Estrategias de Transición Educativa para los niveles de Educación Parvularia y Primer Año de Educación Básica, entre otras.
+
+10
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+MBE EP Y DESARROLLO PROFESIONAL DOCENTE
+
+El Sistema Nacional de Desarrollo Profesional Docente reconoce y promueve “el avance de los profesionales de la educación hasta un nivel esperado de desarrollo profesional, así como también ofrece una trayectoria profesional atractiva para continuar desempeñándose profesionalmente en el aula” (Ley N°20.903, 2016).
+Entre otros aspectos, este sistema establece un mecanismo de progresión en la carrera profesional por medio de tramos de desempeño que consideran elementos como la experiencia y saberes disciplinares y pedagógicos, los que en el caso de la Educación Parvularia se vinculan directamente con los ejes esenciales de la política curricular propia de este nivel educativo, las Bases Curriculares de Educación Parvularia.
+Este MBE EP recoge los principios que inspiran el Sistema de Desarrollo Profesional Docente, debido a que:
+
+• Promueve y orienta la autoevaluación y diálogo reflexivo de los equipos de aula, con otros docentes y con directivos con el fin de detectar aquellas necesidades de formación individual y colectiva, las fortalezas de los equipos e identificar y/o diseñar los programas de perfeccionamiento que se requieran.
+• Favorece la autonomía profesional de los/as educadores/ as, promoviendo la revisión permanente de sus propias prácticas y las de la comunidad educativa y local, propendiendo a procesos de mejora continua en su quehacer.
+• Orienta la construcción de los Estándares de Formación Inicial Docente y constituye la base técnica para los programas de perfeccionamiento y de formación continua diseñados por organismos del Estado, universidades y otras instituciones autorizadas, y para aquellas instancias de formación que organizan los establecimientos de acuerdo con sus propias necesidades de actualización o fortalecimiento.
+• Orienta la construcción de los Estándares de Desempeño Profesional, los cuales describen conocimientos y habilidades genéricas (desprendidos del MBE EP y en coherencia con los estándares FID) que un docente demuestra considerando distintos niveles de su trayectoria profesional, además de ser el insumo principal para diseñar y elaborar los instrumentos de evaluación de la Carrera Docente.
+• Constituye la base para la elaboración de criterios y juicios en las evaluaciones docentes para los/as educadores/as de párvulos, en los tramos que constituyen la trayectoria profesional presentes en el Sistema de Desarrollo Profesional Docente. En estos procesos evaluativos, se considerarán evidencias de aquellas prácticas pedagógicas a las que refiere este MBE EP, que son factibles de observar y documentar, las que serán un requisito clave para avanzar dentro del sistema.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+11
+
+[página 7 del PDF]
+1. PRESENTACIÓN
+
+MBE EP Y CALIDAD DE LA EDUCACIÓN
+
+La Ley General de Educación (LGE) define que la educación es un proceso permanente, cuyo propósito es alcanzar el desarrollo espiritual, ético, moral, afectivo, intelectual, artístico y físico de las personas, mediante la transmisión y el cultivo de valores, conocimientos y destrezas. En este contex-
+
+to, una educación de calidad contribuirá a esta finalidad “capacitando a las personas para conducir su vida en forma plena, para convivir y participar en forma responsable, tolerante, solidaria, democrática y activa en la comunidad, y para trabajar y contribuir al desarrollo del país” (Ley N°20.370, 2009).
+
+Asimismo, con el fin de asegurar que niños, niñas y jóvenes tengan las mismas oportunidades de recibir una educación de calidad, el Sistema Nacional de Aseguramiento de la Calidad (Ley N°20.529) refuerza este contenido de la LGE y concibe el aprendizaje como un proceso permanente e integral, que incorpora aspectos individuales y sociales. Es decir, pone el foco en los procesos de enseñanza y aprendizaje de niños, niñas, jóvenes y/o adultos, pro-
+moviendo el despliegue de todas las dimensiones de su desarrollo (Ministerio de Educación, [MINEDUC], 2016c).
+
+12
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Por su parte, la Subsecretaría de Educación Parvularia, como órgano del MINEDUC encargado de la promoción, desarrollo, organización general y coordinación de la Educación Parvularia (Ley N°20.835, 2015), ha definido un proceso de fortalecimiento de este nivel educativo para avanzar a mayores grados de equidad y calidad, considerando la responsabilidad que asignan las investigaciones, expertos y docentes al desempeño profesional de los/as educadores/as de párvulos en el logro de aprendizajes.
+Por tanto, el MBE EP:
+• Entrega lineamientos y criterios acerca de los desempeños que los/as educadores/ as de párvulos han de demostrar para que todos los niños y las niñas aprendan, permitiendo enriquecer las prácticas pedagógicas de educadores/as experimentados/as y orientando a aquellos/as que están iniciando su trayectoria profesional.
+• Abarca la mayor parte de las instancias del quehacer educativo, describiendo prácticas pedagógicas que orientan la preparación de la enseñanza, las interacciones pedagógicas, la planificación y evaluación y el compromiso ético profesional, entre otros aspectos, acorde a los tramos educativos definidos para el nivel.
+• Describe desempeños relativos a las competencias de los/as educadores/as para crear ambientes propicios para el aprendizaje en coherencia con los tramos educativos definidos para el nivel; aspecto central en la educación integral de todos los niños y las niñas.
+• Destaca el trabajo colaborativo entre educadores/as de párvulos, técnicos de Educación Parvularia, la familia y otros actores de la comunidad educativa y local, como condición indispensable para favorecer el desarrollo, bienestar integral y aprendizajes de calidad de todos los niños y las niñas.
+• Fortalece el liderazgo técnico pedagógico de los/las educadores/as para orientar y desarrollar procesos educativos reflexivos, innovadores y pertinentes a los diversos contextos.
+• Mantiene coherencia con las BCEP, puesto que promueve prácticas pedagógicas que favorecen que todos los niños y las niñas construyan aprendizajes vinculados con variados conocimientos, habilidades y actitudes que configuran este referente curricular, relevando el juego como un eje central de expresión y aprendizaje.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+13
+
+[página 8 del PDF]
+MBE EP E INCLUSIÓN
+
+Los lineamientos esenciales que establece la Ley General de Educación (Ley N°20.370) y la Ley de Inclusión Escolar (Ley N°20.845) respecto a un sistema educativo inclusivo, contribuyen a garantizar un sistema educacional que otorga posibilidades a las familias de escoger el establecimiento educativo que decidan, garantizando las condiciones necesarias para el acceso y permanencia de los estudiantes.
+En esta línea, el MBE EP contribuye a identificar, guiar y reflexionar en torno a los desempeños que favorecen la inclusión en el nivel de Educación Parvularia, debido a que:
+El MBE EP está estrechamente relacionado con todos los procesos anteriormente señalados, vinculados con mejorar la calidad de la educación ofrecida a todos los niños y las niñas, constituyéndose como el referente que orienta una práctica docente pertinente al nivel y que releva la Educación Parvularia como la primera etapa en la trayectoria educativa.
+
+• Valora la diversidad presente en el aula como una característica que desafía y enriquece el proceso de enseñanza y aprendizaje, promoviendo que los/as educadores/ as de párvulos la consideren en el diseño, desarrollo y evaluación de la enseñanza, con el fin de asegurar oportunidades equitativas para el aprendizaje de todos los niños y las niñas.
+• Promueve prácticas educativas con altas expectativas de aprendizaje hacia todos los niños y las niñas, orientadas a generar un ambiente de aprendizaje basado en la confianza, el ejercicio de la ciudadanía, la participación, el respeto, el juego, la colaboración, el compañerismo y la reciprocidad, dentro y fuera del aula, y prácticas que favorezcan la convivencia y un clima de buen trato entre todos los niños y las niñas y con los otros miembros de la comunidad educativa y local.
+• Promueve interacciones pedagógicas que consideran y valoran la interculturalidad, entendida ésta como un proceso dinámico que enfatiza las relaciones horizontales y que se encuentra en constante construcción, puesto que “favorece la creación de nuevas formas de convivencia ciudadana entre todos, sin distinción de nacionalidad u origen. Para ello, el diálogo simétrico es posible reconociendo y valorando la riqueza de la diversidad lingüístico-cultural, natural y espiritual” (MINEDUC, 2018, p.21).
+• Orienta prácticas pedagógicas libres de estereotipos de género, ampliando la construcción social y cultural del enfoque de género el que permite reconocer que niños y niñas tienen el mismo potencial de aprendizaje y desarrollo, y las mismas posibilidades de disfrutar por igual de aquellos bienes valorados socialmente, oportunidades, recursos y recompensas, de manera independiente a sus diferencias biológicas y reconociendo la igualdad de derechos (MINEDUC, s.f.).
+
+14
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+ORGANIZACIÓN DEL MBE EP
+
+El MBE EP se estructura en cuatro dominios definidos legalmente en la Ley de Desarrollo Profesional Docente (Ley N°20.903). Cada uno de ellos hace referencia a un aspecto distinto del proceso de enseñanza y aprendizaje:
+
+• Preparación del Proceso de Enseñanza y Aprendizaje • Creación de un Ambiente propicio para el Aprendizaje • Enseñanza para el Aprendizaje de todos los niños y las niñas • Compromiso y Desarrollo Profesional
+
+Cada uno de estos dominios contiene un conjunto de criterios interdependientes que describen distintos aspectos de las prácticas pedagógicas y que en su conjunto dan cuenta del sentido del dominio. A su vez, cada criterio se desglosa en un conjunto de descriptores, que corresponden a unidades acotadas de desempeño, expresadas en acciones encabezadas por un verbo.
+ESTRUCTURA MBE EP
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+15
+
+[página 9 del PDF]
+DOMINIOS, II. CRITERIOS Y
+DESCRIPTORES
+
+16
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+A continuación, se presenta un cuadro resumen que integra una visión panorámica de los cuatro dominios del MBE EP y sus respectivos criterios, mostrando así una síntesis del desempeño esperado para los/as educadores/as del nivel de Educación Parvularia.
+
+DOMINIO A
+Preparación del Proceso de Enseñanza y Aprendizaje
+
+DOMINIO B
+Creación de un Ambiente propicio para el Aprendizaje
+
+CRITERIO A.1
+Domina los conocimientos disciplinares y pedagógicos vinculados al currículum vigente
+
+CRITERIO A.2
+Considera las características y las formas de aprender de todos los
+niños y las niñas en la preparación del proceso de
+enseñanza y aprendizaje
+
+CRITERIO A.3
+Planifica las estrategias de enseñanza y
+aprendizaje de acuerdo con las características de todos los niños y las niñas y el currículum vigente
+
+CRITERIO A.4
+Planifica procesos de evaluación coherentes con las características de todos los niños y las niñas y el
+currículum vigente
+
+CRITERIO B.1 CRITERIO B.2
+
+Genera y mantiene un ambiente de bienestar
+integral para el aprendizaje
+
+Organiza ambientes físicos funcionales y seguros para el
+aprendizaje
+
+CRITERIO B.3
+Establece e implementa una organización del tiempo para favorecer el aprendizaje
+
+CRITERIO B.4
+Genera una cultura de aprendizaje desafiante y lúdica
+
+DOMINIO C
+Enseñanza para el Aprendizaje de todos los niños y las niñas
+
+DOMINIO D
+Compromiso y Desarrollo Profesional
+
+CRITERIO C.1
+Lidera al equipo de aula en la
+implementación de la práctica pedagógica en función del bienestar integral y el aprendizaje
+
+CRITERIO C.2
+Establece una comunicación efectiva
+para enriquecer las oportunidades de
+aprendizaje
+
+CRITERIO C.3 CRITERIO C.4
+
+Genera interacciones pedagógicas que
+favorezcan el desarrollo integral y la adquisición de aprendizajes significativos
+
+Toma decisiones oportunas considerando
+la evaluación de la enseñanza y el aprendizaje
+
+CRITERIO D.1 CRITERIO D.2
+
+Demuestra compromiso con los niños y las
+niñas, su profesión y el rol que desempeña en
+la sociedad
+
+Establece relaciones de colaboración
+con la comunidad educativa y local
+
+CRITERIO D.3
+Reflexiona críticamente sobre las políticas y
+orientaciones educativas vigentes y su implementación en la práctica pedagógica
+
+CRITERIO D.4
+Reflexiona crítica y sistemáticamente sobre su práctica pedagógica
+para favorecer aprendizajes
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+17
+
+[página 10 del PDF]
+DOMINIO A
+Preparación del Proceso de Enseñanza y Aprendizaje
+
+Este dominio refiere a las competencias fundamentales que deben movilizar los/as educadores/as para el diseño del proceso de enseñanza y aprendizaje en cuanto a la planificación y evaluación. Estas competencias aluden al dominio de conocimientos y habilidades necesa-
+
+rias para la implementación del currículum vigente, considerando los diferentes hitos del desarrollo, tramos curriculares, trayectoria educativa (recorrido que realizan los niños y las niñas dentro del sistema educativo) y las características del contexto en que se despliega
+
+la enseñanza, para promover aprendizajes que favorezcan el desarrollo armónico e integral de cada niño y niña.
+Con la finalidad de asegurar procesos de enseñanza favorecedores de aprendizajes significativos para todos y todas, el/ la educador/a debe tener dominio de los saberes disciplinares y saberes pedagógicos del nivel de Educación Parvularia. Este conjunto de habilidades, conocimientos y disposiciones refleja lo que debe saber y
+debe saber hacer en su ejercicio profesional el/la educador/a de párvulos para que las prácticas pedagógicas permitan a todos los niños y las niñas aprender.
+
+18
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+• Saberes disciplinares: conocimientos que corresponden a los distintos campos del saber (Tardif, 2004). En el caso de la Educación Parvularia, éstos se refieren a los contenidos definidos en el currículum y a los hitos del desarrollo, entendidos como la adquisición de nuevas habilidades que sientan las bases para construir las siguientes. Ello implica que el/la educador/a conozca y comprenda en profundidad los conceptos y especificidades de lo que enseña, para otorgar mayores oportunidades y desafíos en el proceso educativo, generando de esta forma aprendizajes significativos que trascienden en la vida de cada niño y niña.
+
+• Saberes pedagógicos: conjunto de saberes que le permiten al docente desempeñar su función social e identitaria y que debe estar a la base de la formación (Darling-Hammond & Bransford, 2005; Shulman, 2004; Martínez y Bonafé, 2004; Tardif y Gauthier, 2001 citados en Mineduc 2012a). Para este nivel educativo, refiere a las capacidades del/la educador/a para desarrollar estrategias de aprendizaje, enseñanza y evaluación coherentes con las características del desarrollo y aprendizaje (habilidades, conocimientos, intereses, necesidades, estilos y ritmos, entre otros) de los niños y las niñas, con los tramos curriculares, con los hitos del desarrollo y con los contenidos expresados en el currículum de Educación Parvularia, relevando el juego y las experiencias lúdicas como estrategias pedagógicas esenciales en la primera infancia, para promover el desarrollo de capacidades físicas, sociales, emocionales, cognitivas y de lenguaje. Estos saberes permiten que el/la educador/a defina estrategias situadas y, por tanto, pertinentes a cada contexto y nivel educativo.
+
+Asimismo, el/la educador/a “requiere disponer de un saber profesional especializado para fundamentar las decisiones tomadas, saber que incluye la reflexión individual y colectiva sobre la propia práctica, construyendo así el conocimiento pedagógico para hacer su tarea cada vez mejor” (BCEP, 2018, p.29).
+
+Lo anterior es el insumo necesario para que el/la educador/a diseñe estrategias y experiencias de enseñanza y evaluación inclusivas, diversas, integradas y pertinentes para el aprendizaje, las cuales deben ser organizadas en función de la diversidad del grupo, evitando todo tipo de estereotipos, fomentando la in-
+
+corporación activa tanto de los niños como de las niñas a partir de sus experiencias y de lo que saben, reconociendo e incorporando la multiculturalidad (valores, creencias, costumbres, etc.) avanzando gradualmente a la interculturalidad. Ofreciendo oportunidades reales para que puedan participar y hacer
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+19
+
+[página 11 del PDF]
+(2) Se entenderá por alumno o alumna que presenta Necesidades Educativas Especiales a aquel que precisa ayudas y recursos adicionales, ya sea humanos, materiales o pedagógicos, para conducir su proceso de desarrollo y aprendizaje, y contribuir al logro de los fines de la educación (LGE art. 23).
+
+elecciones sobre qué quieren aprender, cómo quieren lograrlo y cómo pueden expresar cuánto han aprendido. De esta manera, el proceso de enseñanza es concebido como un proceso flexible, innovador, dinámico y coherente con respecto a los cambios y las características de cada grupo, donde el rol del/la educador/a es clave para avanzar hacia una enseñanza equitativa y de calidad.
+Esto requiere “saber en profundidad cómo aprenden y se desarrollan los párvulos y el lugar importantísimo que le cabe al juego en estos procesos; supone saber cómo y cuándo promover juegos y otras actividades lúdicas. Implica también reconocer y responder pedagógicamente a la singularidad de cada uno en cuanto a ritmos, formas de aprendizaje, género, cultura, contexto social, religión, entre otros” (BCEP, 2018, p.29).
+En este contexto, el/la educador/a debe reconocer al niño y la niña como un ser único, con características, intereses y habilidades propias y comprender que cuando aprenden, lo hacen
+
+de manera integral, accionando sus sentidos, emociones, pensamientos, corporalidad, espiritualidad, experiencias, sueños y deseos; reconociendo también que el desarrollo y aprendizaje se da en diversos contextos y junto con otros, donde el juego se constituye en la herramienta pedagógica por excelencia que el/la educador/a, al momento de preparar la enseñanza, debe considerar como eje central para el aprendizaje.
+Por otra parte, el/la educador/a debe conocer a todos los niños y las niñas del grupo respecto de sus características de desarrollo, formas y ritmos de aprendizaje, intereses, saberes, capacidades diversas, experiencias previas, contextos familiares y socioculturales, entre otros; este conocimiento permite al/la educador/a preparar un proceso de enseñanza y aprendizaje coherente con las características del grupo y favorecer la adquisición de aprendizajes significativos.
+Junto con ello, el/la educador/a debe conocer y considerar la diversidad de características que presentan aquellos niños y niñas que requieren apoyos adicionales en el proceso educativo, dado que presentan necesidades educativas especiales2, con la finalidad de preparar procesos
+
+20
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+educativos que incorporen la diversidad. Para esto debe revisar o ajustar los Objetivos de Aprendizaje (OA) cuando se requiera; diversificar la enseñanza; definir estrategias de aprendizaje que incorporen recursos didácticos variados en cuanto a tamaño, textura, peso, colores, entre otros; y utilizar Tecnologías de la Información y Comunicación (TIC) como una herramienta que presenta múltiples finalidades y oportunidades que se adaptan a diversas necesidades de todos los niños y niñas.
+En la preparación de la enseñanza, para que el aprendizaje y la participación efectivamente ocurran, el/la educador/a debe considerar la presencia, el reconocimiento y la pertinencia. La presencia, en cuanto favorece el acceso al aprendizaje, la interacción permanente de los niños y las niñas durante todas las oportunidades de aprendizaje, el respeto y valoración mutua de las diferencias y el aprendizaje compartido. El reconocimiento y la pertinencia, en cuanto a incorporar en la preparación de la enseñanza las diversas culturas y saberes de origen, favoreciendo que la construcción del conocimiento integral se realice desde los niños y niñas, con énfasis en sus intereses, capacida-
+
+des, motivaciones y protagonismo que deben tener en todo el proceso educativo.
+En relación con la planificación del trabajo pedagógico, su importancia radica en la necesidad de anticipar y organizar de manera coherente lo que se quiere lograr en el proceso educativo. Esto implica tomar decisiones previas a la práctica sobre qué, para qué y cómo se aprende (EducarChile, 2008), teniendo en consideración tanto la evaluación, los fundamentos y principios de la Educación Parvularia, los objetivos del nivel curricular y la organización del ambiente educativo, como también las familias y otros profesionales que intervienen directamente en la práctica pedagógica. De esta manera, se favorece el bienestar integral y el aprendizaje de todos los niños y las niñas.
+En este contexto, la evaluación para el aprendizaje es esencial en el proceso de enseñanza y aprendizaje, lo que implica llevar a cabo evaluaciones sistemáticas que contemplen la diversidad de niños y niñas, respetando ritmos y características particulares; siendo necesario definir distintas estrategias de evaluación que respondan a los focos que se desean observar
+
+como también instrumentos y medios de registro de información pertinentes para lograrlo. Además, requiere realizar un análisis profundo de la información obtenida, lo que servirá posteriormente para retroalimentar tanto a los niños y las niñas en sus procesos cotidianos, como también a las familias y equipos de aula.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+21
+
+[página 12 del PDF]
+DOMINIO A
+Preparación del Proceso de Enseñanza y Aprendizaje
+
+CRITERIOS DEL DOMINIO A:
+
+Criterio A.1 Domina los conocimientos disciplinares y pedagógicos vinculados al currículum vigente
+
+El/la educador/a conoce, comprende y profundiza permanentemente los conocimientos que requiere para ejercer su rol profesional con todos los niños y las niñas; conocimientos relativos al para qué enseñar (fundamentos, propósito y fin de la Educación Parvularia), qué enseñar (contenidos y objetivos de aprendizaje) y cómo enseñar (estrategias pedagógicas), con
+
+la finalidad de favorecer el desarrollo integral y aprendizajes relevantes y significativos en todos los niños y las niñas del grupo.
+A partir de lo anterior, organiza el proceso de enseñanza y aprendizaje según los conocimientos, habilidades y actitudes que debe enseñar, considerando las características del
+
+grupo y lo definido en el currículum vigente.
+A continuación, se describen las áreas del saber disciplinario que los/as educadores/as deben manejar para promover aprendizajes de calidad en los niños y niñas, según los propósitos declarados en los distintos núcleos de aprendizaje de las BCEP:
+
+22
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Núcleo
+
+Áreas del saber disciplinario
+
+Principales conocimientos disciplinarios
+
+Identidad y Autonomía
+
+Identidad y valoración de sí mismo. Autonomía
+progresiva
+
+Construcción gradual de la identidad; conciencia de sí mismos como personas únicas y valiosas; identificación, comprensión y expresión de las emociones (“alfabetización emocional”) y desarrollo progresivo de la autonomía.
+
+Convivencia y Ciudadanía
+
+Colaboración, solidaridad y valoración de la diversidad y cultura. Normas de convivencia, derechos y ciudadanía. Cuidado
+de sí mismo.
+
+Ejercicio práctico de la ciudadanía a través de la colaboración, la solidaridad y la convivencia con otros; y conductas de cuidado de sí mismo, de los otros y del medio ambiente, en un marco de respeto por la diversidad y la inclusión.
+
+Corporalidad y Movimiento
+
+Conocimiento de sí mismo. Corporalidad y
+psicomotricidad.
+
+Toma de conciencia y valoración de las posibilidades motrices, para ampliar la exploración del medio y conquistar una mayor autonomía tanto motora como de pensamiento.
+
+Lenguaje Verbal
+
+Comprensión y Expresión Oral. Interpretación y producción de mensajes escritos
+simples.
+
+Comprensión del lenguaje verbal, no verbal y paraverbal que manifiestan los otros (palabras, frases, gestos, movimientos) y expresión de emociones, vivencias y pensamientos, a través de diferentes recursos lingüísticos (lenguaje oral, de imágenes, grafismos, letras, palabras).
+
+Lenguajes Artísticos
+
+Expresión artística. Sensibilidad y
+apreciación artística.
+
+Expresión de la creatividad y desarrollo de una sensibilidad estética para interpretar el mundo a través de diversos lenguajes artísticos.
+
+Exploración del Entorno Natural
+Comprensión del Entorno Sociocultural
+
+Descubrimiento de su entorno y desarrollo
+sostenible. Pensamiento científico.
+Reconocimiento de la comunidad y el entorno geográfico. Tecnología y
+aprecio de la cultura.
+
+Desarrollo del pensamiento científico a partir del asombro, la curiosidad y la indagación del entorno natural en el marco de potenciar un desarrollo sostenible del planeta.
+Reconocimiento y aprecio de la comunidad y entorno geográfico, valorando la diversidad cultural (en las costumbres, juegos, ritos y otros).
+
+Pensamiento Matemático
+
+Espacio y tiempo. Noción de número y empleo de cuantificadores. Resolución
+de problemas.
+
+Desarrollo de la resolución de problemas a partir del razonamiento lógico; establecimiento de relaciones causales; desarrollo de nociones témporo-espaciales; y uso de la cuantificación en situaciones cotidianas.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+23
+
+[página 13 del PDF]
+DOMINIO A
+Preparación del Proceso de Enseñanza y Aprendizaje
+
+Relacionado con esto, el/la educador/a conoce el enfoque y los fundamentos del desarrollo sostenible y comprende cómo incorporarlo transversalmente en sus prácticas pedagógicas, de manera de propiciar experiencias de aprendizaje mediante las cuales niños y niñas, desde los primeros años, sean conscientes de las “potencialidades, oportunidades y riesgos que implica sostener la vida humana en un planeta con recursos limitados” (BCEP, 2018, p.80). En este sentido, el/la educador/a entiende que al propiciar una actitud positiva hacia el entorno está contribuyendo a que los niños y las niñas cuiden el ambiente natural y su biodiversidad, desde la perspectiva de la sostenibilidad (BCEP, 2018).
+En cuanto a los saberes pedagógicos, el/la educador/a demuestra conocimiento sobre didácticas generales y específicas para promover los aprendizajes considerados en los diversos núcleos y en los distintos tramos curriculares. Este conocimiento le permite incorporar en la preparación del proceso educativo, técnicas de enseñanza pertinentes para desarrollar practicas pedagógicas efectivas
+
+y flexibles a los contextos y necesidades que van presentando los niños y niñas.
+Además, el/la educador/a conoce y domina los fundamentos y estrategias para la diversificación de la enseñanza (múltiples medios de presentación y representación de las nuevas informaciones y contenidos; múltiples medios de ejecución de las actividades propuestas y de expresión de los productos de sus aprendizajes; y múltiples medios de participación en las situaciones de aprendizaje y de nivel de compromiso con ellas3), lo que considera en las definiciones pedagógicas para generar oportunidades de aprendizaje equitativas para todos los niños y las niñas del grupo, respondiendo así a la diversidad presente en el aula y evitando todo tipo de exclusión. En este contexto, incorpora el juego como la forma natural que tienen los niños y las niñas para adquirir habilidades que enriquecen el desarrollo de las funciones cognitivas, comunicativas, motrices, entre otras.
+Lo anterior permite al/la educador/a preparar la enseñanza de acuerdo con lo definido en las BCEP y generar mayores expectativas y oportunidades de
+
+aprendizaje, en ambientes desafiantes y enriquecidos para todos los niños y las niñas del grupo, resguardando la identidad pedagógica del nivel expresada en: los principios pedagógicos, la trayectoria educativa, la articulación y la atención a la diversidad.
+(3) Estas estrategias corresponden al Diseño Universal de Aprendizaje (DUA) para dar respuesta a la diversidad en el aula (MINEDUC, Decreto N°83/2015).
+
+24
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Criterio A.2 Considera las características y las formas de aprender de todos los niños y niñas en la preparación del proceso de enseñanza y aprendizaje
+
+El/la educador/a considera diversas fuentes de información disponibles en el establecimiento sobre los niños y las niñas del grupo y enriquece estos antecedentes a través de la interacción que establece con ellos/as, con el equipo de aula, sus familias y otros actores de la comunidad educativa y local; constituyéndose en un recurso significativo para la preparación del proceso de enseñanza y aprendizaje, para la pertinencia de la practica pedagógica, el bienestar integral y el protagonismo de todos los niños y las niñas.
+Así mismo, el/la educador/a conoce las características y etapas del desarrollo cognitivo, socioemocional y motriz de cada niño y niña del grupo, las necesidades educativas especiales que presentan, sus intereses y conocimientos previos, sus formas y ritmos de aprendizaje, y las características de su contexto familiar y sociocultural, incluyendo las representaciones, valores y costumbres. Este conocimiento le permite tomar
+
+decisiones para diversificar la enseñanza, constituyéndose, por una parte, en una oportunidad para que todos los niños y las niñas participen, desarrollen sus capacidades y aprendan y, por otra, en un desafío de desarrollo profesional, en que el/ la educador/a busca respuestas educativas diversas para todos los niños y las niñas del grupo, aprendiendo constantemente a partir de ello.
+Los niños y las niñas aprenden básicamente jugando y siendo protagonistas en sus procesos, desarrollando en su entorno conductas de exploración, descubrimiento, manipulación y experimentación, todo lo cual les permite conocer y ampliar su comprensión de sí mismos y del mundo que los rodea. Para favorecer estas conductas, es importante que el/la educador/a ofrezca a los niños y niñas, oportunidades de aprendizaje que promuevan el desarrollo de su sensorialidad (presentándoles variedad de estímulos visuales, táctiles, ol-
+
+fativos, gustativos, auditivos); sus conductas de desplazamiento y coordinación motora, tanto gruesa como fina; su capacidad de simbolización -que les permite a los niños y las niñas comprender y expresarse cada vez con mayor dominio por medio del lenguaje verbal y artístico-; su desarrollo emocional; y su capacidad de socialización, de atención, de concentración y de memoria. Asimismo es fundamental que el/la educador/a considere las formas de aprender que tienen los niños y niñas en cada área, de manera que la preparación del proceso de enseñanza y aprendizaje sea pertinente y desafiante en todas ellas.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+25
+
+[página 14 del PDF]
+DOMINIO A
+Preparación del Proceso de Enseñanza y Aprendizaje
+
+Criterio A.3 Planifica estrategias de enseñanza y aprendizaje de acuerdo con las características de todos los niños y las niñas y el currículum vigente
+
+El/la educador/a planifica estrategias de enseñanza y aprendizaje a largo, mediano y corto plazo, coherentes con el currículum vigente, el Proyecto Educativo Institucional y el reconocimiento y valoración de la diversidad como criterios fundamentales para los procesos educativos en Educación Parvularia. Esto requiere que el/la educador/a tome decisiones respecto a la selección y organización de los Objetivos de Aprendizaje, considerando las características propias asociadas a cada etapa de desarrollo, nivel curricular y a los antecedentes evaluativos de los niños y las niñas, resguardando una distribución equilibrada (cobertura total de los aprendizajes), secuenciada e integrada de estos objetivos, permitiendo preparar un proceso de enseñanza que facilite a los niños y las niñas desarrollar al máximo sus habilidades, conocimientos y actitudes en cada área, para lo cual debe considerar las formas de aprender que predominan en cada caso.
+
+Junto con ello, en la planificación de la enseñanza y el aprendizaje el/la educador/a debe tener en cuenta el tiempo, el espacio, los recursos, la intencionalidad pedagógica de las interacciones, las experiencias lúdicas y el juego como estrategia permanente. También debe considerar a las familias, al equipo de aula y a otros profesionales que intervienen directamente en la práctica pedagógica. A partir de esto, planifica estrategias de enseñanza y aprendizaje diversificadas, desafiantes y lúdicas para que todos los niños y las niñas se sientan acogidos y reconocidos como sujetos de derechos, en tanto personas únicas, con capacidades y potencialidades distintas, resguardando así su protagonismo y favoreciendo el desarrollo progresivo de sentimientos de confianza en relación con sus propias fortalezas y talentos.
+Por otra parte, la diversificación de la enseñanza es la posibilidad de proporcionar a los niños y las niñas múltiples medios de presentación y repre-
+
+sentación, lo que favorece la percepción, comprensión y representación de la información por parte de todos y todas; múltiples medios de ejecución y expresión, lo que permite a los niños y las niñas responder con los medios de expresión y acción que prefieran; y múltiples medios de participación y compromiso, aludiendo a las variadas formas en que los niños y las niñas pueden participar de una situación de aprendizaje (Decreto N°83). De acuerdo con ello, “sería importante que el educador considerara que el alumno además de aprender de manera visual, auditiva, lingüística y lógica tiene la capacidad de aprender de manera reflexiva, impulsiva, analítica, global, conceptual, perceptiva, motora, emocional, intrapersonal e interpersonal. Una clase programada pensando en diferentes formas de enseñar para diferentes formas de aprender indudablemente es una verdadera oportunidad para el desarrollo humano” (Campos, 2010).
+
+26
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+En esta línea, la integración de las TICs como recursos para la enseñanza y el aprendizaje resulta altamente beneficioso, ya que éstas pueden adaptarse a las diversas demandas del grupo y, por ende, responder a sus ca-
+
+racterísticas particulares (Viquez, 2014), respetando los ritmos de cada niño y niña, de modo que todos/as logren aprendizajes significativos necesarios para desenvolverse en diferentes contextos.
+
+Criterio A.4 Planifica procesos de evaluación coherentes con las características de todos los niños y las niñas y el currículum vigente
+
+El/la educador/a planifica la evaluación a largo, mediano y corto plazo, diseñando procesos evaluativos integrales, cooperativos, sistemáticos y pertinentes a la diversidad de todos los niños y las niñas, a las formas que tienen de aprender y a sus contextos de aprendizaje. Para ello, define qué información es importante recoger para ajustar la práctica pedagógica (focos de observación), considerando la coherencia con los Objetivos de Aprendizaje y las características de los niños y las niñas del grupo. Además, establece la forma de sistematizar la información seleccionada, para lo cual define estrategias, criterios y/o indicadores mediante los cuales podrá observar cómo se despliegan los Objetivos de Aprendizaje (Paniagua y Palacios, 2005). De acuerdo con ello, selecciona diversos instrumentos para re-
+
+gistrar su observación evaluativa, con la finalidad de reunir suficiente información y evidencia acerca del proceso educativo que sigue cada niño y niña considerando su singularidad, sin perder de vista su potencialidad para aprender.
+A su vez, el/la educador/a planifica los diversos usos que se dará a las evidencias recogidas, con la finalidad de retroalimentar el proceso educativo desde una perspectiva formativa. Para ello, diseña instrumentos de comunicación de la información (por ejemplo, informes o carpetas de antecedentes de aprendizaje) y momentos de encuentro con el equipo de aula, familias u otros profesionales que intervienen directamente en la acción pedagógica. Esto, con el fin de analizar, reflexionar y tomar decisiones respecto de prácticas que generen mejores oportuni-
+
+dades de desarrollo y aprendizaje para todos los niños y las niñas del grupo.
+Además, esta información le servirá al/la educador/a para retroalimentar, a través de interacciones verbales, a los niños y las niñas durante la práctica pedagógica con la intención de apoyarlos en el logro de nuevos aprendizajes y relevar los conocimientos, las capacidades y las potencialidades de cada niño y niña del grupo, siendo una instancia cercana, amigable, empática y participativa, en la que se resguarda el rol protagónico de cada uno de ellos/as.
+A continuación, se presenta un cuadro del Dominio A, con sus cuatro criterios y los descriptores asociados a cada uno de ellos.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+27
+
+[página 15 del PDF]
+DOMINIO A
+Preparación del Proceso de Enseñanza y Aprendizaje
+
+Criterio A.1 Domina los conocimientos disciplinares y pedagógicos vinculados al currículum vigente.
+
+Criterio A.2 Considera las características y las formas de aprender de todos los niños y las niñas en la preparación del proceso de enseñanza y aprendizaje.
+
+Criterio A.3 Planifica estrategias de enseñanza y aprendizaje de acuerdo con las características de todos los niños y las niñas, y el currículum vigente.
+
+Criterio A.4 Planifica procesos de evaluación coherentes con las características de todos los niños y las niñas y el currículum vigente.
+
+A.1.1 Domina los conocimientos referidos a los fundamentos y principios de la Educación Parvularia y los incorpora al quehacer educativo.
+
+A.2.1 Recaba información sobre las características individuales, colectivas y contextuales de todos los niños y las niñas del grupo y la incorpora en la preparación de la enseñanza.
+
+A.3.1 Planifica el proceso de enseñanza y aprendizaje a largo, mediano y corto plazo considerando una distribución equilibrada, secuenciada e integrada de los objetivos de aprendizaje del currículum vigente.
+
+A.4.1 Planifica procesos evaluativos sistemáticos y pertinentes a la diversidad de niños y niñas y sus contextos de aprendizaje.
+
+A.1.2 Domina los conocimientos fundamentales referidos a la identidad y autonomía, convivencia y ciudadanía, corporalidad y movimiento, y conoce la didáctica para promoverlos.
+
+A.2.2 Considera las formas y ritmos de aprendizaje de todos los niños y las niñas del grupo para preparar la enseñanza de manera pertinente y diversificada.
+
+A.3.2 Planifica estrategias y experiencias de aprendizaje coherentes con los objetivos de aprendizaje del nivel curricular y los antecedentes evaluativos de todos los niños y las niñas del grupo.
+
+A.4.2 Define focos de observación y estrategias de evaluación coherentes con los objetivos de aprendizaje y pertinentes a las características de todos los niños y las niñas del grupo.
+
+A.1.3 Domina los conocimientos fundamentales referidos al lenguaje verbal y los lenguajes artísticos, y conoce la didáctica para promoverlos.
+
+A.2.3 Considera en la preparación de la enseñanza los intereses y conocimientos previos de todos los niños y las niñas del grupo para que las experiencias de aprendizaje sean significativas y desafiantes.
+
+A.3.3 Planifica estrategias de enseñanza y experiencias de aprendizaje que consideran el ambiente educativo, el juego y la participación de la familia, la comunidad educativa y local.
+
+A.4.3 Define instrumentos de evaluación diversificados y contextualizados para registrar y evidenciar el aprendizaje de todos los niños y las niñas del grupo.
+
+A.1.4 Domina los conocimientos fundamentales referidos al entorno natural y sociocultural y al pensamiento matemático, y conoce la didáctica para promoverlos.
+
+A.2.4 Considera en la preparación de la enseñanza las características del contexto familiar y sociocultural de todos los niños y las niñas del grupo para enriquecer las oportunidades de aprendizaje.
+
+A.3.4 Incorpora en la planificación estrategias diversificadas de enseñanza, considerando las características individuales y colectivas de los niños y las niñas del grupo para favorecer su participación y aprendizaje.
+
+A.4.4 Establece instancias sistemáticas de reflexión y análisis de los antecedentes de evaluación para retroalimentar el proceso de enseñanza y aprendizaje desde una perspectiva formativa.
+
+28
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+CARACTERÍSTICAS GENERALES DEL DESEMPEÑO PROFESIONAL DE LOS/AS EDUCADORES/AS DE PÁRVULOS, EN ESTE DOMINIO, POR NIVEL CURRICULAR
+
+NIVEL SALA CUNA
+flcrsdooyLeroroseolbt,a/csaihlcdeealeiierensgodcieenemueimsnednctasuaaeiayedcdr,ronamaodertdfreooaedeofnclesdreot/eípeoacsaset,s/rnoynseaciodñsylcoaceoopnscinnsaeroioocflgyciiinmzaueanaenrnudiicszñdeiyeaóaaavcfslndpaoeo;dnascamyr,etaapeipqvdeandruasureeseettlnietslrpoedadndosseriiesrtsvneoáieetlnnloliñllava,scoesaeruvnssdcnaíe.anetunercpntasnuolaucedltsaoenieesptasraníurmdspádteaceaiocdtanieaacptqsneapeu.ystgqea,Donuacseeeciseócceaeneiegcos,nsuutnaicardeeloubirasm,deldelynooeectenseqcrstaonduatnnreecsaeiulteóaenespsnsgturp,oiepdnar,nieesmepdrsqsmeieczurarriaieeatnojesle-p-eevarmntietaqnueel qldEeitguetmiEeensnoresnruátspctmécerp,guieseamnaseoartsgontmnentioyrneeegetasiiornpitsddaanet,crauosoioeopvmlasmlmqaedd,leauulmeeqou,yslesvunaecsoopeeuutlilrv/cilerscnailpaamauhzaeputrnaaieixteevlemroasplrdoneernmeisusetnneor,eocliingttamegeasaauttxudnnonoíyaparoc,sjliprriledorpeaeoc/asaasaosvssldarap/nertaoat,neborioñsebbdmernsaoqsaexod,psesludpe.arrsmiuylaPvrlsuoicnoaápbnorsaa,sareirpdñeirsrcteooeoa.mastnrcosnryutroeosutpiccoseqnnfoo/i,nuouoaarnetecnnmslotnecodercreoisanlsodyanl,mommotdnvp,e.eapeaeirAnntelracseosectpeiuarrolnmasiaalardiecrspidalqsueseoacdmuneseidrióerafonqeepenn,susloercodceed,loersonaeailntotlinpaocsnelsaicriasstñedcne,neoneilrizoanfñsedroanasosminyrezeesmedaañssnnyjonaaeipañsninelpadaaisztdrñuretsaalaeaalolavpsclipcccéneorvoiroesncóneammsogntpnderrouuaeipndabcarnltodeaiujaióelrqcclilnanariiauvbón,caddeirnrltiloiorióio,vvebesne,eeqnanlgcrrudldrssoi.eineoaoe-ns-slsbecatraRseoinlaElcoteuialmnrtdeeslnaiecvassiltv,eaavtdaieéyeanpacepnsmznaidesrótactdeetrpeenniaepedoxrppacaeoaspaaorasdtprcda,rgoreclarcaepnolsoiisuoaóiisclb)vtcarn.oniaaaqiveónpErsudapsncl,reee/eoecydlldpoannleemcaegaetfeorrneeeropadnasconntcrucetrtosssiriiocóiózceaebbaniynñdnlmtdueoiaedvoydemeneaeysrledzaasunllaiue/,lsoaaa,acargsnsurocaecoeltncnmareonrniióñdnasausysenosesouintpiñdsrtduieooiceaeyaaentanncrlcrcnteotoezaiioaiosvaslmñuqaneiyaaemsíusenaússa,mest,pn-lsoeaúeooldonolrudfrtennejosrttiuoaioccbecnsena.tcexreoiPgsoteñpse,oonmvyolq(roeefts-daiuoordssayaneectenyqcrianmfzasiustinóaiueiuñepop,,nssamavaocetdsricapolmitso/errdemoelaenia,elennpneardene,smdossugodctricmopazoutrutaian.rnsacouomjetaosemyaprdcisnatieioeaion,yentpsrceernt/eriipsoalozpencv-ognietru,eaesriglcqenlcionoobhoustgrcieqianelavéi.dnuscdanpe,eeeathdrcndrlepoueuiecslrsseeaooesclnsj,pneuuccyptinobeciaeao,rgripasgqeqsoiaonuulsy-a--,ee cepDaleepdraieaeccsniucdcueaiabrddsrciomsoecmineosunnontolrioicadalaetenisvtsaeuyraicmonuro,ievtlreaoplropao,rsres,aupilnsactroeeamnmccioóoioncgnieodasnenteudlsaao;l,eeltalnamsneetxooñpvaelionmxrzpiaaercendiósteionvb,aedacsecoíoemcnosospmiadcocoeimrtoaasprmryeeblnoiéasbncijvceeaetl.osodsedaseavraurrosilaoldodadisaereilxoa-,
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+29
+
+[página 16 del PDF]
+DOMINIO A
+Preparación del Proceso de Enseñanza y Aprendizaje
+
+NIVEL MEDIO
+Lyiccsnooooedsrnnne/cvtapeiaeueesrtensnoneacdndiceioaiuelomcnddnaíteieaeds,ssleooañrcysd/ooaqaolsdeuutcecritrotooieisemvaxnafyppidsrer.dmoerEiinaspesdfrtnareeusucnutilcaaaoqstindinunyeoaeanlecmlitnormieedsllinaaanestdcnieñietocoohsnostáanrpbayrsoistttnreeaoignpñscitaaaoderssntmeedunehetdiniiñlgeetiozieseals,tonedmsyean/asanyin.vsiñieafealliiedsmas,uvteacaanannttdzraaoapcvnrrieéoóhssgn/ar.adecBseisauievjsuusacntemaáagneopmnssreteaeyr-Eddiñpcnnaeooatmnrseeeagrsestértetneuasrxltue/teeccolntractsaetuoe,pcernsaiaades,cruunígonoctcrneaaraoadclmppcaioriaoooropsr/ngrtaaeoare,elmmlslasmayboiavuicbepaéinúxaónadpsrnmioqercedsupilsóceeelauinldtarcrlacdaemhidenóayeogrnlna,sucdsedacuaelijaeejselpenfcvrsvactouoecimcótirsadabnánsbaasedddulenoeldslacaieerimrbliexllooobopcryssóulao.lrundisrcnEiaooñasrssno,t.leeosidLbltoeysorliseorgna/insnoaipñgsicrafuaeoinvsacnnia.jañdentioimicszvseeaoá/jgedeaaensevnsalmyeaansurcdcreaeoyidsplilptáamareccarptqináidlucpiuaaceidnas-Pcpvdleoeooelolfesnrrldoejmtpaoerccseoatiesrdyrlaraemaolrynerdrpiostepdaselesulrreoetxasyedcpvtm,isreaeselunosroizóipaztsearnrae/nirearrzocaesnelidnnlanoeledsadssomdlumuuooescossabatmnmpodnsirtorioopiáñmvvrugcoeiilruemmsasurl/cioeaiyaeiesssósnnnonscttsi:ioooñamdtnsabrqepe,sseutpollnreeiobamusgrpqjc.,precruEactloieninoaocmdsmnaclouoeuyipenssaepavanngnarartar,iunoñálsallfoaaaaaicstcplsitoapnrauyeosraránrmlmydyacdotisepinciztnclonaraáaticrijsceñreitdieóadiscecrn,sa,aaedpluósaon.atdcfsiEciuaql/niismaluzdaotsaioa,b-enmvdseirdeaeedpanonsnunrtocauedmuagdsaindfráqlees,soumerslreoiocgeranousisqyetm/roueenoaren-ss-s y de bienestar.
+Ejdelendrieevpemrleadsyeeoncrotdanuccrieóancnti,órdanec.ibSóiundsoejnauleedgseotassa,eratradopellamoládessedlpepeersmnesriatsemepnieasnrottrioicaispleiamsrbyeóndlieecxomp. oevriiemniceinatsod, etaampbreiénndiszoanEtfaennreetons,ttealasetptiarpepopasadlroaesrctmrvaaoieanótgudsininrv,eñouaovcosdpsoaseyílannoccysllsloaiotaolrmnsaeunesioneyxjñuespsnoteenalis(oñgñpmdroyaaaoabssnrcleiaazéiaspjóasoapnrnscrndele,iyaineatñnbdrelradeíeeiloszessdsa.ncod,ejoEleicsupsnlusc/cfrsulariisainuórbditgctnreeeeinipdrtmpniaoaufariisdlceccm,laeíanaefdettineicooonvtxarrtorepg/eedsnaaeeoinyrenditicsetsrezoepounabnrascceai)fciid,clóaiideeotscnualnsteaorhatiindnspeldadutrtaaeeeocdprpnrai.oocatdoigosrirvtizéenbaianrssijoeldeyitqaderecu,oaoxleedsotln,eapcqpbrudriuooooaier----l
+
+30
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+NIVEL TRANSICIÓN
+elchpdñEoinaaelaó/qcrsenlseiaualumsgeedryuocdiiuueátncuprelstooocaetrnsargplna,doylocnolo.i,eaosrsmss/nuaauagadsmyuculpooasilerrttnpoarnoatasoeuca.renrttyAmoieucsqnndaiiupmocsaeamiriyacseísymiranóeyponese,adpsyisrenottaleidnablcaseneigpapirevqbeaeneurlinaleleiedcdrenaiemadócnduanaiceóncciqsnaatifiutvdidrieeveieedsosentapasatldcreotnoaeucsmbsetdnolraedediñydlceoooeegscrsnrl oubecyclpamuaolsoibanpda,sodaapsrtndouoaíisoasr-dgsditEnoureenádsrsafaeiaiecpsscrnartrabeeocsyáinltuolsrdoasnaiicrmezymtaaíssoscojteyovcdicouiqejmaurrul.dreieliEeigecnsnaounattmslgocoauiprrseó,ealslnyígjoaelcdsnda,o/edepanssouusslpsadiseld.iadpmeeIzguonraouacsdmtaadirobdliiomceioelinpidersdteotnaoaasrdtds/bee,aelg,lyess/rsclusaedaeaebnerbeseaeadcrneconuyptqncqirvvaufueiiedendesroaeasllro,onad/lscstaeoaisnnoprq,iindaññiuerneooeastssreeelcygeynpornstrnanirepnñeisfñedagleausroanmsirddtdleaioeetivcvmseziie,ódoisrnynepesaonorcynscormtielmruaaáxensnpspcierurmdpeesrarntassedridoyuóceosecins.-rrrpefsdqscEeeanaiueuncmmrrreuraPsrlpoariuarhcssllilselmau,ooposnlalssreoadp/edyrrraepqreesefajuaaoluñnaarleereiaodbmzcdgcsisaozduoeiutdónarecsrloanjáac.aecEinduyesdcdo.nnhieduóErcieicapnliln/asaraó.ld/caatSfaeiieocoósencsnannodsidodsenucB,oleñoócaráraaecgpsisdenlniaiiaccrozgtcacaeaernci,,/goósicaeyfrnmoiadlct/aumraeoalnnamtenplaihonvbueleaozodeihécanpvuaahnniooclfnodisrasmcstohaduaobeyoarnmcerriat/hdeaeasqoasronueu,decteaieoninsalltivdoricyeeesfinánorniendnnpitdeeñiorcomoomqisabsauearlsyseeraecmnaslooiacíañntseslaiasvnsnuuilitdlaseñiaavlcoridaazetsunauesrnzpestaoa,dneenryoceveteecpiasvnsotlrouceoredrsacilnacetgduiirsrvóeraoleano--sl De esta manera, en este nivel los niños y las niñas aprenden observando, explorando, descubriendo e indagando en su entorno; imitando comportamientos de otros que les son significativos; y desarrollando juegos simbólicos, de carácter social y reglados, tanto espontáneos como dirigidos. Requieren de un ambiente enriquecido lingüísticamente, donde los textos se constituyan en un recurso permanente a partir de los cuales inician procesos paulatinos de alfabetización.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+31
+
+[página 17 del PDF]
+DOMINIO B
+Creación de un Ambiente propicio para el Aprendizaje
+
+Este dominio refiere al diseño e implementación permanente de ambientes educativos, definidos como “sistemas integrados de elementos consistentes entre sí, que generan condiciones que favorecen el aprendizaje de los niños y las niñas” (BCEP, 2018, p.113), constituyéndose en el espacio privilegiado que promueve el desarrollo de habilidades, conocimientos y actitudes, independientemente de la etapa de vida y nivel de desarrollo en que se encuentren.
+Relacionado a cómo aprenden los niños y las niñas, Vosniadou (2006) plantea que hay tres principios que el/la educador/a debe considerar como base al momento de diseñar ambientes de aprendizaje: la participación constructiva de quien aprende; la participación social, en tanto experiencias de enseñanza y aprendizaje colaborativas; y la participación en experiencias significativas, entendidas como aquellas que niños y niñas perciben útiles en el día a día. Es decir, afirma que el/la educador/a debe promover ambientes de aprendizaje que incentiven a los niños y niñas a aprender activamente, a colaborar con sus pares y a realizar actividades significativas con materiales auténticos. Desde una perspectiva inclusiva, el/
+
+la educador/a debe generar ambientes donde todos y todas se sientan incorporados, reconocidos y aceptados, lo que implica generar diseños curriculares que contemplen la diversidad.
+Por otra parte, Hamre y Pianta (2007) manifiestan que las interacciones que el/la educador/a genera con cada niño y niña son determinantes para el proceso de aprendizaje, relevando los climas relacionales positivos, de respeto y buen trato, donde los/ as educadores/as responden a las necesidades de todos los niños y las niñas y manifiestan altas expectativas respecto a sus capacidades y aprendizajes, favoreciendo así su desarrollo socioemocional y cognitivo.
+Lo anterior implica que el/la educador/a organice los espacios, tiempos, rutinas y recursos educativos considerando las características, intereses y necesidades de los niños y las niñas, en favor de un ambiente potenciador de aprendizajes y de bienestar integral, donde promueva la confianza y las relaciones participativas y democráticas entre todos quienes componen la comunidad educativa y local: niños y niñas, familias, equipos de aula y otros actores. “Los primeros años de vida son el período más significa-
+
+tivo en la formación del individuo, por lo tanto, la calidad de los ambientes es sustancial para el desarrollo de sus capacidades físicas, sociales, emocionales, cognitivas y de lenguaje. En consecuencia, si los niños y las niñas no cuentan con entornos protectores y enriquecidos donde las familias y equipos educativos cumplen un rol protagónico, estarán perdiendo oportunidades de desarrollo y aprendizaje” (BCEP, 2018).
+Ello requiere que el/la educador/a de párvulos organice ambientes para el aprendizaje seguros y de bienestar integral, con un sentido pedagógico claro, que promuevan la autonomía y confianza progresiva, la colaboración, el rol protagónico de niños y niñas en la construcción de aprendizajes significativos y heurísticos (descubrimiento, creatividad, actividad, intuición, investigación) y el aprendizaje a partir de los errores, intencionando que toda posibilidad que tiene el niño y la niña de interactuar se convierta en una oportunidad de jugar y aprender. Todo esto, con el fin de generar y mantener una cultura de aprendizaje lúdica y desafiante.
+Por otra parte, al incorporar en el ambiente para el aprendizaje el juego como estrategia pedagógi-
+
+32
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+ca, se releva su rol impulsor tanto del desarrollo de las funciones cognitivas superiores como de la afectividad, la socialización y la adaptación creativa a la realidad de los niños y las niñas (BCEP, 2018), siendo además el medio por el cual expresan lo que saben, lo que quieren, lo que les motiva y lo que necesitan para su desarrollo y aprendizaje. Respecto a esto, los juegos “tienen una estructura interna creada espontáneamente por los propios niños y niñas, que los hace muy valiosos para la Educación Parvularia, por cuanto responden plena y singularmente no sólo a sus motivaciones internas, sino a sus requerimientos de desarrollo” (BCEP, 2018, p.32).
+De acuerdo con los principios y fundamentos éticos propios de la profesión docente en Educación Parvularia, el/la educador/a debe propiciar ambientes de aprendizaje que garanticen el derecho de los niños y las niñas a ser tratados con dignidad y respeto, reconociendo que tanto las niñas como los niños tienen capacidades para aprender y, por tanto, deben tener las mismas oportunidades para desarrollar estas capacidades; para ello se requiere de espacios libres de estereotipos, donde los juegos y los recursos sean pensados e intencionados para que tanto niñas como niños disfruten plenamente.
+
+A partir de lo anterior, el ambiente para el aprendizaje debe ser pensado para que todos los niños y las niñas desplieguen sus potencialidades, por lo que debe ser física y culturalmente accesible para todos (Adlerstein, Manns y González, 2016). En este contexto, el/la educador/a debe identificar las habilidades y los recursos de apoyo que requieren aquellos niños y niñas que presentan necesidades educativas especiales, con el propósito de realizar los ajustes necesarios o incorporar recursos específicos de acuerdo con las posibilidades de su
+
+contexto. Por ejemplo, organizar el tiempo de manera flexible; contar con espacios y mobiliarios que permitan el movimiento, considerando las características de los niños y las niñas; acceso a los diversos recursos didácticos; e incorporación de nuevos desafíos. Todos estos son factores centrales para favorecer el bienestar integral y el aprendizaje de todos y todas y responder de manera efectiva a la diversidad del grupo.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+33
+
+[página 18 del PDF]
+DOMINIO B
+Creación de un Ambiente propicio para el Aprendizaje
+
+CRITERIOS DEL DOMINIO B:
+
+Criterio B.1 Genera y mantiene un ambiente de bienestar integral para el aprendizaje
+
+En la creación de un ambiente de bienestar integral, el/la educador/a genera y mantiene interacciones de confianza y respeto con los niños y las niñas, entre ellos y entre los adultos; considerando las características, necesidades e intereses de los niños y las niñas, lo que favorece el desarrollo de sentimientos de aceptación, plenitud, confortabilidad y seguridad, permitiéndoles gozar del proceso de aprender (BCEP, 2018). Asimismo, establece un vínculo con la familia, reconocida como el principal referente en la formación de los niños y las niñas, incorporándola en la creación de los ambientes de aprendizaje para que estos sean contextualizados y significativos.
+Asimismo, el/la educador/a mantiene una actitud empática y comprende que sus actitudes, comportamientos e interacciones en el aula influyen en la motivación y construcción del aprendizaje que logran los
+
+niños y las niñas. “La relación pedagógica entre niños y docentes ha demostrado ser más efectiva cuando incluye cuidado, crianza, preocupación por el bienestar general de cada niño o niña y apoyo al aprendizaje” (Programa Estado de la Nación, 2011, p.99).
+Por otra parte, con el objetivo de organizar ambientes motivantes, acogedores, desafiantes, que potencian la participación y el rol protagónico de los niños y las niñas, llevándolos a disfrutar de sus procesos de aprendizaje, el/la educador/a considera la integración de TICs como herramientas que enriquecen los ambientes de aprendizaje, logrando que los contenidos sean más ricos, atractivos y pertinentes (Hepp, 2007).
+El/la educador/a modela con el ejemplo y fomenta la participación de los niños y las niñas, organizando espacios educativos en conjunto con ellos/as, favoreciendo la autonomía progresiva,
+
+el diálogo y la colaboración, así como el creciente ejercicio de la ciudadanía de cada niño y niña, poniéndolos al centro del proceso educativo y propiciando, según el nivel educativo y las características de desarrollo, conductas tales como: mostrar preferencias, elegir, iniciar acciones, realizar actividades con otros, opinar, decidir, cuestionar, resolver problemas, desarrollar talentos, entre otros. De esta forma, favorece la afirmación de la identidad y el reconocimiento sustentado en la valoración de la singularidad y el bienestar integral de todos los niños y las niñas.
+
+34
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Criterio B.2 Organiza ambientes físicos funcionales y seguros para el aprendizaje
+
+El/la educador/a dispone ambientes físicos amplios, variados, seguros e inclusivos, con espacios y recursos educativos planificados previamente, de acuerdo con las características de todos los niños y las niñas del grupo y con las posibilidades que tiene cada establecimiento. Ambientes libres de estereotipos, con variados recursos de apoyo según los requerimientos individuales y colectivos, teniendo especial atención con aquellos que presentan necesidades educativas especiales, procurando así que todos y todas tengan acceso al juego, la participación y progreso en el aprendizaje. Asimismo, considera la participación de las familias en la creación de un ambiente propicio para el aprendizaje, entendiendo que el aporte que éstas hagan contribuirá a que los niños y las niñas se sientan acogidos, seguros y cómodos, lo cual favorecerá el bienestar integral y la adquisición de aprendizajes significativos.
+Al hablar de ambientes funcionales, la distribución del espacio físico del aula debe prever
+
+la intencionalidad pedagógica y adaptarse a los distintos escenarios o necesidades de aprendizaje de todos y todas. Hoyuelos (2005b, citado en Castro y Morales, 2015) subraya la importancia del acomodo del mobiliario dispuesto para las exigencias pedagógicas o funcionales, de manera que el ambiente se constituya en un espacio amigable, acogedor, delicado y sensible para todas las personas que lo habitan y que contribuya al desarrollo integral de los niños y niñas.
+Junto con ello, el/la educador/a, al organizar ambientes funcionales, procura que tanto niñas como niños desplieguen sus máximas potencialidades y adquieran aprendizajes significativos dentro de un espacio que permite el libre desplazamiento, la exploración y el juego. Para ello, en la organización del espacio considera la selección de los recursos y la ambientación, y también la participación y colaboración de los niños y las niñas, sus familias y el equipo de aula. Esto, con la intención de
+
+darle mayor pertinencia y significado al ambiente educativo, de manera que los niños y niñas se sientan seguros en este espacio y parte de él.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+35
+
+[página 19 del PDF]
+DOMINIO B
+Creación de un Ambiente propicio para el Aprendizaje
+
+Criterio B.3 Establece e implementa una organización del tiempo para favorecer el aprendizaje
+
+El/la educador/a considera el tiempo como un componente fundamental del ambiente educativo, por ello intenciona pedagógicamente todas las instancias de la jornada, de acuerdo con los objetivos del currículum vigente y las características de los niños y las niñas del grupo. A su vez, resguarda un equilibrio entre: períodos constantes y variables, períodos asignados a cada núcleo, actividades colectivas e individuales y espacios interiores y exteriores al aula, con la finalidad de ampliar y enriquecer las oportunidades de aprendizaje, acercando a los niños y las niñas a su entorno natural y sociocultural. A partir de ello “las niñas y los niños se sienten cada vez más partícipes del entorno natural, en tanto tienen frecuentes oportunidades de convivir con él. Así, mediante actividades de exploración espontáneas, observan, se asombran, hacen preguntas, formulan interpretaciones sobre diversos elementos y seres vivos que encuentran, como el agua, la luz, los animales, la tra-
+
+yectoria seguida por el sol; y sobre fenómenos como la lluvia, los sismos, y otros” (BCEP, 2018, p.81).
+Además, organiza transiciones fluidas entre los distintos períodos de la jornada diaria, resguardando la intencionalidad pedagógica y los Objetivos de Aprendizaje, y respetando las características individuales de los niños y las niñas. Así también, flexibiliza el uso del tiempo en función de los ritmos, intereses y necesidades y de las situaciones emergentes que se presentan; todo ello, con el propósito de organizar un ambiente educativo seguro, estable y pertinente, que responda de manera efectiva a lo que los niños y las niñas del grupo necesitan para jugar, interesarse por aprender y desarrollarse plenamente.
+
+36
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Criterio B.4 Genera una cultura de aprendizaje desafiante y lúdica
+
+“La nueva cultura del aprendizaje es adaptarse a los cambios y buscar nuevas formas de aprender a través de la innovación, cultivar la imaginación y aprender haciendo. Según el profesor Douglas Thomas su objetivo principal es buscar un equilibrio entre la estructura institucional
+y la libertad individual” (Tobar, 2012).
+
+Para ello, el/la educador/a reconoce e incorpora las habilidades, capacidades y conocimientos de todos los niños y las niñas y, a partir de esto, organiza experiencias desafiantes, lúdicas e innovadoras que favorecen la creatividad, el rol activo y protagónico de todos los niños y las niñas, así como el disfrute durante el proceso de aprendizaje.
+Además, el/la educador/a considera el juego como estrategia pedagógica fundamental para promover en niños y niñas la cu-
+riosidad y la indagación individual y colectiva, ofreciéndoles oportunidades para buscar soluciones de forma autónoma; con ello, les permite identificar paulatinamente sus conocimientos, habilidades y las diversas estrategias que utilizan para aprender.
+A partir de los elementos mencionados, el/la educador/a implementa estrategias para que familias y equipos de aula mantengan altas expectativas so-
+
+bre los aprendizajes de los niños y las niñas, lo que permite generar una cultura de aprendizaje que favorece la implementación de ambientes educativos movilizadores de nuevas experiencias y nuevos aprendizajes. Cuando el/la educador/a concibe al niño o niña como un ser irrepetible, capaz, con características distintas y con derechos, se sitúa desde una perspectiva que reconoce que todos y todas pueden progresar si se les brindan las oportunidades y apoyos necesarios; por tanto orienta su práctica hacia contextos educativos donde los niños y niñas se sientan reconocidos, respetados, considerados y desafiados, equiparando de esta manera sus oportunidades de aprendizaje, presencia y participación desde los primeros años de vida. Asimismo, comparte la importancia de favorecer el juego y las actividades lúdicas al interior de cada familia, como una oportunidad constante que tienen los niños y las niñas para aprender.
+A continuación, se presenta un cuadro del Dominio B, con sus cuatro criterios y los descriptores asociados a cada uno de ellos.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+37
+
+[página 20 del PDF]
+DOMINIO B
+Creación de un Ambiente propicio para el Aprendizaje
+
+Criterio B.1
+Genera y mantiene un ambiente de bienestar integral para el aprendizaje.
+
+Criterio B.2
+Organiza ambientes físicos funcionales y seguros para el aprendizaje.
+
+Criterio B.3
+Establece e implementa una organización del tiempo para favorecer el aprendizaje.
+
+Criterio B.4
+Genera una cultura de aprendizaje desafiante y lúdica
+
+B.1.1 Establece interacciones de confianza y respeto mutuo entre todos los niños y las niñas, y entre ellos y el equipo de aula, para favorecer un clima de bienestar integral y aprendizaje.
+
+B.2.1 Organiza y renueva espacios y recursos educativos de acuerdo con las características y necesidades de aprendizaje de todos los niños y las niñas del grupo.
+
+B.3.1 Define los diferentes periodos de la jornada considerando los objetivos de aprendizaje y las características de todos los niños y las niñas del grupo para favorecer la estabilidad y equilibrio en las experiencias de aprendizaje.
+
+B.4.1 Incorpora las habilidades, conocimientos y actitudes de todos los niños y las niñas del grupo para implementar experiencias de aprendizaje innovadoras y desafiantes.
+
+B.1.2 Organiza ambientes acogedores y desafiantes que motiven a todos los niños y las niñas del grupo a disfrutar y aprender.
+
+B.2.2 Organiza los espacios educativos resguardando que sean seguros y favorezcan el desplazamiento, la exploración y el juego.
+
+B.3.2 Organiza la jornada considerando periodos constantes y variables, agrupaciones diversas y espacios educativos interiores y exteriores para enriquecer las oportunidades de aprendizaje de todos los niños y las niñas del grupo.
+
+B.4.2 Implementa experiencias de aprendizaje que promuevan el rol activo y protagónico de todos los niños y las niñas del grupo para favorecer aprendizajes significativos.
+
+B.1.3 Organiza ambientes que favorecen la participación y la autonomía progresiva de todos los niños y las niñas del grupo, contribuyendo a su confortabilidad y aprendizaje.
+
+B.2.3 Dispone los espacios y recursos educativos en conjunto con los niños y las niñas y el equipo de aula para potenciar procesos de aprendizaje significativos.
+
+B.3.3 Flexibiliza la organización del tiempo considerando las situaciones emergentes, necesidades e intereses de todos los niños y las niñas del grupo para favorecer la motivación por el aprendizaje.
+
+B.4.3 Utiliza el juego como una estrategia pedagógica que promueve la libre elección y el disfrute para potenciar los aprendizajes de todos los niños y las niñas del grupo.
+
+B.1.4 Establece interacciones bientratantes con las familias para favorecer ambientes educativos promotores de aprendizajes integrales.
+
+B.2.4 Organiza los espacios educativos considerando a las familias y sus contextos, favoreciendo la pertenencia, la inclusión y el aprendizaje.
+
+B.3.4 Define estrategias diversificadas de transición considerando los ritmos e intereses de todos los niños y las niñas del grupo para resguardar la fluidez y continuidad entre los diferentes momentos de la jornada.
+
+B.4.4 Implementa estrategias de trabajo con las familias y equipo de aula para promover, en ellos, altas expectativas de aprendizaje hacia todos los niños y las niñas del grupo.
+
+38
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+CARACTERÍSTICAS GENERALES DEL DESEMPEÑO PROFESIONAL DE LOS/AS EDUCADORES/AS DE PÁRVULOS, EN ESTE DOMINIO, POR NIVEL CURRICULAR
+NIVEL SALA CUNA
+roydrDotsneyrEreeploeeerblpnEpeoomdscenasepodsersc)frepaucsiEie,aaese,ñusnrtsurcleceldrvonpeqaea/aitutdiaetdoeelgbstilausnuiedaqecreangarcgucldetousreouveltdiuoriaderoebseolcaaezrepeealadoo/aelncslnnecrecasferpusarycdotiluondcsrdebaernciecamrodronoacelaa,mpáolsdrvupnemnsaddiseodemeetípqaerapionenasreuecslfsnuerpmariinscrttasunenneyoj/teosprupsavsridadecinfn,traclldoceadoleeinoodapcdionzcavobórelndzgseilaaoisprozasjanvegreasjrdaenaaoeremeanrn,icqeldtejonusr.qirleoitqumcailoeñsuicetpueaa.vsueeeaelsonrdope,enaersrítcsasi,nrnacmeitqvreleeotloceciategeyoueiñsmesa,ccanloatregltoecniarlaqsasceepóauaissxstpoiuióedsnoadeceóapasayenldtuu,rgenlmncsedeor,eAdctlurioueiarsomaledrabñomrí/nucsalnsnondedlaionpucetaebodndoseisdqillrñunciómiioairsseeeñcudvaon/ntopnadenasíaeesed,ieas,leñasutmraiqlimdfeyssegymeonczaducouteudsaastvaeipnuebesdbentmrduonleeaeyiigaetteoceedarirociripreaseppanlnrlpyaeepsa/ucttnedoritosaecirsveeeelvtetdosi,aoeandolycnnonneupcpndmloadAisileieycivtreñóndpcipoemaallqeezaeioneutrdñndpabaullsexeo,cserocojeiiaeapxeenvcsedidsrsnl(mtóoilidnra/da,yaoomeotqeanceineirsbsrzlascuiripeaosorsa,eiaeoppieedetccaapslnmjncaloricenitairulzaiooósrteolanodontaatrofxnndeiédsnorccsineniis,uneeymnoaioisnltpioóie,ttb,vnted,ccleaaaannliyoeceeogceaerpcgaraosloralramryi,rqriladepaóllsma,esaocluleseeaopnolepnsoyrtdeenlprrysenaadnaacnonestrasrrttiaamoaceiamtaiazp,gltddrairosntaanóotrmbanuocouireedjtcmndciiegifvrsolóxenfiólitato,aizaindteponndcejnlaleunsvuaeoralstini,jaeelíirczeleyets/szaidrhlroamidsgl.tauepvsatonimj.iaaAdgoeo,ctsaeriindceepiañosfdusrnneodoaisds.oonaatumndrpdinausnsysedfmneeeorei,cdleoecs,rrnaadmeloseoelsdestoremnlnioaosvsyafttqbc,oraeuor/ruleelo-snsaiaelt/ealsdsooltsaia,--y-
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+39
+
+[página 21 del PDF]
+DOMINIO B
+Creación de un Ambiente propicio para el Aprendizaje
+
+NIVEL MEDIO
+
+Elsanesgeaúscntteilvonisdivareedlqecusueirrnriidmciuvieliadnrut, oeaslle/dlsaeceloodmsuocnaigñdroousrp/ayallecaoss.mAnpdiñreeamns.dáes,
+
+que que
+
+los espacios deben deben ser flexibles
+
+favorecer tanto y modificables
+
+Dyrcntyoaeuei/lñnxolletotumsohasrsliyiasysjletmlu.olasaeEorcsigsrraepmionstceoiorñaqcseduaui;aaostelclo,aaiprieónleleleniml/rceclmdaituvaueaniedtrndaadoaconcu,pitacllariaeavetltdiidoerdeoaexsanrdcpd/eniolaebio,pñslcrpeoaaocr,rscnoaoiiynsmóteiidnnddole/,iievñlaplarianaeaeseannilsdndadd,udoiiicsecamoflnagarnptduaesmlocteiairdyamór/e,nangecri,,rpanoullnautnapadloiaacncoclicrc;óeiesoóynraurneclpdaciyoeiósonrnenetan,extcsaeprlpirapóxlraoatrncroerceiaptiopfaocrasrrionómeqgeensriulselemdiendasetierucvaondyaccndiiuvsódtoeeorne.inrcbsltiduooooe-ss-s
+
+Ebqrpilluro/eoeldsag,orrfeseeassddvgiueovucaraaearelcddinmioeeruen/tnndaatomcapocbrsnoiuióétmneinnux, dtelhaoevigeppdieeeelannrrmdeepe,saasnpnrutceeieitcnaoñic,poiacaauyclodrivióseoingsdliiodildviseaae,dmrlcsooyoosmsmcnrreoiieñntaumottonsiovsaysidfcqlooaaurndsmes;ntatnaiiñoednanetoseebfsneasnvdtloaoelnsrosettsnecinipe,ñareeodsrlsaiooiysmadulaopatsosolorvnntsaoaiñrnpmiaateíse-a-.
+
+Dldaaeneaddcuuiscefarrdduootar/craodnseapyaeoaebeplrsxellrgrooepmeags,qenniupurtndiierzaeieiiñarzdneacdoaacnijesdlóieraab,yni.sqetcAluyoerasreedsniesmacoesnecesgliiiressñuóepmcaasnlcauslroiocddsó,hisaeoneaorsesbupdqliernoeetuedamrelatrrueueemcdvlcnnoabiauitctsdniorihevsatsnoneoodistcssñeqeleosayiusnpsvedpmteryeeoaesarpclltiep/iaioeolcxasrarsipreioaanlesyolidpesñyrtuauasraareccsnandaixóosetddeenfbsoelor,alrierar/edomrpsasreoreatqsileernslcunlo,tuoendelbsioininpvrzeciteqaemeniljurogemieenper, saieuneltcleeatlelo/sy-nanarios para el aprendizaje.
+
+40
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+NIVEL TRANSICIÓN
+cpnnaeAoEriisnñopnnzíaomrolcecesacoonisióymvmttdnoeeniiozmreidñannataejaiatecvsomcdleodpieldboseuenicdbeéeueseednsrsucparcieimnacsconociuenooirlsostlnpaarciseroido,csrredgeeae,reessllalibraodrgeeclarulidouandccunedoipycósaqnaaangmutdrseatioodéicmqcvreniiuópip,msenplaaaa,ircbqlreoelieunaóbpsétnloeoqepsyx.mudeipbceeraómliosllmei.oirdtlaosPaacAondjniuómreiagñnstbdaaoiqpyrnes,uatnalyoriotdra,eisleralqmajspmuuaáoenearsrgiyagñldoooaaeesrs-s,l perfEaeedncruytcecieinsaostetncainvraiteortetulsaacrpaosaaneaccmladocdeisivaornegngrieerñsnusootpsmseo,yot.pitploraoircssleonsdiqñfeiuanetsaeserxe,lt/aqolsusaí,ieecldooreumsncocadudteaaomlrree/bsaciusédernesbposeruseneiondcsiuuecircpaaacatiudióvtenoéesnentnqircuieoqelsup,leerscosiegcpreneesirflomiacdmaitetabilvnieoecpnstetuyer-vnercEiiixivelfóp/ienclnenacarciydeiaieoadscn,nsuoctdcnyaiaaocnldseotdoondsiratei/qrrnaaiudaaccepmiiovórsmeiendunn,purtdqgraeeieul.zenneasdjeeleces,osqprmeuopseonegtrlcáumoonaslieretdneaciamtñpniovedaasnrosttyi.eclPan,ipoiañfarslaeírtsaxcpnioybotamirolpio,udolnoalsodetcsieoeypnnmrfsoulpiudcnoieeadsrmemaozásapsdydaoeprearrlotcolralaasopnpnmaslgacioacindmidióafoenidcndaqdtecoueiseóeanxpvtpeladaenne--eeacDlxmaeetdmepoarlecírieo/nuanrteeordsssdeuqocbsulecaaeovppnperreeopenrmlamdlrooiaiz,tvaaeeenjnlredisqlnae,udssecaairegrelnroaaodsrcl,olicnoóuirnñeienoldsetsteevigoyaurnnanlaatlersay, mefneanibvlñcioaaeorpsnnerttdceereenaprsrdareriozerxrapspojpieelclu.rieoienespntsaacusiraacysueherlainaocpseeirsrdepnanauddceiipzvoaoasjrseina,pptereelr/ergilnuoadnreeetdsarusyy,-
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+41
+
+[página 22 del PDF]
+DOMINIO C
+Enseñanza para el Aprendizaje de todos los niños y las niñas
+
+Este dominio involucra el trabajo pedagógico intencionado de los/ as educadores/as, con foco en las interacciones que establecen con todos los niños y las niñas para favorecer su bienestar integral, desarrollo y aprendizaje. En lo esencial, refiere a las competencias de los/as educadores/as para liderar la implementación de prácticas pedagógicas coherentes con el currículum vigente y las necesidades, intereses, características, potencialidades y formas de aprender de todos los niños y las niñas del grupo, otorgándoles oportunidades equitativas para disfrutar, participar y aprender en las interacciones pedagógicas que establecen en cada momento de la jornada.
+El/la educador/a debe tener clara la decisiva influencia de las experiencias tempranas en el desarrollo y aprendizaje de los niños y las niñas y la importancia de una educación de calidad, que les permita desplegar lo más plenamente posible sus potencialidades, a través de intervenciones educativas oportunas y pertinentes.
+Las interacciones integran variadas estrategias de enseñanza basadas en la valoración a la diversidad y en la mantención de altas expectativas de aprendizaje hacia todos los niños y las niñas. A par-
+
+tir de la individualidad de cada uno de ellos/as, el/la educador/a genera una comunicación efectiva y asertiva donde niños y niñas intercambian y construyen significados con los otros (BCEP, 2018). Paralelamente, el/ la educador/a incorpora el juego como una estrategia que permite a cada niño y niña desarrollar cualidades como la creatividad, el interés por participar, el respeto por los demás, actuar con más seguridad e internalizar los conocimientos de manera significativa. Así, el juego se constituye en una estrategia trascendental de aprendizaje, que enriquece las estructuras que el niño y la niña posee y da la posibilidad de buscar soluciones y construir nuevos aprendizajes.
+Por otra parte, el/la educador/a incorpora en la enseñanza estrategias de mediación, lo que implica establecer andamiaje; es decir, facilita la conexión de los aprendizajes previos con la construcción de nuevos aprendizajes a través de procesos mediante los cuales los estudiantes toman conciencia, paulatinamente, de la forma que tienen de aprender y la transferencia de lo aprendido (Escobar, 2011). Esto permite guiar y potenciar aprendizajes cada vez más complejos, considerando las características de
+
+todos los niños y las niñas y el nivel educativo. Junto con ello, establece una relación afectiva, respetuosa y empática que le permite comprender el proceso de cada niño y niña y a partir de ello otorgar los apoyos necesarios, entregando retroalimentación, formulando preguntas y motivándolos al pensamiento y expresión de éste.
+De acuerdo con las teorías actuales del aprendizaje y la experiencia docente, las prácticas efectivas de enseñanza promueven interacciones para apoyar el desarrollo cognitivo, socioemocional y del lenguaje de todos los niños y las niñas. Las interacciones pedagógicas efectivas procuran incorporar los conocimientos previos y el contexto de vida de los párvulos, así como oportunidades para expresar y ejercitar habilidades ya existentes y desarrollar otras más complejas (Davis & Miyake, 2004; Skibbe, Behnke, & Justice 2004; Vygostky, 1991 citados en Pianta, 2012), implementando experiencias significativas y coherentes con las características de desarrollo y aprendizaje de todos los niños y las niñas del grupo. Relacionado con lo anterior, Sánchez (s.f.) plantea que las posturas constructivistas
+
+42
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+en educación propician el rol activo y protagónico de niños y niñas, a la vez que relevan sus percepciones, pensamientos y emociones en las interacciones presentes en el aprendizaje. Asimismo, dan mayor importancia a los aprendizajes significativos, que perduran en el tiempo, sobre aquellos de corto plazo relacionados con procesos memorísticos limitados.
+Igualmente, el/la educador/a considera la evaluación como una oportunidad de aprendizaje y de mejora continua, a partir de la cual, junto con el equipo de aula, toma decisiones y realiza ajustes a los procesos educativos en función de la evaluación de los diferentes contextos, sus componentes y lo que van manifestando los niños y las niñas del grupo. En este sentido, considera durante la práctica un proceso de recopilación de información sobre los contextos para el aprendizaje y los progresos de los niños y las niñas, con el objetivo final de conocerlos y apoyarlos oportunamente en el aprendizaje. También el/ la educador/a incorpora a la familia, promoviendo una cultura colaborativa, dialogante y con una intención formativa clara y precisa, reconociendo así su rol fundamental en el proceso
+
+educativo de cada niño y niña.
+Por otra parte, el/la educador/a utiliza la retroalimentación como una forma de apoyar el aprendizaje de todos los niños y las niñas, dando pautas para ayudarles a disminuir la brecha entre su nivel actual y el deseado; de esto dependerá, en gran medida, su desempeño en cada una de las áreas de desarrollo y aprendizaje. Así, la retroalimentación es relevante cuando “los comentarios que se les dan a los estudiantes les permiten conocer dónde están, qué les hace falta y qué tienen que hacer para alcanzar sus metas de aprendizaje” (Osorio y López, 2014, p.15). Por su parte, Irons (2007, citado en Hamre y Pianta, 2007) sostiene que la retroalimentación se considera formativa cuando se proporcionan oportunidades positivas de aprendizaje a los niños y las niñas con el fin de mejorar sus experiencias de aprendizaje y su motivación.
+Junto con ello, es fundamental el trabajo colaborativo con el equipo de aula, donde el/la educador/a, en función de su responsabilidad y ética profesional, debe desarrollar competencias asociadas a un liderazgo basado en la valoración
+
+de los aportes de los demás, la colaboración y la gestión del equipo. En este sentido, lidera al equipo de aula destacando sus fortalezas, retroalimentando respetuosa y oportunamente la labor educativa de cada miembro, promoviendo un trabajo reflexivo que favorezca el fortalecimiento de las competencias técnicas individuales y colectivas y generando espacios de diálogo constructivo respecto del desempeño de la práctica pedagógica, en función del bienestar integral y los aprendizajes de todos los niños y las niñas del grupo.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+43
+
+[página 23 del PDF]
+DOMINIO C
+Enseñanza para el Aprendizaje de todos los niños y las niñas
+
+CRITERIOS DEL DOMINIO C:
+
+Criterio C.1 Lidera al equipo de aula en la implementación de la práctica pedagógica en función del bienestar integral y el aprendizaje
+
+El/la educador/a conduce y orienta al equipo de aula en la labor educativa, valorando, reconociendo e incorporando las habilidades y competencias técnicas de cada uno de sus miembros, con la finalidad de favorecer el bienestar integral y aprendizaje de todos los niños y las niñas del grupo y el desarrollo de prácticas pedagógicas contextualizadas y desafiantes. En este sentido, considera al equipo de trabajo como actores que “comparten percepciones, tienen una propuesta en común, están de acuerdo con los procedimientos de trabajo, cooperan entre sí, aceptan un compromiso, resuelven sus desacuerdos en discusiones abiertas …(todo lo cual)… no aparece automáticamente, sino que debe irse construyendo poco a poco” (Bell, 1992, citado en Antúnez, 1999, p. 95-96).
+Junto con ello, en el trabajo colaborativo el/la educador/a promueve la observación y reflexión conjunta del quehacer individual
+
+y colectivo en favor de una práctica pedagógica continua y coherente con los propósitos definidos, considerando para ello la trayectoria educativa de cada niño y niña y el desarrollo de prácticas pedagógicas que resguarden el derecho a desenvolverse en un ambiente armónico y movilizador de aprendizajes significativos, en función del bienestar integral, el desarrollo pleno y la trascendencia del niño y la niña.
+Además, incorpora en su desempeño profesional la retroalimentación como una oportunidad de mejora, para lo cual propicia instancias de reflexión que permitan al equipo de aula identificar sus logros y aquellas competencias técnicas que requieren fortalecer para desarrollar prácticas pedagógicas innovadoras y lúdicas. “La retroalimentación ajustada es una competencia del o la educadora -más bien del equipo- y conlleva a considerarla como fuente de apren-
+
+dizaje” (BCEP, 2018, p.114). Ávila (2009, citado en Valdivia, 2014, p.20) señala que la retroalimentación es un proceso en el que se comparten inquietudes y sugerencias para conocer el desempeño y mejorar en el futuro, además de potenciar e invitar a la reflexión.
+
+44
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Criterio C.2 Establece una comunicación efectiva para enriquecer las oportunidades de aprendizaje
+
+La comunicación efectiva tiene como propósito transmitir mensajes claros y entendibles, de modo que se evite todo tipo de confusión, dudas o interpretaciones erróneas de lo que se quiere transmitir, lo cual es fundamental para desarrollar procesos educativos que faciliten los aprendizajes de todos los niños y las niñas. De acuerdo con ello, es relevante que
+el/la educador/a utilice formas de comunicación comprensibles para todos los
+
+niños y las niñas, mediante el uso de un lenguaje verbal y no verbal pertinente a la situación comunicativa y a las características del grupo.
+Además, el/la educador/a acompaña y desafía a todos los niños y las niñas del grupo a buscar diferentes soluciones que los lleven a desarrollar su pensamiento, fortaleciendo los recursos de comunicación, el lenguaje articulado y la expresión verbal y corporal, a través de diversas verbalizaciones, de tal manera que el niño y la niña las utilicen como un instrumento de interrelación afectiva e intelectual. Por otra parte, el/la educador/a contribuye a un clima de confianza y seguridad, lo que permite a niños y niñas fortalecer sus habilidades sociales, cognitivas y emocionales, favoreciendo así las posibilidades de expresión y de aprendizaje.
+
+tunidades para que el niño y la niña amplíen su vocabulario, responde a sus iniciativas comunicativas, ya sean verbales o no verbales, a través de una actitud de acogida, de respeto y de una escucha atenta y activa, enriqueciendo las verbalizaciones de todos y todas y diversificando estrategias para que aquellos niños y niñas que presentan necesidades educativas especiales sean también protagonistas de acuerdo a sus propios ritmos y estilos comunicativos.
+Además, el/la educador/a presenta un adecuado manejo del léxico propio de cada núcleo de aprendizaje, utilizando ejemplos relacionados con las experiencias previas y la vida cotidiana de los niños y las niñas, lo que favorece el interés de ellos/ as por participar de las diferentes situaciones educativas y ampliar sus aprendizajes.
+
+Junto con ello, en las interacciones pedagógicas que el/la educador/a establece evidencia un lenguaje enriquecido con la finalidad de dar opor-
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+45
+
+[página 24 del PDF]
+DOMINIO C
+Enseñanza para el Aprendizaje de todos los niños y las niñas
+
+Criterio C.3 Genera interacciones pedagógicas que favorezcan el desarrollo integral y la adquisición de aprendizajes significativos
+
+“La interacción es la principal herramienta pedagógica del proceso de aprendizaje, desde temprana edad. El/la educador/a y el equipo pedagógico deben asegurar que las interacciones entre adultos y párvulos, entre las niñas y los niños y entre los adultos, constituyan un escenario favorable para el bienestar, el aprendizaje y desarrollo integral, así como para aquellos sentidos que de manera particular cada comunidad educativa se ha propuesto imprimir a su proyecto educativo” (BCEP, 2018, p.114).
+Relacionado con lo anterior, para que las interacciones pedagógicas sean coherentes con las formas de aprender de los niños y las niñas, el/la educador/a debe propiciar la activación de aprendizajes previos que les permitan establecer las bases para la construcción de los nuevos aprendizajes, intencionar momentos en que niños y niñas planifiquen, monitoreen y evalúen sus propios procesos de aprendizaje y transfieran lo aprendido a distintas situaciones de la vida cotidiana (Vosniadou, 2006), esto es el sentido de trascendencia.
+Así, el/la educador/a, a través de diversas estrategias metodológicas
+
+lúdicas y desafiantes, promueve la interacción en el aula con la finalidad de favorecer el desarrollo de habilidades socioemocionales, motrices y de pensamiento, pertinentes con los Objetivos de Aprendizaje de las Bases Curriculares y con las características de todos los niños y las niñas del grupo e incorpora el juego como el “escenario donde comienza la participación infantil, ya que dentro de él es posible escuchar las voces de niños y niñas con naturalidad, conocer sus experiencias personales, sus intereses individuales, colectivos y las relaciones que se dan entre ellos; donde la palabra y la acción dan cuenta de la implicación y compromiso de ellos y ellas dentro del juego. Sólo se aprende a participar participando” (Peña y Castro, 2012, p.128).
+El/la educador/a responde de forma oportuna y efectiva a las características y necesidades que van presentando los niños y las niñas, mantiene un diálogo enriquecido y una actitud de acogida y respeto, promueve que se expresen desde sus contextos de vida y establezcan conexiones entre sus experiencias previas y nuevas -de acuerdo con sus posibilidades comunicativas-,
+
+46
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+dando mayor sentido y significado a su aprendizaje. También problematiza situaciones e incorpora preguntas para despertar la curiosidad y la motivación por aprender. En este sentido, Vosniadou (2006) afirma que el aprendizaje está fuertemente influido por la motivación, por lo que las interacciones del/la educador/a inciden directamente en los procesos de aprendizaje de los niños y las niñas.
+Junto con ello, utiliza diversos recursos adicionales con la finalidad de favorecer las interacciones y la participación de aquellos niños y niñas que requieren de apoyos específicos como, por ejemplo, láminas y sistemas alternativos de comunicación que anticipan acciones como son los pictogramas, los paneles comunicativos, las herramientas tecnológicas, entre otros.
+Por otra parte, el/la educador/a observa y respeta las experiencias de aprendizaje autodeterminadas por los niños y las niñas y se incorpora de manera oportuna a la acción de cada uno/a respetando sus ritmos e intereses, por lo que van descubriendo y aprendiendo, interactuando con una actitud receptiva para enriquecer la experiencia que cada uno/a va adquiriendo.
+
+Criterio C.4 Toma decisiones oportunas considerando la evaluación de la enseñanza y el aprendizaje
+
+El/la educador/a reconoce la evaluación como un proceso fundamental para el aprendizaje y la incorpora en su práctica de manera contextualizada y sistemática, considerando a las familias, al equipo de aula, los Objetivos de Aprendizaje definidos para el grupo y los contextos para el aprendizaje. Además, utiliza estrategias evaluativas diversificadas ofreciendo variadas posibilidades de expresión, donde todos los niños y las niñas puedan manifestar lo que han aprendido y cómo han aprendido.
+Durante las experiencias cotidianas y lúdicas, el/la educador/a reúne, registra y documenta información relevante, con un enfoque predominantemente cualitativo, para reflexionar en conjunto con el equipo de aula sobre los aprendizajes de los niños y las niñas y la relación de éstos con la práctica pedagógica. Lo anterior permite tomar acuerdos y hacer ajustes para una mejora continua en función del bienestar integral y el aprendizaje de todos los niños y las niñas del grupo. “Ejercer su rol profesional significa, por tanto, valorar la relevancia y el sentido de su labor pedagógica y asumir en forma au-
+
+tónoma y responsable (a través de un código ético específico) la toma de decisiones para el diseño, implementación y evaluación de un proceso educativo sistemático” (BCEP, 2018, p.28-29).
+Por otra parte, el/la educador/a utiliza la información evaluativa de la práctica pedagógica para potenciar los aprendizajes de todos los niños y las niñas y comparte con la familia el reporte de las evaluaciones con una intención formativa -resguardando la confidencialidad de la información-, a través de estrategias apropiadas al contexto y considerando la opinión de la familia en relación con los procesos de aprendizaje de cada niño y niña. “Respecto de los y las docentes, tienen el rol de liderar el proceso de enseñanza y aprendizaje, planificando, implementando y evaluando, mediante el análisis sistemático de las evidencias de aprendizaje provenientes de diversas fuentes. Tanto la planificación como la evaluación son herramientas de apoyo, las cuales se benefician de la reflexión con otros, por lo que es
+
+relevante llevarlas a cabo colectivamente” (BCEP, 2018, p.103).
+Asimismo, el/la educador/a realiza una retroalimentación oportuna y efectiva con los niños y las niñas a través de verbalizaciones que reconocen sus avances y requerimientos. “Durante las experiencias para el aprendizaje, a menudo ya hay retroalimentación, bajo la forma de preguntas y comentarios del aprendizaje que se está construyendo” (BCEP, 2018, p.112). Por ejemplo: “lograste tomar el juguete”, “ya te sientas solo/a”, “puedes equilibrar tu cuerpo con un pie” o utilizando preguntas que les permitan darse cuenta de sus habilidades o de sus necesidades para lograr ciertos aprendizajes; por ejemplo: “¿de qué manera lograste construir esa nave? (identificación de habilidades), ¿puedes intentar equilibrar tu cuerpo buscando algún apoyo? (identificación de apoyos). De esta forma, el/la educador/a garantiza un proceso evaluativo formativo, con relación a lo que se espera en cada dimensión de desarrollo y aprendizaje de los niños y las niñas del grupo.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+47
+
+[página 25 del PDF]
+DOMINIO C
+Enseñanza para el Aprendizaje de todos los niños y las niñas
+
+A continuación, se presenta un cuadro del Dominio C, con sus cuatro criterios y los descriptores asociados a cada uno de ellos.
+
+Criterio C.1 Lidera al equipo de aula en la implementación de la práctica pedagógica en función del bienestar integral y el aprendizaje.
+
+Criterio C.2 Establece una comunicación efectiva para enriquecer las oportunidades de aprendizaje.
+
+Criterio C.3 Genera interacciones pedagógicas que favorezcan el desarrollo integral y la adquisición de aprendizajes significativos.
+
+Criterio C.4 Toma decisiones oportunas considerando la evaluación de la enseñanza y el aprendizaje.
+
+C.1.1 Reconoce los logros individuales y colectivos del equipo de aula en función de prácticas pedagógicas que promuevan el bienestar integral y aprendizaje de todos los niños y las niñas del grupo.
+
+C.2.1 Utiliza un lenguaje comprensible considerando las diversas características de todos los niños y las niñas del grupo.
+
+C.3.1 Implementa un repertorio amplio de interacciones promotoras de habilidades socioemocionales, motrices y de pensamiento de acuerdo a las características de todos los niños y las niñas del grupo.
+
+C.4.1 Evalúa los diferentes componentes de los contextos de aprendizaje de acuerdo con las orientaciones del currículum vigente.
+
+C.1.2 Organiza el trabajo pedagógico considerando las habilidades y competencias del equipo de aula para brindar a todos los niños y las niñas del grupo oportunidades de aprendizaje desafiantes.
+
+C.2.2 Utiliza un lenguaje verbal enriquecido con la finalidad de que todos los niños y las niñas del grupo amplíen su vocabulario con palabras y conceptos nuevos.
+
+C.3.2 Establece interacciones pedagógicas que favorecen la conexión con las experiencias y los aprendizajes previos de todos los niños y las niñas del grupo.
+
+C.4.2 Evalúa los aprendizajes de todos los niños y las niñas, llevando un registro de ello y asegurando un proceso sistemático, auténtico y diversificado, considerando las características de todos los niños y las niñas del grupo.
+
+C.1.3 Establece estrategias de trabajo colaborativo con el equipo de aula para resguardar la coherencia y continuidad de la trayectoria educativa de cada niño y niña y de la práctica pedagógica.
+
+C.2.3 Responde a las iniciativas comunicativas (no verbales y verbales) de todos los niños y las niñas del grupo, imitando, extendiendo y/o reelaborando su expresión.
+
+C.3.3 Incorpora estrategias de aprendizaje lúdicas y desafiantes que favorecen la interacción entre los niños y las niñas y entre ellos y el equipo de aula para aprendizajes más significativos.
+
+C.4.3 Modifica la práctica pedagógica en función de la evidencia documentada, considerando los antecedentes evaluativos de todos los niños y las niñas del grupo y de los contextos de aprendizaje.
+
+C.1.4 Retroalimenta el desempeño del equipo de aula para fortalecer las competencias técnicas en favor del aprendizaje y el desarrollo de prácticas pedagógicas reflexivas, innovadoras y lúdicas.
+
+C.2.4 Utiliza un lenguaje pertinente y apropiado a los núcleos y Objetivos de Aprendizaje del currículum vigente.
+
+C.3.4 Se involucra en experiencias autoiniciadas por los niños y las niñas del grupo, observándolos y apoyándolos en su proceso de aprendizaje.
+
+C.4.4 Utiliza los resultados evaluativos de todos los niños y las niñas del grupo en las interacciones que establece con ellos para favorecer oportunamente sus aprendizajes y los comparte con las familias con una intención formativa.
+
+48
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+CARACTERÍSTICAS GENERALES DEL DESEMPEÑO PROFESIONAL DE LOS/AS EDUCADORES/AS DE PÁRVULOS, EN ESTE DOMINIO, POR NIVEL CURRICULAR
+NIVEL SALA CUNA
+ldfqceucmpehEeoualgaran/imteeaecrlciatnrvaeniosiaacdcepstevoisitalrdapreoeesepsunarsdayebncrdienñlriaaeelivmcioozdlñniemalsboaooylrsenlrssásuee/nnoenasyn.sitnnñiceelsñtinaaod,xeeoessnposyscepnesecereyrirolqseñisalnenaouotamianrsescñeibac/,uoalaebilllpsaoeosmql,asz.esquricP/,yetdueaaacecjeseárnuorea.lu.eianiAlmde/tDgcodilsooonpaezetgcsaloymeie,aesc,tssdráeasrdteusausasirg,ncauseiupfamqrssosiaidupraerprnomiossañoleruonaadr/pc,tdalieereaemneosnsdsimrpioc,ttdeoaiiaesoscaabtjpdaiqdturaloiaorueesvrrrrtcseoatquer,euleuyenlmsnesielrunba/pealsumteueanfenllretieereeofananejdcsmacytpcsuucretlbuiaciiasdomiaenaureandlstssandeiteoucatscorsrieseosp/acslasmseaafoeeeerdccpmnlñgcoiueosoatúuncsiornlnbnaotelaaltaiztsle-li-aacs,vnaoarteclosaacescifoacípsniruóieecnnasrpipnPrnooauatlslreelaaiorvbbeaifirslnasaiadctse,ei.axlqgiCdptureoaeaérsnlrinydleeaeenslscatceeeciasaloedifstnigq,andiaun,rupi,uyscodtitdyicealiaeisózmnanaedamxlodnappeeylolroniaabarucarsdeoetseovmruovrsopiasaraecsiañiexpóaepnrnnlete/adrinlrniaoedtsnieesuzucndariscujaeeicassosa,cpn.fdcuaaioeodvrsnoa/taerapesgacyyirueoaíenatncodoraroignq,laooudrcseeaecrnelieoisqñnstuoadnésofioñhysroaumlcsaemaysn, uls,nanuqisdñudnaoéeisñcsloaeeansn-s mapteEopexlarrprnanomopeopnaro,ianaeyimderodloneoittstseaemmprmaoaslpetruirlanveastannsesruogolocunedosadiendjaaelvodelesde,xrentsepaaglfnicouontiraoroiacjmnerieaeaynerssfceoayoextvnratsooseeprtsnenoa,sccynpieiaótarreronlep,leyalcondodrinceemeitsssoeoatcnarrreaarieobcnrcltlielartioaóspvmnadeu;earnvabñesllaorguelb,umniacnmgoleoulancsoagotrjeeineenjslealeo,acmnfsiolrópeiornqlmcob.utsjaueesrpcta,oiadtsrdeoaexd,teemucsurtosaoeudsn,seetodlonanesr-:
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+49
+
+[página 26 del PDF]
+DOMINIO C
+Enseñanza para el Aprendizaje de todos los niños y las niñas
+
+NEpnsdlnepneeEricIceeeiñao(VanEsuntboimplslaleucdomilollgetnlvaEasou/fsladeiseusunauardulbrtsa/uLrenanseeasdpteaneu/rnoleatds,aajasleatMevdciednolrfsso,faryastdsaayiooiu,saaccpaauElvsmuraaeoaoesuafenreestcDlldqdíderrreneieaipellqaapmñieulucunnslInnnoodueocoicOeucldtygetatssotlelairaasaeseaoinddi/acarlmatdrarsnyp/steoiolipleepraiqoesvo,aeymnesrlslodmanruassolenfnee/ycaysidoo/asevnasfyoctsoa.oicecbpeeqa)n,tcdAsmateiiarncraeumuoolieesalelñiahrpi,sn/etnldcimluetotamaiolaaoeoeeeonaalnsmstnnobalrnlsdeiivutedtmsvddc-re,earilaspeegmesiatijoopdnnomoatáuuisolaclmauriopnmnyctnosligfcsiraoocei,aeardcitoraefevqnaetesonndulnoioisiondndusvrdetpadetmyltcertnooodoeoesesioaeoomsmee-rcs,ifns.ena.zpy/,uuodnscoP,aapEacstcoennotimtepamytosjofoarncreáacdnrenuanrzntoradaedonurtitennoodaldsdereanoenemclshtesccteonnicetrsotlrmaytelaolylauiavtitaisuosundcreevrnrriaacldil,ntsniaeleiodsoolniieieadeeeñsoarargensltondysaleeocnelrc/oyeudpepedaocvenloeslatndyocraiaismagjsna.oensoio.apeuosdlmtagniTpcparrcrauñdeancealunaeáalbe.oosjuexanemnnanletlrDispisrrcoísicédsdtddaciñbya,leaasapdnaoyoaaiaiad,rfzeaaénrsrcearpqatocsnadcgtcenioacsjaouoñeyrcrtiunettnn/ñlirememoiaeivaastacaostcaásserosaucaipoanmspdnícdiytsyaralrmeeoadreideateraunveplxsniebosebraspnncaddvpeavuqrelulsoaeodmieooeerqesoussrnnrressscrluaeaatsilseaiivsipretoat,ññe,nneeaasernienruaeñoavdtnnntrersitpetpnissañabiteueeyvvsoeilsqsoayconsamiicuihqrcmulsedusrssosellisaauieeazesuaipyepnnqbnceesaiessaenttcoenupdnlencxerldelceytrrieeeilioootponñttloeñ/posaaeiansels.sannvalptray/snos,yreol,naseaaauipaptspeesotessresatdboieoernidc,ssdeceeáinnnrasottcdulroedengnaaieiipeindeceemycauusrdecaolacnaonnsocenndoyleoydedtndidasstilerzapnaohsoeaodiaoooadordytptrsasscoorr/sutuaelodceeeaqrraeauscu-dnieo-nersuananaassle-/lsa
+
+acción física.
+
+Pcyurooiserenadlúnllaalodtdsisom, dndpoeiáña, pnleoadassbloafyrulabelnsrasadspstaanimeyriamñpeadrnpsoeto,pasilncopqrvraicoubrialeoiurnercaeárlc/ásnclpndaiodooennoldeedsusesectrpea,érndrroemocpproii/niantaoisvemseynyroddsdfoaerecalylisoeoesanysmedeqsepjumesleiimagápnsnpdu,ilfuieoifctidqiaslaiutuzniesvauanerssdelasoclrepo. ununngeeausltalvaojaess-,
+
+50
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+NIVEL TRANSICIÓN
+lelirlaEimaeszsnflapgauirenelceisetincroetxazeenrporaceasneocscricmyviiiceóeoppánnlnaalcicedrrdiuttaseaiirscrpsruimidpocnyesauocciclmtaoaliiióvprmleanarnebeas,ltnocopeadorsnopanigtsztovriiaryveteajioaevtrlsosooeqassymdruycoeesoorolncemlbddieloapriessenjaafsrañrentelueesttapmeureosrlnaotspceis.mñoonqonruudseeleiovnyvsaselnoenreistñiñliñdamaroerassossyet,pyisarevletpaetacorsnroeánmnnyidodñufaceaatdeursc.or,oiElr,isepstluaaatoosrs-r ñdtetplEoeooelol/ms/slnqelauayaduleneeieniegndddiinhñtouruedaaccenecsoaanncedddrtiáoórcceoepranulr//diegdadadanriaemfudteuapyeaurnoebyoseoneuuspyttdseosermaeerisintrnroulqotvsovenupeoesraencleryumsisscoeciaeoebnrpsdánnle,eonestsmeiyda,dmaoaaolerasastlrsuiseonavumsenasyereccindaaricaoepesnrdnemrusaaeseistadcpuvsnjia,eoruaddaiznedllaeasgqeyssasouaboycspseói,fedleomeilrdiorsfsioiatncpcnadduiueelceaecclcitszhatepaaitaevsdoisnvianertddasesleesoondy.ls.lesToatIduagruslamoisulvnnasapebi,sñlnrrimmsseéoieñogniesrtosuniybmésnetlrnetyaseiadn,psnlseodaatnsoslaycieñirinoopsemaispeseñspto,xeadiooprcsdertbilutupoísoaccnonentiaitrerrdtatovesiiamgvsa, dquorneneeuasdnis.sl-eo,-pdaytPeapáaarcrralyeataiunicslndodoceágiszlxnruavapdijarreeorucailcatoncalbtsaatilvrióaevaapsasmr,steyicesmqooncunaoltveeshoeiedratrgireeleasornunnasesntizendaphsioñcr,aoioecódbsinnialsyeutdlmiolnenasaltsaasanmns.uiiJñblmñauoiaenoessntdsoeytarenlecliadlooleosarnvgsdnaaeaeinnsñpsttiarezo(esva,q,nidesuadousenizaytieamliecljp/eipsplls,aaoá.onrentriadfdainlucoeatcssedea, dooda,oferyree/mvauceetoeinrvlxitizpeumaxraeriplesefeneosrtricoecmlonauancrtaifooalmitsscreatddonsies-)nlmyepmoyeEalesilnl/surerldiaainamnñsnpzeedtaceoisooñtosednaayanyrupaonrlr/temecroioapoavaslifleelcdelo.quoodonaPunsmdartaeds/ognerpaei,óailzerrñecfgaeeaspsooirntvlcesnalresoooursyyinsróicuqeeedntnlducsvueaiñeeeedsrriearanmrediassdlsapednaedaubotiedasfecereensrqtsccerfapuoeoeoranerinnnntrotenioiteovvrsnetccieuayqsdiilremsmauadfrdedediebieieneisfúfpnylóenae/srtrmtrlroqloeaoreaopusennemlcoentptldeaaerdoárcuspresassicavh;odaedalcianecooldeibacesdssoibain;aolaryfoirdu/ndípeaorgeeaoaadsrvasddlya,eia,eecadellsoerossnúees,rsteypnelernaaresandlceicpapñrioigoviuororqtumeeeenrsunornfsapsleytstdreaoaac.ixlñsissezadi;earóqsaeljnlupoyenaaesossislñce.yogpyaEasobuepssspcríraeeofimr(mucoanseiinpndpetundaodcalsinatradecracmmaleairdodslepileapanoenrsjueasosteaccenmn)aulo,sálioqtqbgñnlaivuuuorsseieie-es-;slr cdnytslMoaieiadañnsolcal,aciedmdousineeenusatlnasenaacncrsndliiodeadonsmoilogfglloüepenulnatírninsrefoagticncilldoucóedaomaagntesjiigyeuvrcduanaeaeeas,ilscj,fllepaaapoomrcrstlaooeirvóinapcmlaniióteañnuosrsvozrviiteaztasiroeraadydbrntoyseealdaelguqcoseictuuainenoeelqilitnndñrluieetnaaueondscnps,lgeiau,dhdulery/eaaeallacladjsniel.eédeeoAisnidnmnfddeudgiebcoruceeimrlaalaeendjdcásetyóosoep,dressp/reisoaegtolcni/godrprliuiadeeotanobolseltt,oedarddaassuueevmycatélipabeelosdiaitlztedrlloiaaaavrerrtsbsa/a,pajrr(suaasFaa,meesordyagnyppeuoeelosdsvinmaaraoqrrneacirauqdoslaeul)olbco.leaoupsscnnuloanedostrrieocñirolnieaocmcssosnipienuheyunveanelevbatlsoroasi---
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+51
+
+[página 27 del PDF]
+DOMINIO D
+Compromiso y Desarrollo Profesional
+
+Este dominio integra las responsabilidades éticas y profesionales del/la educador/a en cuanto a la práctica pedagógica y a otros compromisos que van más allá del trabajo de aula y que son fundamentales para la educación de todos los niños y las niñas; los que debe hacer efectivos tanto desde la teoría como desde la práctica cotidiana.
+La especificidad de este dominio destaca aspectos éticos de la profesión, como el compromiso y la comprensión que debe tener el/la educador/a en relación con su práctica, sus necesidades de aprendizaje, sus conocimientos y valores, así como la responsabilidad de fortalecerlos y ponerlos a disposición de la educación, con la finalidad de favorecer el desarrollo afectivo, cognitivo y valórico de cada niño y niña. Es importante también la reflexión crítica de su práctica, el trabajo colaborativo que debe desarrollar con la comunidad educativa y local, así como también el conocimiento profundo que debe tener de la política educativa nacional y local. Es decir, en este dominio se abordan aquellos aspectos de la labor educativa que constituyen un soporte a su desarrollo profesional, lo que implica una responsabili-
+
+dad ética con la profesión y con los principios de la Educación Parvularia. Tal y como plantea Rojas (2011; p.19), el fin propio del educador es la formación de un ser humano en su integralidad, comprometiéndose profundamente con lo que hace porque cree en el valor de sus actos para formar personas y humanizar a los niños y niñas, responsabilizándose de las implicancias que comportan sus decisiones.
+Este dominio orienta a los/as educadores/as de párvulos a incorporar en su práctica pedagógica una actitud crítica de constante observación, autoevaluación y reflexión sobre su desempeño y la búsqueda de renovación para el perfeccionamiento continuo de sus prácticas, reconociendo así sus propias capacidades y necesidades de aprendizaje, lo que evidencia un actuar ético que permite al educador/a otorgar mejores oportunidades educativas tanto a las niñas como a los niños del grupo desde un enfoque de derechos. En este sentido, trabajar en educación “plantea para el/ la educador/a una exigencia ineludible: tratar de ser cada día más consciente de cuáles son los factores que operan sobre sí mismo y de qué manera influ-
+
+yen en su trabajo. (…), entre más nos acerquemos a los elementos que conforman nuestras normas de actuación, más podremos resolver si hemos actuado bien o mal, tanto actitudinal como prácticamente desde el punto de vista pedagógico, didáctico y personal” (Rojas, 2011, p.10).
+Por otra parte, este dominio releva la importancia que tiene compartir y contrastar la experiencia profesional con sus pares y trabajar en conjunto con el equipo de aula con el fin de detectar las necesidades de formación y autocuidado, entendiendo que el bienestar psicológico incide positivamente en el aprendizaje de niños y niñas. Asimismo, destaca la reflexión sistemática sobre el propio quehacer pedagógico considerando, en esta reflexión, la confidencialidad de la información, la cultura del establecimiento, las políticas educativas vigentes, los instrumentos de gestión y los vínculos con el contexto, todo lo cual permite al/la educador/a comprender el efecto que tienen las diversas decisiones educativas en los avances y logros de aprendizaje de todos los niños y las niñas. En este sentido “resulta fundamental promover la reflexión
+
+52
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+personal y colectiva, reconocer las características de nuestra sociedad, los prejuicios y estereotipos arraigados en nuestra cultura y generar acceso a fuentes de información respetuosas de los derechos humanos, como base para compartir significados sobre la diversidad y su valor, impulsar prácticas inclusivas en forma permanente y por parte de todos los integrantes de la comunidad educativa y generar redes para apoyar iniciativas que la favorezcan” (BCEP, 2018, p.23).
+
+la construcción de lazos que favorezcan la transición educativa; lo cual debe estar en coherencia con la organización interna de cada establecimiento.
+
+Además, el dominio convoca al/la educador/a a formar parte activa del entorno en que se desempeña profesionalmente, coordinando sus acciones con los demás miembros del establecimiento, integrando a las familias en los procesos educativos y compartiendo con ellas la importancia pedagógica del juego, con un interés común en el bienestar integral y aprendizaje de todos los niños y las niñas. Asimismo, y de acuerdo a cada contexto, impulsa la formación de redes de apoyo con otros actores de la comunidad educativa y local, a través de un trabajo colaborativo para abordar y disminuir las barreras para el aprendizaje presentes en el contexto educativo, junto con promover acciones orientadas a
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+53
+
+[página 28 del PDF]
+DOMINIO D
+Compromiso y Desarrollo Profesional
+
+CRITERIOS DEL DOMINIO D:
+
+Criterio D.1 Demuestra compromiso con los niños y las niñas, su profesión y el rol que desempeña en la sociedad
+
+El/la educador/a manifiesta su compromiso con los niños y las niñas, poniéndolos al centro de todo proceso educativo, por lo que considera en su desempeño favorecer y promover los derechos de los niños y las niñas, y los contextos inclusivos, equitativos y sin discriminaciones, con la finalidad de favorecer el desarrollo integral de cada niño y niña. Gupta y Kulshreshtha (2009, citados en Fuentealba & Imbarack, 2014) mencionan que el compromiso alude, entre otras cosas, a: dedicación a la tarea, adhesión a los objetivos de la educación, profunda preocupación por sus estudiantes, conciencia de la responsabilidad y del rol docente y, finalmente, un alto grado de profesionalismo. “Asimismo, los profesores comprometidos tienen la certeza de que tanto ellos -su identidad como su trabajo-, su conocimiento pedagógico, disciplinar, profesional, las estrategias de enseñanza que utilizan y también sus creencias, actitudes y valores, tendrán un
+
+impacto significativo en sus alumnos e instituciones en las cuales trabajan” (Day, 2007, 2009; Sammons et al, 2007, citados en Fuentealba & Imbarack, 2014, p. 261).
+El compromiso es una dimensión descriptible que puede ser intencionada en los procesos de formación docente y que se asume como aprendido, en interacción con otros y en un determinado contexto, lo que hace directa referencia a su carácter situado (Abd y Ngurah, 2010; Crosswell y Elliott, 2004, citados en Fuentealba & Imbarack, 2014); por lo tanto, no puede ser considerado como competencia de solo unos pocos, ya que es esencial para una buena enseñanza (Day, 2006, citado en Ulloa y Gajardo, 2016).
+El/la educador/a a partir de su compromiso con los niños y niñas resguarda la información que tiene del grupo y la utiliza en beneficio del bienestar
+
+integral y aprendizaje de cada uno de ellos, manteniendo una actitud de respeto y confidencialidad, lo que favorece una cultura de confianza y respeto mutuo, siendo relevante para su desempeño ético profesional. Junto con ello, reconoce la importancia de la Educación Parvularia y los fundamentos que la sustentan, promoviendo en la comunidad educativa y local la valoración y significado que tiene el primer nivel educativo en la trayectoria educativa de los niños y niñas, constituyéndose de esta manera en un referente significativo para la comunidad.
+
+54
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Criterio D.2 Establece relaciones de colaboración con la comunidad educativa y local
+
+El/la educador/a reconoce que la colaboración con distintos actores de la comunidad permite generar un clima institucional profesionalizante y de bienestar; además, enriquece el contexto y favorece la disminución de las barreras para el aprendizaje. Desde una perspectiva inclusiva, la posibilidad de establecer relaciones de colaboración significa reconocer que todos y todas tienen un saber importante que debe ser considerado en los procesos de aprendizaje de los niños y las niñas. De esta forma, el/la educador/a va instalando una cultura de relaciones de mutua cooperación para contribuir al logro de los propósitos educativos que enriquecen el trabajo del aula.
+Junto con ello, el/la educador/a incorpora a la familia en la definición e implementación de estrategias con la finalidad de potenciar su participación en el proceso educativo, para lo cual considera las posibilidades y los intereses de las familias, relevando su rol insustituible como primer educador. “La familia ejerce un fuerte influjo formativo en los niños y las niñas. En consecuen-
+
+cia, el docente requiere generar alianzas con las familias de los párvulos y una relación cercana con ellas para cooperar mutuamente en una labor formativa conjunta y coherente” (BCEP, 2018, p.30). Además, incorpora en su práctica pedagógica la participación de los diferentes actores de la comunidad educativa y local para enriquecer las oportunidades de aprendizaje. “La Educación Parvularia de calidad es fruto del esfuerzo común entre todas las personas que directa o indirectamente se encuentran comprometidas en la educación de las niñas y los niños: las familias, los equipos pedagógicos y directivos, entre otros. A todos ellos les asiste la responsabilidad de contribuir al proceso de aprendizaje y desarrollo integral de los párvulos. Esto por cuanto la participación y la colaboración solidaria constituyen piezas claves, en la formación de ciudadanos responsables y comprometidos con la infancia y su educación” (BCEP, 2018, p.27).
+También el/la educador/a participa en el diseño e implementa-
+
+ción de estrategias de transición con la finalidad de velar por la coherencia del proceso educativo de niños y niñas de Primer y Segundo Nivel de Transición y Primer año de Educación Básica, junto con las transiciones de los niños y las niñas a otras instituciones. “La Educación Parvularia enfrenta el desafío de resguardar su identidad pedagógica cuando se encuentra tensionada por la organización escolar. Al mismo tiempo, requiere articularse adecuadamente con ésta para que los párvulos hagan la transición esperada, en los términos que definen las Bases Curriculares. Dicha articulación, que forma parte de los desafíos actuales de la trayectoria educativa, debe insistir en el valor pedagógico de los principios de la Educación Parvularia, extendiéndolos para el primer y segundo año de la Educación Básica” (BCEP, 2018, p.26).
+Asimismo, coordina y gestiona redes de apoyo para ampliar las oportunidades de aprendizaje pertinentes a la realidad de la comunidad local donde desempeña su rol profesional, así como
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+55
+
+[página 29 del PDF]
+DOMINIO D
+Compromiso y Desarrollo Profesional
+
+también enriquecer las oportunidades educativas para los niños y las niñas que presentan necesidades educativas especiales. Este trabajo articulado con las redes permite al educador o educadora actualizar y enriquecer sus conocimientos, favoreciendo su desempeño en cuanto a la identificación de las necesidades específicas de los niños y niñas para su desarrollo y aprendizaje, derivar oportunamente a las redes específicas para complementar los recursos y favorecer el aprendizaje, además de
+
+prevenir posibles rezagos, dando así un apoyo integral a los requerimientos que los niños y las niñas van manifestando durante su trayectoria educativa.
+Respecto al equipo de aula, el/ la educador/a lidera la reflexión conjunta, identificando las necesidades de autocuidado y formación que se presentan en distintos períodos del año, entendiendo que el nivel de bienestar de cada miembro del equipo impacta directamente en su desarrollo laboral y en la calidad
+
+de la educación en el aula (EligeEducar, 2018). Por ende, el/la educador/a promueve espacios de trabajo colaborativos, analizando situaciones recurrentes que requieren ser mejoradas para contribuir al bienestar integral (físico, emocional, cognitivo, entre otros). Asimismo, busca instancias de formación acorde a esas necesidades y al contexto en el cual se desempeña, para favorecer el proceso de enseñanza y aprendizaje en el aula.
+
+56
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Criterio D.3 Reflexiona críticamente sobre las políticas y orientaciones educativas4 vigentes y su implementación en la práctica pedagógica
+
+El/la educador/a conoce la normativa, los referentes curriculares y orientaciones educacionales desarrollados por los diferentes organismos del estado (a nivel nacional y local) y realiza una reflexión crítica y actualizada sobre ellos. Entre estas normativas el/la educador/a conoce los elementos fundamentales relacionados con la transición (Decreto N°373) para promover y resguardar un proceso educativo coherente y consistente para niños y niñas de Primer y Segundo Nivel de Educación Parvularia y Primer Año de Educación Básica y considera también la “Diversificación de la Enseñanza” (Decreto N°83) como un referente clave para generar propuestas educativas pertinentes y de calidad para todos los niños y las niñas, dar respuesta a la diversidad de estilos y ritmos de aprendizaje y también para responder a las necesidades educativas especiales que pueden presentar los niños y las niñas del grupo.
+El/la educador/a considera en su quehacer pedagógico los fundamentos que caracterizan el buen trato en Educación Parvularia para
+
+fortalecer un clima de sana convivencia e instalar una cultura que resguarde el respeto entre los niños y las niñas, entre niños/as y adultos y entre adultos. El buen trato incluye todos los estilos de relación y comportamiento que promueven el bienestar y aseguran una buena calidad de vida, lo que supone el reconocimiento de las necesidades propias y del otro, así como el respeto por los derechos que tienen las personas a vivir bien (Arón y Machuca, 2002, citados en SdEP, 2018). El buen trato hacia la infancia implica que los adultos se vinculan con niños y niñas proporcionando cuidado, afecto y protección; visibilizando sus necesidades y sus particularidades y reconociendo a cada niño y niña como un legítimo otro y sujeto de derechos (Arón y Machuca, 2002; Ministerio de Salud, 2013, citados en SdEP, 2018c)
+Además, la actualización permanente de su conocimiento en relación con las políticas y normativas vigentes permite al/la educador/a conocer en profundidad las diferentes orientaciones y referentes curriculares de este nivel educativo para orientar y
+
+(4) Las principales leyes y políticas públicas que deben ser de conocimiento del/la educador/a de párvulos en el ejercicio de su profesión son las siguientes: Texto Refundido, Coordinado y Sistematizado de la Ley N°20.370, con las normas no derogadas del decreto con fuerza de Ley N°1, del 2005. Ley N°20.835, Crea la Subsecretaria de Educación Parvularia, la Intendencia de Educación Parvularia y modifica diversos cuerpos legales. Ley N°20.529, Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media y su fiscalización. Particularmente importantes de conocer son las leyes y normativas referidas al Maltrato Infantil, en el Código Penal, artículos 403 bis, 403 ter, 403 quárter, Artículo 175 Código Procesal Penal. Para profundizar en los contenidos de estas leyes, se recomienda consultar las siguientes páginas web: https://www.leychile.cl/ Consulta/homebasico y https://parvularia. mineduc.cl/marco-legal/
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+57
+
+[página 30 del PDF]
+DOMINIO D
+Compromiso y Desarrollo Profesional
+
+actualizar su práctica pedagógica y favorecer el desarrollo integral, de acuerdo con los contextos nacionales y locales.
+En relación con su desarrollo profesional, el/la educador/a comprende los alcances del Sistema de Desarrollo Profesional Docente (Ley N°20.903) en su práctica; entiende que éste está
+
+orientado a transformar el ejercicio de la docencia y que aborda desde la formación inicial hasta el ejercicio mismo de la profesión, con foco en el trabajo colaborativo, desarrollo profesional y perfeccionamiento constante, con el fin último de incidir en mejores prácticas en el aula. Asimismo, participa en el diseño y en la implementación del
+
+Proyecto Educativo Institucional (PEI) y, a partir de ello, construye una práctica pedagógica en sintonía y coherencia con los sellos institucionales, aportando constantemente a través de su opinión y reflexión pedagógica, elementos que contribuyen a la mejora continua del centro educativo y, por ende, a los procesos de aprendizaje del grupo.
+
+Criterio D.4 Reflexiona crítica y sistemáticamente sobre su práctica pedagógica para favorecer aprendizajes
+
+El/la educador/a comprende la importancia que tiene su práctica pedagógica en el aprendizaje de todos los niños y las niñas del grupo y, por tanto, desarrolla una reflexión crítica y sistemática, tanto individual como colectiva, sobre sus fortalezas y mejora profesional, en función de las oportunidades de aprendizaje y evaluación que realiza; esta reflexión se constituye en una oportunidad de aprendizaje para los/as educadores/as que les permite interpretar las situaciones de enseñanza e incorporar cambios que mejoren la práctica en base a evidencias de la cotidianidad del aula.
+Según Schön (1998), la “reflexión en la acción” o la conversación
+
+reflexiva del/la educador/a le permite construir un saber pedagógico, criticar su práctica y transformarla, haciéndola más pertinente a las necesidades del medio. Por otra parte, Restrepo, B. (2004), plantea que cuando el/la educador/a se constituye en un investigador en la acción pedagógica da origen a una nueva relación ética con el niño o la niña, haciéndolos copartícipes en la búsqueda de un saber pedagógico, lo que permite hacer más efectiva su práctica y armonizar sus relaciones.
+El/la educador/a, a partir del análisis reflexivo de su práctica, identifica las necesidades de formación con la finalidad de
+
+enriquecer y actualizar sus conocimientos que servirán para implementar prácticas pedagógicas innovadoras, desafiantes y flexibles a los contextos y características de todos los niños y las niñas del grupo.
+A continuación, se presenta un cuadro del Dominio D, con sus cuatro criterios y los descriptores asociados a cada uno de ellos.
+
+58
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Criterio D.1 Demuestra compromiso con los niños y las niñas, su profesión y el rol que desempeña en la sociedad.
+
+Criterio D.2 Establece relaciones de colaboración con la comunidad educativa y local.
+
+Criterio D.3 Reflexiona críticamente sobre las políticas y orientaciones educativas vigentes y su implementación en la práctica pedagógica.
+
+Criterio D.4 Reflexiona crítica y sistemáticamente sobre su práctica pedagógica para favorecer aprendizajes.
+
+D.1.1 Incorpora en todo su quehacer profesional acciones que consideran a los niños y las niñas del grupo como sujetos activos de su educación, promoviendo la plena realización de sus derechos.
+
+D.2.1 Trabaja colaborativamente con la comunidad educativa para favorecer el bienestar integral y disminuir las barreras para el aprendizaje de todos los niños y las niñas.
+
+D.3.1 Considera en su quehacer profesional las políticas educativas nacionales y locales vigentes.
+
+D.4.1 Observa y sistematiza su práctica pedagógica a través de diferentes estrategias que favorecen el autoanálisis.
+
+D.1.2 Realiza diversas acciones que favorecen la responsabilidad y dedicación por los niños y las niñas del grupo con el fin de promover el desarrollo y aprendizaje de todos y todas.
+
+D.2.2 Define en conjunto con la familia estrategias de colaboración que les permitan participar activamente de los procesos de enseñanza y aprendizaje de todos los niños y las niñas del grupo.
+
+D.3.2 Considera en su quehacer profesional los referentes curriculares de Educación Parvularia.
+
+D.4.2 Utiliza las evidencias de aprendizaje de todos los niños y las niñas como recurso para reflexionar sobre sus prácticas pedagógicas e implementar estrategias para la mejora.
+
+D.1.3 Utiliza la información de los niños y las niñas, sus familias y equipo de aula con responsabilidad y confidencialidad, en función del bienestar integral y aprendizaje del grupo.
+
+D.2.3 Implementa estrategias diversificadas con la comunidad educativa y local para favorecer los procesos de transición educativa de todos los niños y las niñas.
+
+D.3.3 Participa activamente en el diseño del Proyecto Educativo Institucional del establecimiento, en función de las políticas y orientaciones educativas vigentes.
+
+D.4.3 Identifica sus fortalezas y oportunidades de mejora profesionales y trabaja sobre ellas para potenciar su práctica pedagógica.
+
+D.1.4 Implementa estrategias para que la comunidad educativa y local reconozcan la Educación Parvularia como un eje fundamental en el desarrollo y aprendizaje de todos los niños y las niñas.
+
+D.2.4 Trabaja colaborativamente con el equipo de aula para identificar las necesidades de autocuidado y formación para favorecer ambientes bientratantes y de aprendizaje.
+
+D.3.4 Contribuye en la implementación y mejora del Proyecto Educativo Institucional a partir de las orientaciones educativas vigentes.
+
+D.4.4 Identifica sus necesidades de formación en función de lo cual se actualiza y mantiene en constante desarrollo profesional.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+59
+
+[página 31 del PDF]
+III. GLOSARIO
+
+60
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Las definiciones que se presentan en este documento surgen a partir de la revisión bibliográfica que sustenta la elaboración del MBE EP, con la finalidad de complementar la comprensión y apropiación de este nuevo referente para el nivel de Educación Parvularia.
+• Actividades de aprendizaje autodeterminadas: refiere a actividades de aprendizaje iniciadas por los niños y las niñas, en las que el equipo pedagógico acompaña y apoya.
+• Ambiente bientratante: refiere a un ambiente educativo en donde se resguarda el bienestar y cuidado emocional tanto de niños y niñas como de los adultos que forman parte de la comunidad educativa, a través de relaciones de respeto mutuo, confianza y empatía.
+• Ambientes de aprendizaje: los ambientes de aprendizaje refieren a sistemas integrados de elementos consistentes entre sí que generan condiciones que favorecen el aprendizaje de los niños y las niñas. Estos sistemas están conformados por las interacciones pedagógicas que se desarrollan en espacios educativos, con recursos y tiempos determinados.
+• Ambiente inclusivo: refiere a un ambiente que responde a las características, intereses y necesidades de aprendizaje de la diversidad de niños y niñas que forman parte de la comunidad educativa, tanto a través de las interacciones pedagógicas que allí se desarrollan, como a través de la organización que se realiza del tiempo y del espacio educativo.
+• Antecedentes evaluativos de los niños y las niñas: alude a la información sobre los niños y las niñas (resultados de aprendizaje, contexto familiar y social, entre otros) que se tiene disponible en el centro educativo, cuya consideración es relevante para el desarrollo de un proceso de enseñanza y aprendizaje pertinente y significativo para los niños y las niñas.
+• Asistentes de la educación: los asistentes de la educación son un grupo heterogéneo de personas que trabajan en los establecimientos educacionales y que forman parte de la comunidad educativa. Abarcan desde servicios auxiliares hasta profesionales; sus principales roles y funciones son de colaboración con la función educativa (curricular y pedagógica) y contribución al desarrollo del Proyecto Educativo Institucional.
+• Barreras para el aprendizaje: las barreras para el aprendizaje y la participación, son todos aquellos factores del contexto que dificultan o limitan el pleno acceso a la educación y a las oportunidades de aprendizaje de niñas, niños y jóvenes. Aparecen en relación con su interacción en los diferentes contextos: social, político, institucional, cultural.
+• Bienestar infantil: es el conjunto de percepciones, evaluaciones y aspiraciones que los niños y niñas tienen sobre sus vidas. La felicidad, la calidad de vida o la satisfacción vital son conceptos familiares que se pueden relacionar con el bienestar. El nivel de bienestar de los niños y niñas variará considerablemente en función de muchos factores vinculados a su situación personal y de contexto.
+• Comunidad educativa: agrupación de personas que, inspiradas en un propósito común, integran una institución educativa. Ese objetivo común es contribuir a la formación y el logro de aprendizajes de todos los alumnos y las alumnas que son miembros de ésta, propendiendo a asegurar su pleno desarrollo espiritual, ético, moral, afectivo, intelectual, artístico y físico. El propósito compartido de la comunidad se expresa en la adhesión al proyecto educativo del establecimiento y a sus reglas de convivencia establecidas en el reglamento interno.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+61
+
+[página 32 del PDF]
+La comunidad educativa está integrada por alumnos, alumnas, padres, madres y apoderados, profesionales de la educación, asistentes de la educación, equipos docentes directivos y sostenedores educacionales.
+• Comunidad local: contexto físico, cultural y natural del establecimiento educativo, compuesto por personas, familias, espacios, servicios e instituciones públicas y privadas, con las que se pueden establecer redes y alianzas colaborativas para el fortalecimiento de los procesos pedagógicos y de gestión.
+• Cultura de aprendizaje: ambiente propiciado por los/as educadores/as y los diversos miembros de la comunidad educativa, que promueve la participación progresiva, activa y autónoma de todos los niños y las niñas sobre la base de altas expectativas que se tienen respecto de su capacidad de aprendizaje.
+• Diversificación de la enseñanza: se refiere a la implementación de diferentes estrategias y recursos educativos considerando las distintas habilidades, estilos de aprendizaje y preferencias de los niños y las niñas con el objetivo de maximizar sus oportunidades de aprendizaje. La diversificación de la enseñanza constituye una oportunidad para que todos los niños y las niñas participen, desarrollen sus capacidades y aprendan y, a la vez, es una oportunidad de desarrollo profesional para los/as educadores/as y la comunidad educativa.
+• Educación responsiva: alude a una educación en que el/la educador/a es sensible y responde de forma efectiva y contingente a las necesidades socioemocionales y de aprendizaje de los niños y las niñas.
+• Elaborar/parafrasear verbalizaciones: refiere a una técnica de facilitación y estimulación del lenguaje que consiste en “devolver” la comunicación realizada por el niño y la niña, pero ampliada y con un mayor nivel de elaboración, con el fin de enriquecer su lenguaje. Ejemplo: niño dice: “má”; educador/a le responde: “¿quieres más plátano?
+• Equipo de aula o pedagógico: está constituido por todas aquellas personas que tienen una responsabilidad directa en la implementación de prácticas pedagógicas intencionadas con los niños y las niñas, con el fin de acompañarlos y apoyarlos en sus aprendizajes. Por ejemplo, el/la educador/a y técnico en Educación Parvularia que realizan su labor pedagógica con un mismo grupo.
+• Estereotipo: imagen estructurada y aceptada por la mayoría de las personas como representativa de un determinado colectivo. Esta imagen se forma a partir de una concepción estática sobre las características generalizadas de los miembros de esa comunidad.
+• Estrategias lúdicas: en el contexto de las Bases Curriculares de Educación Parvularia, refieren al conjunto de acciones relativas al juego que se intenciona para favorecer los aprendizajes propuestos, de manera de resguardar experiencias educativas entretenidas y motivantes para los niños y las niñas.
+• Evaluación auténtica: es un proceso orientado a mejorar la calidad de los aprendizajes y de la enseñanza. Posibilita evaluar conocimientos, habilidades y/o actitudes en contextos que son significativos y cotidianos para los párvulos; se realiza a partir de situaciones que requieren solución de problemas, por lo que se centra en las fortalezas de los niños y las niñas. Constituye un proceso colaborativo en el que se realza el carácter de la evaluación como proceso multidimensional, en el cual se puede utilizar el error como una instancia de aprendizaje.
+
+62
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+• Inclusión educativa: es un proceso orientado a eliminar o minimizar las barreras que limitan el aprendizaje y la participación de los niños y las niñas mediante cambios y adecuaciones en las políticas, cultura y prácticas de modo que todos tengan acceso a un proceso educativo que responda a sus características, intereses, necesidades, habilidades y actitudes.
+• Interacciones pedagógicas: son aquellas relaciones que se establecen entre los adultos y los niños y las niñas en un ambiente educativo, y se caracterizan por iniciar y mantener procesos que favorecen el aprendizaje significativo de los párvulos a través de la mediación del/la educador/a, quién promueve la construcción de vínculos afectivos positivos y estables, la participación activa y el juego.
+• Intersector: relativo a la intersectorialidad, que corresponde a la acción conjunta de diversos actores públicos y/o privados con el fin de solucionar o dar una respuesta integral a diversas problemáticas de carácter social.
+• Lenguaje enriquecido: refiere a las interacciones verbales entre el/la educador/a con los niños y las niñas en las que se despliegan y superan estructuras del lenguaje previas, buscándose nuevas posibilidades de expresión. Se facilita preguntando a los niños y las niñas qué harán, qué han hecho, cómo lo han hecho, entre otras interrogantes, invitándolos a construir hipótesis, narrar experiencias y construir fantasías.
+• Lenguaje situado: es el lenguaje que se utiliza considerando situaciones contextualizadas en la vida real de los niños y las niñas y mediante el cual se conectan con sus conocimientos y experiencias previas. Responde a sus intereses y cobra sentido para ellos y ellas.
+• Léxico: vocabulario, conjunto de las palabras de un idioma o de las que pertenecen al uso de una región o a una actividad determinada o a un campo semántico dado, etc.
+• Mediación: refiere al uso del lenguaje u otro signo o instrumento por parte del/la educador/a u otro niño, niña o actor de la comunidad educativa, que intercede entre un estímulo (de aprendizaje) y la respuesta, tal como un símbolo, una fórmula, una palabra, entre otros.
+• NEE: Las Necesidades Educativas Especiales están relacionadas con las ayudas y los recursos especiales que hay que proporcionar a determinados alumnos y alumnas que, por diferentes causas, enfrentan barreras para su proceso de aprendizaje y participación (UNESCO).
+• Niños y niñas que presentan Necesidades Educativas Especiales (NEE): son quienes precisan ayudas y recursos adicionales, ya sean humanos, materiales o pedagógicos, para conducir su proceso de desarrollo y aprendizaje, y contribuir al logro de los fines de la educación (LGE Art. 23).
+• Nivel o tramo curricular: refiere a la organización temporal de los Objetivos de Aprendizaje en tres etapas, que abarcan períodos de dos años, respondiendo con mayor precisión a las necesidades y características de aprendizaje y desarrollo de los niños y niñas. En las BCEP se definen los siguientes niveles curriculares: sala cuna (0 a 2 años), medio (2 a 4 años) y transición (4 a 6 años). También refiere a la organización administrativa del sistema de Educación Parvularia en estos tres niveles.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+63
+
+[página 33 del PDF]
+• Pertinencia: refiere a la cualidad que asume el proceso educativo al basarse en lo que es correspondiente o adecuado, según:
+- las características, necesidades e intereses propios y diversos de cada niño y niña, acorde a su etapa de vida. Implica considerar sus conocimientos y experiencias previas.
+- las características del contexto sociocultural al que pertenecen y del que se sienten participes los niños y las niñas, la comunidad educativa y local.
+- el currículum vigente, orientaciones y énfasis para el aprendizaje en el nivel.
+• Práctica pedagógica: conjunto de acciones significativas que el/la educador/a intenciona para alcanzar logros de aprendizaje.
+• Proceso de enseñanza y aprendizaje: refiere a múltiples y diversas acciones a lo largo de la trayectoria educativa, consistentes entre sí, que pone a disposición el/la educador/a en conjunto con el equipo pedagógico para generar aprendizajes y desarrollo integral, en un ambiente de bienestar para todos los niños y las niñas, estableciendo una interacción constante de saberes y valores pertinentes al contexto. Para ello se utilizan métodos, técnicas y recursos diversos y pertinentes.
+• Proyecto Educativo Institucional (PEI): es un instrumento técnico-político que orienta el quehacer y la gestión de cada establecimiento educativo. Representa el sello que identifica y caracteriza a la institución educativa en torno a concepciones que se construyen colectivamente respecto a la tarea de educar, definiendo de qué manera pondrá en marcha lo que, en su ideario, “sello o impronta” busca desarrollar en sus niñas, niños y jóvenes y con la propia comunidad educativa.
+• Recursos educativos o para el aprendizaje: refiere a todos aquellos elementos tangibles e intangibles que el niño y niña utiliza o el adulto intenciona como parte del proceso de enseñanza y aprendizaje, y que han sido elaborados o seleccionados a partir de las características, necesidades e intereses de los párvulos, incluidos los producidos por los mismos niños y niñas.
+• Redes de apoyo: alude al conjunto de organizaciones y personas naturales que prestan servicios de apoyo dirigidos al logro de metas comunes referidas al aprendizaje, desarrollo y bienestar integral de niños y niñas. Estas redes pueden estar dentro de la misma institución o fuera de ésta. Algunos ejemplos de estas redes de apoyo: servicios de salud, instituciones educativas, centros de recursos, de diagnóstico, deportivos, culturales, judiciales, carabineros, profesionales de la salud y educación de la comunidad, familia, junta de vecinos, municipalidad, CONAMA, CONADI, entre otros.
+• Situaciones emergentes: conjunto de circunstancias no planificadas que surgen espontáneamente en la práctica pedagógica, las cuales deben ser consideradas para tomar decisiones en favor de una mejora en el proceso de enseñanza y aprendizaje.
+• Trabajo colaborativo: refiere al trabajo coordinado que desarrollan los niños y las niñas entre sí con los adultos; así como también entre los adultos para solucionar un problema o abordar una tarea con un objetivo común. Este supone el desarrollo de habilidades y actitudes que permiten que el conocimiento se construya de forma conjunta.
+
+64
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+• Transición educativa: busca promover y resguardar un proceso educativo coherente y consistente para los niños y las niñas en su paso de una etapa educativa a otra. Ejemplo: entre los diferentes tramos curriculares y entre el Nivel Transición y Primer Año Básico.
+• Trayectoria educativa: es el recorrido que realizan los niños y las niñas dentro del sistema educativo. En Educación Parvularia se organiza en tres niveles curriculares, que abarcan tramos de dos años cada uno: 1° Nivel (Sala Cuna) hacia los dos años; 2° Nivel (Medio) hacia los cuatro años y 3° Nivel (Transición) hacia los seis años (BCEP, 2018).
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+65
+
+[página 34 del PDF]
+IV. REFERENCIAS BIBLIOGRÁFICAS
+
+66
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Adlerstein C. (2014). Una Nueva Aproximación a los Contextos para el Aprendizaje: Transitar desde Prácticas Efectivas a Pedagogías Contextuales. Documento sin publicar.
+Adlerstein C. (2015). Prácticas Efectivas en Educación Parvularia: Un Estado del Arte para Pensar la Reforma Curricular del Nivel. Documento sin publicar.
+Adlerstein C., Manns, P. y González, A. (2016). Pedagogías para habitar el jardín infantil: Construcciones desde el Modelamiento del Ambiente Físico del Aprendizaje (MAFA). Santiago, Chile: Ediciones UC.
+Antúnez, S. (1999). El trabajo en equipo de los profesores y profesoras: factor de calidad, necesidad y problema. El papel de los directivos escolares. Educar, 24, 89-110. Recuperado de https://ddd.uab.cat/ pub/educar/0211819Xn24/0211819Xn24p89.pdf.
+Araya, S. (2004). Hacia una educación no sexista. Revista Electrónica Actualidades Investigativas en Educación, 4 (2), 1-13. Recuperado de http://www.redalyc.org/articulo.oa?id=44740217
+Ávila, P. (2009). La importancia de la retroalimentación en los procesos de evaluación. Universidad del Valle de México, Campus Querétaro. Recuperado de https://www.educar.ec/servicios/0-Avila_ retroalimentacion.pdf
+Baquero, R. (2009). El Papel del Juego en el Desarrollo del Niño. En Vygotsky y el Aprendizaje Escolar (pp. 141-158). Buenos Aires, Argentina: Aique.
+Barnett, W.S. (2008). Preschool Education and Its Lasting Effects: Research and Policy Implications. National Institute for Early Education Research Rutgers, The State University of New Jersey. Recuperado de http:// greatlakescenter.org/docs/Policy_Briefs/Barnett_EarlyEd.pdf
+Bennet, J. (2010). Pedagogy in Early Childhood Services with Special Reference to Nordic Approaches. Psychological Science and Education, (3), 16-21. Recuperado de http://psyjournals.ru/files/31230/ psyedu_2010_n3_Bennet.pdf
+Boland, N. (2015). Informe de País Número 4: Nueva Zelanda. Recuperado de http://www.fundacionbotin. org/89dguuytdfr276ed_uploads/EDUCACION/ANALISIS%20INTERNACIONAL/2015/espanol/5ES%20 Nueva%20Zelanda.pdf
+Campos, A. (2010). Neuroeducación: uniendo las neurociencias y la educación en la búsqueda del desarrollo humano. La educ@ción. Revista Digital, (143), 1-14. Recuperado de http://www.educoea.org/ portal/La_Educacion_Digital/laeducacion_143/articles/neuroeducacion.pdf
+Cano, M.I. & Lledó, A. (1995). Espacio, Comunicación y Aprendizaje. Serie Práctica N°4. Sevilla, España: Díada Editorial S.L.
+Cardemil C. y Román, M. (2014). Presentación de la sección temática: la importancia de analizar la calidad de la educación en el nivel inicial y preescolar. Revista Iberoamericana de Evaluación Educativa, 7 (1), 9-11. Recuperado de https://revistas.uam.es/index.php/riee/article/viewFile/3382/3596
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+67
+
+[página 35 del PDF]
+Castro, M., y Morales, M. (2015). Los ambientes de aula que promueven el aprendizaje, desde la perspectiva de los niños y niñas escolares. Revista Electrónica Educare, 19 (3), 1-32. Recuperado de http://www. redalyc.org/comocitar.oa?id=194140994008
+Centro de Investigación Avanzada en Educación (2018). Estudio de Caracterización del Liderazgo y el Rol de los/as Directores/as en Establecimientos de Educación para la Primera Infancia. Informe Final. 31 julio 2018.
+Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (2003). Marco para la Buena Enseñanza. Santiago, Chile: Ministerio de Educación.
+Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas (2008). Marco para la Buena Enseñanza. Santiago, Chile: Ministerio de Educación.
+Ceppi, G. & Zini, M. (1998). Bambini, Spazi, Relazioni. Metaprogetto di Ambiente per-L´infanzia. Módena, Italia: Reggio Children.
+Chile Crece Contigo (2012). Orientaciones técnicas para las modalidades de apoyo al desarrollo infantil: Guía para los equipos locales. Recuperado de http://www.crececontigo.gob.cl/wp-content/uploads/2015/11/ Orientaciones-tecnicas-para-las-modalidades-de-apoyo-al-desarrollo-infantil-Marzo-2013.pdf
+Colker, L. (2008). Twelve Characteristics of Effective Early Childhood Teachers. Beyond the Journal. Young Children on the Web. Recuperado de https://www.researchgate.net/publication/292062700_Twelve_ characteristics_of_effective_early_childhood_teachers
+College of Early Childhood Educators (2011). Code of Ethics and Standards of Practice. Ontario: College of Early Childhood Educators.
+Comisión Económica para América Latina y el Caribe (2018). Agenda 2030 y los Objetivos de Desarrollo Sostenible. Una Oportunidad para América Latina y el Caribe. Naciones Unidas.
+Condemarín, M. y Medina, A. (2000). Evaluación de los Aprendizajes. Santiago: MINEDUC.
+Consejo de la Infancia (2016). Política Nacional de Niñez y Adolescencia: Sistema Integral de Garantías de Derechos de Niños, Niñas y Adolescentes. 2015 – 2025. Santiago, Chile. Recuperado de http://www. creciendoconderechos.gob.cl/docs/Politica-Nacional-de-Nin%CC%83ez-y-Adolescencia.pdf
+Consejo de la Infancia (2016 – 2017). Yo Opino, es mi Derecho. Colaboración del Ministerio de Educación y el Programa de las Naciones Unidas para el Desarrollo.
+Correa, J., Duque, L. y Pantoja, M. (2013). Modelos de Estilos de Aprendizaje: Una Actualización para su Revisión y Análisis. Revista Colombiana de Educación, (64), 79-105. Recuperado de http://www.scielo.org. co/pdf/rcde/n64/n64a04.pdf
+Dahlberg, G.; Moss, P. y Pence, A. (2005). Más Allá de la Calidad en Educación Infantil. Barcelona, España: Graó.
+
+68
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Decreto N°83 Exento. Aprueba Criterios y Orientaciones de Adecuación Curricular para Estudiantes con Necesidades Educativas Especiales de Educación Parvularia y Educación Básica. Diario Oficial de la República de Chile, Santiago de Chile, 05 de febrero de 2015.
+Decreto N°373 Exento. Establece principios y definiciones técnicas para la elaboración de una estrategia de transición educativa para los niveles de Educación Parvularia y primer año de educación básica. Diario Oficial de la República de Chile, Santiago de Chile, 25 de abril de 2017.
+Degele, D., Steece-Doran, D. & Jablon, J. (2011). Planning for Positive Guidance Powerful Interactions Make a Difference. Teaching Young Children, 6 (2). Recuperado de https://www.naeyc.org/resources/pubs/tyc/ dec2012/planning-for-positive-guidance
+Diccionario pedagógico AMEI-WEACE: Asociación Mundial de Educadores Infantiles. Recuperado de http://waece.org/diccionario/index.php
+Directores que Hacen Escuela (2015). De la trayectoria en singular a las trayectorias en plural. Buenos Aires, Argentina: OEI. Recuperado de https://portaldelasescuelas.org/wp-content/uploads/2016/03/1_ Trayectorias-teoricas_y_reales.pdf
+Dombro, A., Jablon, J. & Stetson, C. (2011). Powerful Interactions. Young Children, 66 (1), 12-16. Recuperado de http://web.fcasd.edu/j_district2/images/stories/Early_Childhood/powerful%20interactions-jan%20 2011%20naeycyoung%20children.pdf
+Donegal Country Childcare Committee Ltd. Professional Pedagogy Project (2012). Professional Pedagogy for Childhood Education. Recuperado de http://www.donegalchildcare.com/wp-content/uploads/2015/07/ PPP-Educators-Handbook.pdf
+Duarte, J. (2003). Ambientes de Aprendizaje: Una Aproximación Conceptual. Revista Iberoamericana de Educación, 33 (1), 1-18. doi https://doi.org/10.35362/rie3312961
+EducarChile (2008). La importancia de planificar. Recuperado de http://m.educarchile.cl/portal/mobile/ articulo.xhtml?id=78296
+Educar Chile (s.f). La Importancia del Juego en la Educación Temprana. Recuperado de http://ww2.educarchile. cl/Portal.Base/Web/VerContenido.aspx?GUID=34ab794e-d20d-43f1-b573-c049e8f61a26&ID=133769
+Elige Educar (2018). ¿Son felices los profesores? Radiografía de la felicidad docente en Chile. Santiago, Chile: Recuperado de https://eligeeducar.cl/wp-content/uploads/2018/06/Estudio-de-felicidad.pdf
+Epstein. A. (2003). How Planning and Reflection Develop Young Children’s Thinking Skills. Beyond the Journal. Young Children on the Web, September 2003. Recuperado de https://www.brandeis.edu/ lemberg/employees/pdf/planningandreflection.pdf
+Finnish National Board of Education (2010). National Core Curriculum for Pre-Primary Education. Recuperado de http://www.oph.fi/download/153504_national_core_curriculum_for_pre-primary_ education_2010.pdf
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+69
+
+[página 36 del PDF]
+Fiorucci, P. D. (2007). Análisis de las Prácticas Pedagógicas y su Efecto en la Calidad de los Ambientes de Aprendizajes de los Párvulos en el 2º Nivel de Transición de la Educación Parvularia. REICE: Revista Electrónica Iberoamericana sobre Calidad, Eficacia y Cambio en Educación, 5 (5), 37-47.
+
+Fondo de las Naciones Unidas para la Infancia (2013). Desarrollo y Selección de medidas del Bienestar Infantil. Recuperado de https://www.unicef-irc.org/publications/pdf/MB11ES.pdf
+
+Fondo de las Naciones Unidas para la Infancia (2014). Convención sobre los Derechos del Niño: Ratificada por Chile 1990. Recuperado de http://unicef.cl/web/convencion/
+
+Fondo de las Naciones Unidas para la Infancia (2015). Definiciones Conceptuales para un Sistema Integral de Protección a la Infancia. Chile.
+
+French, G. (2007). Children’s Early Learning and Development. Aistear: The Early Childhood Curriculum Framework, Research Paper. Dublin: NCCA. Recuperado de https://www.curriculumonline.ie/ getmedia/88b84797-73d5-4249-aa3b-0f861796c448/ECSEC05_Exec2_Eng.pdf
+
+Fuentealba, R. & Imbarack, P. (2014). Compromiso docente, una interpelación al sentido de la profesionalidad en tiempos de cambio. Estudios Pedagógicos (Valdivia) 40 (Especial), 257-273. Recuperado de https:// dx.doi.org/10.4067/S0718-07052014000200015
+
+Fundación Integra (2011). Estándares de Calidad para la Instancia de Planificación Educativa. Chile.
+
+Fundación Integra (2014). Orientación para la Evaluación de Aprendizajes a Niños y Niñas que se Encuentran en Situación de Discapacidad. Chile.
+
+Fundación Integra (2014). Referente Curricular. Chile.
+
+Fundación Integra (2015). Política de Calidad Educativa. Chile.
+
+Guerra, P., Figueroa, I., Salas, N., Arévalo, R. y Morales, A., (2017). Desarrollo profesional en educadoras de párvulos: análisis de una experiencia formativa desde la investigación-acción y la interacción mediada. Estudios Pedagógicos, 53 (3), 175-192.
+
+Gobierno de la Ciudad Autónoma de Buenos Aires (2000). Diseño Curricular para la Educación Inicial. Marco General. Buenos Aires.
+
+Godoy, F., Varas, L., Martínez, M., Treviño, E. y Meyer, A (2016). Interacciones Pedagógicas y Percepción de los Estudiantes en Escuelas Chilenas que Mejoran: Una Aproximación Exploratoria. Estudios Pedagógicos XLII, (3), 149-169.
+
+Green, J. (2013). The “Make a Plan” Plan. Teaching Young Children, 7 (1). Recuperado de https://www. naeyc.org/resources/pubs/tyc/oct2013/make-plan-plan
+
+Gunnarsson, L., Korpi, B. M. & Nordenstam, U. (1999). Early Childhood Education and Care Policy in Sweden: Background Report Prepared for the OECD Thematic Review. Ministry of Education and Science in Sweden. Recuperado de http://www.oecd.org/education/school/2479039.pdf
+
+70
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Hamre, B. K; LaParo, K. M.; Pianta, R. C. & LoCasale-Crouch, J. (2014). Classroom Assessment Scoring System (CLASS) Manual, Infant. Paul H. Brookes Publishing Company, Incorporated.
+Hamre, B. K., & Pianta, R. C. (2007). Learning opportunities in preschool and early elementary classrooms. In R. Pianta, M. Cox, & K. Snow (Eds.), School readiness and the transition to kindergarten in the era of accountability (pp. 49–84). Baltimore: Brookes.
+Hedge, H. & Cullen, J. (2005). Meaningful Teaching and Learning: Children’s and Teachers’ Content Knowledge. ACE Papers. Recuperado de https://researchspace.auckland.ac.nz/bitstream/handle/2292/25146/ACE_ Paper_1_Issue_16.pdf?sequence=1
+Hepp, P. (2007). El desafío de las TIC como instrumentos de aprendizaje. En C. Magadán y V. Kelly (Comp.). Las TIC: Del aula a la agenda política (pp.71-80). Buenos Aires, Argentina: UNICEF. Recuperado de https:// unesdoc.unesco.org/ark:/48223/pf0000182434
+Herrera, M (2001). La Autoevaluación en las Prácticas Pedagógicas de los Alumnos del Profesorado en Enseñanza Primaria. Revista Iberoamericana de Educación, 25 (1), 1-8. https://doi.org/https://doi. org/10.35362/rie2513019
+Herrera, M., Mardesic, P., Merino, M. y Peralta, M. (2002). La Educación Parvularia en Chile. Santiago, Chile: MINEDUC.
+Ibarra Sáiz, M. y Rodríguez, G. (2007). El trabajo Colaborativo en las Aulas Universitarias: reflexiones desde la Autoevaluación. Revista de Educación, 344, 355-375.
+Iglesias, M.L. (1996). La Organización de los Espacios en la Educación Infantil. En M.A. Zabalza (Ed.), La Calidad en la Educación Infantil (pp.235-285). Madrid, España: Narcea
+Iglesias, M.L. (2008). Observación y Evaluación del Ambiente de Aprendizaje en Educación Infantil: Dimensiones y Variables a considerar. Revista Iberoamericana de Educación, (47). Recuperado de https:// rieoei.org/historico/documentos/rie47a03.htm
+Instituciones diversas5 (2018). El Plan Inicial – EPI. Propuestas para la Educación Parvularia.
+Junta Nacional de Jardines Infantiles (2010). El enfoque territorial en el trabajo educativo de JUNJI. Santiago, Chile: JUNJI.
+
+(5) Instituciones convocantes: Centro de Estudios de Desarrollo y Estimulación Psicosocial (CEDEP); CENTRE UC - Centro UC para la transformación educativa; CEP - Centro de Estudios Públicos; Centro de Estudios Primera Infancia(CEPI); Centro de investigación avanzada en Educación(CIAE); Centro de Investigación y Desarrollo de la Educación (CIDE); Centro Justicia Educacional (CJE); Colegio de Educadores de Párvulos; Consejo de Decanos de Facultades de Educación del CRUCH (CONFAUCE); Educación 2020; Elige Educar; Federación de Estudiantes de la Pontificia Universidad Católica de Chile (FEUC); Focus; Fundación Ilumina; Fundación Infancia Primero; Fundación Niños Primero; Fundación Educacional Oportunidad; Hogar de Cristo; Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO); Fondo de las Naciones Unidas para la Infancia (UNICEF).
+Instituciones adherentes: América Solidaria, Comunidad de Organizaciones Solidarias, Corporación Municipal de Renca, Educa Araucanía, Fundación Crispilago, Fundación Cristo Vive, Fundación Educacional Alma, Fundación Educacional Arauco, Fundación Educacional Choshuenco, Fundación Educacional , Niños al Centro - Comité para la Infancia y la Familia, Observatorio del Juego, Puentes Educativos, Siegard, Universidad Central.Cristo Joven, Fundación Minera Escondida, Fundación Mis Talentos, Fundación Portas, Fundación SUMMA, Ideas para la Infancia
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+71
+
+[página 37 del PDF]
+Junta Nacional de Jardines Infantiles (2014). Trabajo con familias en la comunidad educativa: el valor de la diversidad. Santiago, Chile: JUNJI.
+Junta Nacional de Jardines Infantiles (2015). La práctica reflexiva. Santiago, Chile: JUNJI.
+Junta Nacional de Jardines Infantiles (s.f.). Construcción de ambientes significativos: apego espacial. Santiago, Chile: JUNJI. Recuperado de https://caue.junji.gob.cl/pluginfile.php/133/mod_page/content/87/ Cartillas/Apego_Espacial.pdf
+Junta Nacional de Jardines Infantiles (s.f.). ¿Evaluación del aprendizaje o para el aprendizaje? Santiago, Chile: JUNJI. Recuperado de https://caue.junji.gob.cl/pluginfile.php/196/mod_page/content/13/Evaluacion_ aprendizaje2.pdf
+Junta Nacional de Jardines Infantiles (s.f.). Los niños y niñas como protagonistas en la educación parvularia. Santiago, Chile: JUNJI. Recuperado de https://caue.junji.gob.cl/pluginfile.php/197/mod_page/ content/33/Nin%CC%83osyNin%CC%83as_Protagonistas_educacio%CC%81n%20parvularia..pdf
+Kamerman, S. B. (2000). Early Childhood Education and Care: An Overview of Developments in the OECD Countries. International Journal of Educational Research, 33 (1), 7-29.
+Karila, K. y Kinos, J. (2012). Acting as a Professional in a Finnish Early Childhood Context. En Miller L., Dalli C. y Urban M. (eds), Early Childhood Grows Up. International Perspectives on Early Childhood Education and Development, 6, 55-69. Dordrecht, Springer.
+León, A. (2012). Significados de una Trayectoria Educativa: Evaluación del Éxito y el Fracaso desde la Reconstrucción Subjetiva de Adultos de la V Región. Valparaíso: Universidad de Valparaíso.
+Ley N°20.370. Establece la Ley General de Educación. Diario Oficial de la República de Chile, Santiago de Chile, 02 de julio de 2010.
+Ley N°20.529. Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media y su Fiscalización. Diario Oficial de la República de Chile, Santiago de Chile, 27 de agosto de 2011.
+Ley N°20.835. Crea la subsecretaría de Educación Parvularia, la Intendencia de Educación Parvularia y modifica diversos recursos legales. Diario Oficial de la República de Chile, Santiago de Chile, 15 de mayo de 2015.
+Ley N°20.845. De inclusión escolar que regula la admisión de los y las estudiantes, elimina el financiamiento compartido y prohíbe el lucro en establecimientos educacionales que reciben aportes del estado. Diario Oficial de la República de Chile, Santiago de Chile, 08 de junio de 2015.
+Ley N°20.903. Crea el Sistema de Desarrollo Profesional Docente y modifica otras normas. Diario Oficial de la República de Chile, Santiago de Chile, 01 de abril de 2016.
+Ley N°20.911. Crea el plan de formación ciudadana para los establecimientos educacionales reconocidos por el Estado. Diario Oficial de la República de Chile, Santiago de Chile, 02 de abril de 2016.
+
+72
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+López I., Ridao P. y Sánchez J. (2004). Las Familias y las Escuelas: Una Reflexión acerca de Entornos Educativos Compartidos. Revista de Educación, 334, 143-163. Recuperado de https://idus.us.es/xmlui/ handle/11441/31865
+
+Martinic, S. (2017). Sistematización de Jornadas Nacionales de Participación y Validación y Consulta Online sobre el Marco para la Buena Enseñanza de Educación Parvularia. Resumen Ejecutivo. MINEDUC-SdEP.
+
+Martinic, S., Aranis, D. y Langer, P. (2017). Consulta Online Ajuste Marco para la Buena Enseñanza de Educación Parvularia. MINEDUC-SdEP.
+
+Martinic, De Gregorio y Wijnan (2017). Sistematización de Preguntas Abiertas Consulta Online sobre el Marco para la Buena Enseñanza de Educación Parvularia. MINEDUC-SdEP.
+
+Martinic, S., Díaz, A., Marín, A. & Ibieta, E. (2017). Sistematización de Jornadas Nacionales de Validación y Participación sobre el Marco para la Buena Enseñanza de Educación Parvularia. MINEDUC-SdEP.
+
+Ministerio de Educación (S/f). Estándares para la Formación Inicial Docente. Sistema de Participación. Recuperado de: Estándares para la Formación Inicial Docente. Sistema de Participación. website: http:// www.estandaresfid.cl/info/3
+
+Ministerio de Educación (2001). Bases Curriculares de la Educación Parvularia. Santiago, Chile: MINEDUC.
+
+Ministerio de Educación (2001). Política Nacional a Favor de la Infancia y la Adolescencia 2001 – 2010. Santiago, Chile: MINEDUC.
+
+Ministerio de Educación (2002). Política de Participación de Padres, Madres y Apoderados/das en el Sistema Educativo. Santiago, Chile: MINEDUC.
+
+Ministerio de Educación (2004). Criterios Técnicos sobre Articulación Curricular entre los Niveles de Educación Parvularia y Enseñanza Básica. Santiago, Chile: MINEDUC.
+
+Ministerio de Educación (2005). Educación Parvularia, Programa Pedagógico Primer Nivel de Transición. Santiago, Chile: MINEDUC.
+
+Ministerio de Educación (2005). Educación Parvularia, Programa Pedagógico Segundo Nivel de Transición. Santiago, Chile: MINEDUC.
+
+Ministerio de Educación (2006). Evaluación para el Aprendizaje: Enfoque y materiales prácticos para lograr que sus estudiantes aprendan más y mejor. Santiago, Chile: MINEDUC.
+
+Ministerio de Educación (2009). Orientaciones para la implementación de los Programas Pedagógicos de los Niveles de Transición. Santiago, Chile: MINEDUC.
+
+Ministerio de Educación (2011). Estándares Orientadores para Carreras de Parvularia: Estándares pedagógicos y Estándares disciplinarios. Santiago, Chile: Recuperado de http://portales.mineduc.cl/usuarios/cpeip/doc/201205111816290. LibroEstandaresOrientadoresCarrerasEducaciOnParvulariaconcarta.pdf
+
+Educación MINEDUC.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+73
+
+[página 38 del PDF]
+Ministerio de Educación (2012a). Estándares Orientadores para Carreras de Educación Parvularia: Estándares pedagógicos y Estándares disciplinarios. Santiago, Chile: MINEDUC. Recuperado de https:// www.cpeip.cl/estandares-orientadores-para-la-formacion-inicial-docente/
+Ministerio de Educación (2012b). Orientaciones técnicas para la elaboración del Plan de Mejoramiento Educativo. Santiago, Chile: MINEDUC. Recuperado de http://portales.mineduc.cl/usuarios/media/ File/2012/Noviembre/OrientacionesTEcnicas_PME_SEP_2013.pdf
+Ministerio de Educación (2014). Diálogos Técnicos acerca de Educación Parvularia. Informe de Sistematización del Plan Nacional de Participación Ciudadana. Santiago, Chile: MINEDUC.
+Ministerio de Educación (2014). Propuestas para el Diseño de Política de Educación Inclusiva en Educación Parvularia: En relación a Niños y Niños en Situación de Discapacidad. Santiago, Chile: MINEDUC.
+Ministerio de Educación (2016b). Educación para la Igualdad de Género. Plan 2015 – 2018. Santiago, Chile: MINEDUC.
+Ministerio de Educación (2016a). Orientaciones para la Elaboración del Plan de Formación Ciudadana. Santiago, Chile: MINEDUC.
+Ministerio de Educación (2016c). Plan de Aseguramiento de la Calidad Escolar 2016-2019. Santiago, Chile: MINEDUC.
+Ministerio de Educación (2018). Política Nacional de Estudiantes Extranjeros 2018-2022. Santiago, Chile: MINEDUC.
+Ministerio de Educación y Cultura (2014). Marco Curricular para la Atención y Educación de Niñas y Niños Uruguayos. Uruguay. Recuperado de https://www.mec.gub.uy/innovaportal/file/70997/1/marcocurricular_primera-infancia_version-digital-2.pdf
+Ministry of Education (2010). Preschool Educational Practice: Guidelines for Preschool Teachers. Israel. Recuperado de http://www.oecd.org/edu/school/48990155.pdf
+Moll, L., Amanti, C., Neff, D. & Gonzalez, N. (1992). Funds of Knowledge for Teaching: Using a Qualitative Approach to Connect Homes and Classrooms, Theory into Practice, 31 (2), 132-141.
+Moreira, M. (2012). Aprendizaje Significativo, Campos Conceptuales y Pedagogía de la Autonomía: Implicaciones para la Enseñanza, Revista Meaningful Learning Review, 2 (1), 44-65.
+Moreno, F., De la Herrán, A. (2017). Conocimientos Disciplinares y Pedagógicos de las Educadoras de Párvulos en Chile. Profesorado. Revista de Currículum y Formación de Profesorado, 21 (1), 233-251. Recuperado de https://www.redalyc.org/articulo.oa?id=56750681011
+Morrison, G. (2005). Educación Preescolar. Madrid. Pearson.
+Muñoz, C. (s.f.). ¿Cómo Potenciar el Lenguaje de Niños y Niñas? Fundación Integra.
+
+74
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Muñoz, G. (2008). No Hay Escuela Efectiva, Sin Clase Efectiva. Revista de Educación, 336, 15-18. Santiago, Chile: MINEDUC.
+
+NAEYC (s.f.). What Is Professional Development in Early Childhood Education? Recuperado de http:// www.cityofmadison.com/dpced/communitydevelopment/funding/documents/AreaVI/Resources/ SpecializedTrainProfDev/WhatIsProfessionalDevelopmentinEarlyChildhoodEducation.pdf
+
+NAEYC (2003). Early Childhood Curriculum, Assessment, and Program Evaluation—Building an Effective, Accountable System in Programs for Children Birth Through Age 8. Self-Assessment and Planning Tool for Curriculum and Assessment. Recuperado de https://www.naeyc.org/sites/default/files/globally-shared/ downloads/PDFs/resources/position-statements/pscape.pdf
+
+NAEYC (2009). Standards for Early Childhood Professional Preparation Programs Position Statement Approved by the NAEYC Governing Board. Recuperado de https://www.naeyc.org/sites/default/files/ globally-shared/downloads/PDFs/resources/position-statements/2009%20Professional%20Prep%20 stdsRevised%204_12.pdf
+
+NAEYC (2010). Standards for Initial Early Childhood Professional Preparation. Recuperado de https:// www.naeyc.org/sites/default/files/globally-shared/downloads/PDFs/our-work/higher-ed/NAEYC-InitialProfessional-Preparation-Standards-Summary.pdf
+
+NAEYC (2013). NAEYC Professional Preparation Standards Self-Review Instrument. Recuperado de https:// www.naeyc.org/sites/default/files/globally-shared/downloads/PDFs/our-work/higher-ed/NAEYC-ProfPrep-Standards-Self-Review-Instrument.pdf
+
+NAEYC (2014). Strategic Direction. 89. Recuperado de https://www.naeyc.org/files/naeyc/SPL_2014NAEYC_ Strategic%20direction%20%281%29.pdf
+
+National Council for Curriculum and Assessment (2009). Aistear: The Early Childhood Curriculum Framework. Dublin.
+
+National Research and Development Centre for Welfare and Health-STAKES (2003). National Curriculum Guidelines on Early Childhood Education and Care in Finland (English Translation). Ministry of Social Affairs and Health. Recuperado de https://www.julkari.fi/bitstream/handle/10024/75535/267671cb0ec0-4039b97b7ac6ce6b9c10.pdf?sequence=1
+
+Neylon, G. (2013). An Analysis of the Free Pre-School Year in Early Childhood Care and Education (ECCE) Scheme–from a Practitioner’s Perspective. In International Conference on Engaging Pedagogy 2012 (ICEP12) ITB. Recuperado de http://www.sciencedirect.com/science/article/pii/S0883035599000415
+
+Oficina Internacional de Educación de la UNESCO (2006). Israel: Early Childhood Care and Education (ECCE) Programmes. Recuperado de https://unesdoc.unesco.org/ark:/48223/pf0000147213
+
+Ontario. Ministry of Children and Youth Services. Best Start Expert Panel on Early Learning (2006). Early learning for every child today: A framework for Ontario early childhood settings. Toronto, Ontario, Canada: Ontario, Ministry of Children and Youth Services. Recuperado de http://www.children.gov.on.ca/NR/CS/ Publications/en_elf.pdf (no longer accessible as of november 19, 2010).
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+75
+
+[página 39 del PDF]
+Organisation for Economic Co-operation and Development (2010). Strong Performers and Successful Reformers in Education: Lessons from PISA for the United States. OECD. Recuperado de http://www.oecd. org/pisa/pisaproducts/46581035.pdf
+Organisation for Economic Co-operation and Development (2015). Starting Strong IV: Monitoring Quality in Early Childhood Education and Care. OECD.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (1994). Informe Final de la Conferencia Mundial sobre Necesidades Educativas Especiales: Acceso y Calidad. Salamanca, España, 7-10 de junio de 1994. París: UNESCO.
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (2005). Guidelines for Inclusion: Ensuring Access to Education for All. París: UNESCO. Recuperado de http://www.ibe.unesco.org/ sites/default/files/Guidelines_for_Inclusion_UNESCO_2006.pdf
+Organización de Naciones Unidas Chile. (2019). Objetivos de Desarrollo Sostenible. Recuperado de http:// www.onu.cl/es/sample-page/odm-en-chile/
+Organización para la Cooperación y el Desarrollo Económico (2017). Panorama de la Educación. Indicadores de la OCDE. Fundación Santillana.
+Organización Internacional del Trabajo (1998). Chile, Crecimiento, Empleo y el Desafío de Justicia Social. Santiago, Chile.
+Organización Mundial Contra la Tortura y Corporación de Oportunidad y Acción Solidaria OPCION (2007). Derechos de los Niños en Chile. Informe Alternativo al Comité de los Derechos del Niño de las Naciones Unidas sobre la Aplicación de la Convención 324 ¿Enfoque de Derechos o Enfoque de Necesidades? Sobre los Derechos del Niño en Chile. Santiago: OMCT y Opción.
+Organización de Estados Iberoamericanos. Educación Inicial: Organización y Perspectivas del Nivel Inicial en Iberoamérica. Recuperado de https://www.oei.es/historico/observatorio2/organizacion.htm
+Organización Mundial para la Educación Escolar (2018). El Conocimiento Construido en América Latina: La Educación y Atención en la Primera Infancia. Estado del Arte de Publicaciones e Investigaciones de la OMEP 2005-2016. Recuperado de http://www.omeplatinoamerica.org/wp-content/uploads/2018/05/ EL-CONOCIMIENTO-CONSTRUIDO-EN-AM%C3%89RICA-LATINA-1.pd
+Osorio, K. y López, A. (2014). La Retroalimentación Formativa en el Proceso de Enseñanza-Aprendizaje de Estudiantes en Edad Preescolar. Revista Iberoamericana de Evaluación Educativa, 7 (1), 13-30.
+Ostrosky, M. & Meadan, H. (2010). Helping Children Play and Learn Together. Reprinted from Young Children, 104-110. Recuperado de https://www.naeyc.org/files/yc/file/201001/OstroskyWeb0110.pdf
+Paniagua, G. y Palacios, J. (2005) Educación Infantil: Respuesta educativa a la diversidad. Madrid: Alianza Editorial.
+
+76
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Peña, A. y Castro, Á. (2012). Profe: te invito a jugar. El juego un espacio para la participación infantil. Revista Aletheia, 4 (2), 118-129. Recuperado de https://www.academia.edu/24814813/PROFE_TE_INVITO_A_ JUGAR._EL_JUEGO_UN_ESPACIO_PARA_LA_PARTICIPACI%C3%93N_INFANTIL_VOL_4_NO._2
+
+Peralta, M. (2006). Articulación entre Educación Parvularia y Básica. Chile: LOM.
+
+Perrenoud, P. (1994). Saberes de Referencia, Saberes Prácticos en la Formación de los Enseñantes: Una Oposición Discutible. En Compte-Rendu des Travaux des Formateurs de l’IUFM, Grenoble, IUFM, 25-31.
+
+Pianta, R. (2006). Standardized Classroom Observations from Pre-k to 3rd grade: A Mechanism for Improving Access to Consistently High Quality Classroom Experiences and Practices During the P-3 years. En Early Childhood Research Collaborative. Recuperado de https://www.fcd-us.org/standardized-classroomobservations-from-pre-k-to-third-grade-a-mechanism-for-improving-quality-classroom-experiencesduring-the-p-3-years/
+
+Pianta, R. C., La Paro, K. M., & Hamre, B. K. (2008). Classroom Assessment Scoring SystemTM: Manual K-3. Paul H. Brookes Publishings Company.
+
+Pianta, R. (2012). Handbook of Early Childhood Education. New York: The Guilford Press.
+
+Pianta, R. C., La Paro, K. M., & Hamre, B. K. (2012). Classroom Assessment Scoring System (CLASS) Manual, Toddler. Paul H. Brookes Publishing Company.
+
+Pla, M., Cano, E. y Lorenzo, N. (2001). María Montessori: El Método de la Pedagogía Científica. En J. Trilla (coord.), El Legado Pedagógico del Siglo XX para la Escuela del Siglo XXI (pp. 69-94). Barcelona: Graó.
+
+Pontificia Universidad Católica de Valparaíso (2016). Diseño de Criterios, Orientaciones y Descriptores para la Enseñanza y Aprendizaje de los Párvulos. Informe Final.
+
+Programa de las Naciones Unidas para el Desarrollo (2007). Comité de los Derechos del Niño. 44º período de sesiones. Examen de los Informes Presentados por los Estados Parte con Arreglo al Artículo 44 de la Convención. Observaciones Finales. Chile. Nueva York: Naciones Unidas.
+
+Programa Estado de la Nación (2011). Decimoséptimo Informe Estado de la Nación en Desarrollo Humano Sostenible. San José, Programa Estado de la Nación. Recuperado de https://estadonacion.or.cr/190estado-de-la-nacion/estado-de-la-nacion/126-informe-xvii-estado-de-la-nacion-2011
+
+Putnam, R., y Borko, H. (2000). El Aprendizaje del Profesor: Implicaciones de las Nuevas Perspectivas de la Cognición. En I. F. Goodson, T. L. Good y B. J. Biddle (Ed.), La Enseñanza y los Profesores I. La Profesión de Enseñar (pp. 219-309). Barcelona: Paidós.
+
+Ramírez, A. (2007). Estrategia de Aprendizaje y Comunicación. Colombia: Editorial EDUCC.
+
+Real Academia de la Lengua Española. Recuperado de http://www.rae.es/
+
+Restrepo, B. (2004). La investigación-acción educativa y la construcción de saber pedagógico. Educación y Educadores, (7), 45-55.
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+77
+
+[página 40 del PDF]
+Riera, M.A. (2005). El Espacio-Ambiente en las Escuelas de Reggio Emilia. Indivisa. Boletín de Estudios e Investigación, 03, 27-36.
+
+Rinaldi, C. (2009). En Diálogo con Reggio Emilia. Lima: Norma.
+
+Ritchie, J. & Skerrett, M. (2015). Early Childhood Education in Aotearoa New Zealand. Recuperado de https://www.researchgate.net/publication/237545128_Early_Childhood_Care_and_Education_in_ Aotearoa_-_New_Zealand_An_overview_of_history_policy_and_curriculum
+
+Rojas, C. (2011). Ética professional docente: un compromise pedagógico humanístico. Revista Humanidades, 1, 1-22.
+
+Rosemberg, C. y Menti, A. (2013). Aspectos Teóricos y Metodológicos del Estudio de la Interacción y de las Oportunidades para el Desarrollo del Lenguaje. En Paoloni, M. C. Rinaudo y A. González (Comp.), Cuestiones en Psicología Educacional. Perspectivas Teóricas, Metodológicas y Estudios de Campo. Recuperado de https://www.academia.edu/8230566/Aspectos_te%C3%B3ricos_y_metodol%C3%B3gicos_del_ estudio_de_la_interacci%C3%B3n_y_de_las_oportunidades_para_el_desarrollo_del_lenguaje
+
+Sahlberg, P. (2011). Lessons from Finland. American Educator, 35 (2), 32-36. Recuperado de https:// pasisahlberg.com/wp-content/uploads/2013/01/Lessons-from-Finland-AE-2011.pdf
+
+Sahlberg, P. (2015). Un Sistema Escolar Modelo. Finlandia Demuestra que la Equidad y la Excelencia Pueden Coexistir en la Educación. Pensamiento Educativo. Revista de Investigación Educacional Latinoamericana, 52 (1), 136-145. Recuperado de http://pensamientoeducativo.uc.cl/index.php/pel/ article/download/746/1380
+
+Salas, R. (2003). ¿La Educación Necesita Realmente de la Neurociencia? Estudios Pedagógicos, (29), 155171.
+
+Sánchez, S. (s.f.). Los contenidos de aprendizaje. Universidad Autónoma del Estado de México. Recuperado de http://www.seduca2.uaemex.mx/ckfinder/uploads/files/los_contenidos_de_ap_-1-_.pdf
+
+Sanchidrián, C. y Ruiz, J. (2010). Historia y Perspectiva Actual de la Educación Infantil. Barcelona: Grao.
+
+Sanmartí, N. (2007). 10 Ideas Clave. Evaluar para Aprender. Barcelona, Graó
+
+Santos Guerra, M. A. (2007). Una Flecha en la Diana: La Evaluación como Aprendizaje. Madrid, España: Narcea.
+
+Schön, D. (1998). El Profesional Reflexivo. Cómo Piensan los Profesionales Cuando Actúan. Barcelona: Paidós.
+
+Servicio Nacional de Menores (2006). Sistemas Locales de Protección de Derechos de la Infancia y Adolescencia: Una Aproximación Conceptual y de Aplicación Práctica. Documento de Trabajo. Santiago.
+
+Shulman, L. (2005). Conocimiento y Enseñanza: Fundamentos de la Nueva Reforma del Profesorado. Revista de Currículum y Formación del Profesorado, 9 (2), 1-30.
+
+78
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+Shulman, L. (1987). Knowledge and Teaching: Foundations of the New Reform. Harvard Educational Review, 57, (1), 1-23.
+
+Shulman, L. (1986). Those Who Understand: Knowledge Growth in Teaching. Educational Researcher, Vol. 15, N° 2. Pp. 4-14. Extraído el 28/01/2019 de: http://www.jstor.org/stable/1175860
+
+Simari, G. y Torneiro, M. (2009). Autoevaluación Docente (s.a.). Un Momento para Reflexionar Sobre Nuestra Práctica. Extraído el 25/01/2019 de http://educacionenconstruccion.blogspot.com/2009/02/ autoevaluacion-docente-un-momento-para.html
+
+Subsecretaría de Educación Parvularia (2018a). Bases Curriculares Educación Parvularia. Santiago, Chile: Ministerio de Educación.
+
+Subsecretaría de Educación Parvularia (2018b). Orientaciones para Elaborar el Proyecto Educativo Institucional (PEI) en Establecimientos de Educación Parvularia. Santiago, Chile: Ministerio de Educación.
+
+Subsecretaría de Educación Parvularia (2018c). Buen trato: Orientaciones Técnico Pedagógicas para el Nivel de Educación Parvularia. Santiago, Chile: Ministerio de Educación.
+
+Swedish National Agency of Education (2010). Curriculum for the preschool lpfö 98. Revised 2010. Ministry of Education and Science in Sweden [Utbildningsdep.], Regeringskansliet. Recuperado de https:// www.skolverket.se/getFile?file=2704
+
+Taguma, M., Litjens, I. & Makowicecki, K. (2012). Quality Matters in Early Childhood Education and Care: Finland. OECD. Recuperado de http://www.oecd.org/education/school/49985030.pdf
+
+Taguma, M., Litjens, I. & Makowiecki, K. (2012). Quality Matters in Early Childhood Education and Care: Sweden. Recuperado de http://www.oecd.org/education/school/SWEDEN%20policy%20profile%20 -%20published%2005-02-2013.pdf
+
+Tankersley, D. & Ionescu, M. (Eds.). (2016). A Quality Framework for Early Childhood Practice in Services for Children Under Three Years of Age. Leiden: ISSA.
+
+Tardif, M. (2004). Los Saberes del docente y su Desarrollo Profesional. Madrid, España: Narcea.
+
+Teachstone Training (2011). El Sistema CLASSTM. Charlottesville.
+
+Tobar, M. (2012). ¿Qué es la nueva cultura del aprendizaje? Maestros del Web. Recuperado de http://www. maestrosdelweb.com/que-es-la-nueva-cultura-del-aprendizaje/
+
+Treviño, E., Varela, C., Romo, F. y Núñez, V. (2015). Presencia de Lenguaje Académico en las Educadoras de Párvulo y su Relación con el Desarrollo del Lenguaje de los Niños. Calidad en la Educación, (43), 137-168. Recuperado de https://scielo.conicyt.cl/pdf/caledu/n43/art05.pdf
+
+Ulloa, J y Gajardo, J. (2016). Observación y Retroalimentación Docente como Estrategias de Desarrollo Profesional Docente. Nota Técnica N°7. Líderes Educativos, Centro de Liderazgo para la Mejora Escolar. Chile: Universidad de Concepción. Recuperado de https://www.lidereseducativos.cl/wp-content/uploads/2017/01/NT-7.pdf
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+79
+
+[página 41 del PDF]
+Universidad de Chile (2016). Diseño de Criterios, Orientaciones y Descriptores Respecto de la Generación de un Ambiente Propicio para el Aprendizaje por Parte del/la Educador/a de Párvulos. Departamento de Educación.
+Universidad de Concepción (2016). Diseño de Criterios y Orientaciones Pedagógicas para la Enseñanza y el Aprendizaje de todos los Niños y Niñas del Nivel de Educación Parvularia.
+Universidad Diego Portales (2016). Informe Estudio Prácticas Pedagógicas: Preparación de la Enseñanza. Facultad de Educación, Equipo Pedagógico en Educación Parvularia.
+Valdivia, S. (2014). Retroalimentación Efectiva en la Enseñanza Universitaria. Blanco y Negro, 5 (2), 20-24.
+Viquez, I. (noviembre de 2014). Las TIC en la educación inclusiva e influencia en el aprendizaje de preescolares. En D. Pulfer (Presidencia). Congreso Iberoamericano de Ciencia, Tecnología, Innovación y Educación. Congreso llevado a cabo en Buenos Aires, Argentina.
+Vosniadou, S. (2006). Cómo aprenden los niños. Serie prácticas educativas, 7, Ciudad de México, México. Recuperado de https://www.uv.mx/rmipe/files/2017/02/Como-aprenden-los-ninos.pdf
+Vygotsky, L. S. (1979). El Desarrollo de los Procesos Psicológicos Superiores. Barcelona: Crítica.
+
+80
+
+MARCO PARA LA BUENA ENSEÑANZA DE EDUCACIÓN PARVULARIA
+
+[página 42 del PDF]
+MARCO
+PARA LA BUENA
+ENSEÑANZA
+DE EDUCACIÓN
+PARVULARIA
+

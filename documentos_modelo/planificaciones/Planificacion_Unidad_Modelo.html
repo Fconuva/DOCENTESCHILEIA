@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planificación de unidad | Docentes Chile IA</title>
+    <style>
+        @page {
+            size: A4 landscape;
+            margin: 12mm;
+        }
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+            font-size: 9.5pt;
+            line-height: 1.4;
+            color: #1b1b1b;
+            background: #eef0f3;
+        }
+        .sheet {
+            width: 297mm;
+            margin: 8mm auto;
+            padding: 12mm;
+            background: #ffffff;
+        }
+        h1 { font-size: 14pt; margin-bottom: 1mm; }
+        .sub { font-size: 9pt; color: #444; margin-bottom: 4mm; }
+        h2 {
+            font-size: 11pt;
+            border-bottom: 2px solid #1b1b1b;
+            margin: 5mm 0 2mm;
+            padding-bottom: 0.5mm;
+            break-after: avoid;
+        }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 4mm; }
+        th, td { border: 1px solid #777; padding: 1.5mm 2mm; vertical-align: top; text-align: left; }
+        th { background: #e6e6e6; font-weight: 700; }
+        tr { break-inside: avoid; }
+        .rotulo { width: 42mm; font-weight: 700; background: #f3f3f3; }
+        .nota { font-size: 8.5pt; color: #444; margin-top: 3mm; }
+        @media print {
+            body { background: #ffffff; }
+            .sheet { width: auto; margin: 0; padding: 0; }
+        }
+    </style>
+</head>
+<body data-plantilla="modelo-editable">
+<div class="sheet">
+
+    <h1>Planificación de unidad</h1>
+    <p class="sub">[Nombre del establecimiento] · [Asignatura] · [Curso] · Docente: [Nombre] · Año [____]</p>
+
+    <table>
+        <tr>
+            <td class="rotulo">Unidad</td><td>[Número y título]</td>
+            <td class="rotulo">Fechas</td><td>[Inicio y término, o «Semanas __ a __, fechas por confirmar»]</td>
+        </tr>
+        <tr>
+            <td class="rotulo">Clases disponibles</td>
+            <td colspan="3">[Cuenta: semanas × clases por semana − feriados y actividades − evaluación − contingencia = total]</td>
+        </tr>
+        <tr>
+            <td class="rotulo">Propósito</td>
+            <td colspan="3" data-objetivo>[Qué se espera que los estudiantes logren en esta unidad, en dos o tres líneas]</td>
+        </tr>
+    </table>
+
+    <h2>Objetivos de Aprendizaje</h2>
+    <table>
+        <tr><th style="width:18mm">OA</th><th>Texto literal</th><th style="width:60mm">Fuente y página</th><th style="width:60mm">Qué parte se trabaja</th></tr>
+        <tr><td>[OA __]</td><td>[Texto completo del OA]</td><td>[Bases Curriculares …, página __ del PDF]</td><td>[Todo, o la parte que aborda la unidad]</td></tr>
+        <tr><td>[OA __]</td><td>[Texto completo del OA]</td><td>[Fuente y página]</td><td>[Parte]</td></tr>
+    </table>
+
+    <table>
+        <tr><td class="rotulo">Conocimientos</td><td>[Conceptos y contenidos centrales]</td></tr>
+        <tr><td class="rotulo">Habilidades</td><td>[Habilidades de la asignatura que se enseñan y practican]</td></tr>
+        <tr><td class="rotulo">Actitudes</td><td>[Actitud u objetivo transversal que se trabaja y se observa]</td></tr>
+    </table>
+
+    <h2>Evaluación de la unidad</h2>
+    <table>
+        <tr><th>Indicador de evaluación</th><th style="width:22mm">OA</th><th>Evidencia</th><th style="width:28mm">Tipo</th><th style="width:48mm">Instrumento</th><th style="width:30mm">Cuándo</th></tr>
+        <tr><td>[Qué hará, dirá o producirá el estudiante]</td><td>[OA __]</td><td>[Producto o desempeño]</td><td>[Formativa]</td><td>[Rúbrica, pauta, ticket]</td><td>[Semana __]</td></tr>
+        <tr><td>[Indicador]</td><td>[OA __]</td><td>[Evidencia]</td><td>[Sumativa]</td><td>[Prueba con tabla de especificaciones]</td><td>[Semana __]</td></tr>
+    </table>
+
+    <h2>Secuencia</h2>
+    <table>
+        <tr><th style="width:18mm">Semana</th><th style="width:26mm">Fechas</th><th style="width:62mm">Objetivo de la semana (OA)</th><th>Bloque largo</th><th>Bloque corto</th><th style="width:48mm">Evidencia</th></tr>
+        <tr><td>[1]</td><td>[__ al __]</td><td>[Objetivo acotado] ([OA __])</td><td>[Actividad central]</td><td>[Práctica, pendientes o retroalimentación]</td><td>[Qué queda de cada estudiante]</td></tr>
+        <tr><td>[2]</td><td>[__ al __]</td><td>[Objetivo] ([OA __])</td><td>[Actividad]</td><td>[Actividad]</td><td>[Evidencia]</td></tr>
+        <tr><td>[Última]</td><td>[__ al __]</td><td>Evaluación sumativa y contingencia</td><td>[Aplicación]</td><td>[Retroalimentación de resultados]</td><td>[Instrumento aplicado]</td></tr>
+    </table>
+
+    <table>
+        <tr><td class="rotulo">Recursos verificados</td><td>[Texto y páginas, materiales y equipos que existen; lo que falta se marca «por preparar»]</td></tr>
+        <tr><td class="rotulo">Diversificación</td><td>[Barreras previstas en este curso y apoyos que conservan los objetivos]</td></tr>
+        <tr><td class="rotulo">Producto o cierre</td><td>[Si la unidad termina en un producto, cuál y cómo se evalúa]</td></tr>
+    </table>
+
+    <p class="nota">Modelo editable. No existe un formato nacional obligatorio: se adapta al formato del establecimiento. Los indicadores pueden venir del Programa de Estudio o ser propios.</p>
+
+</div>
+</body>
+</html>
